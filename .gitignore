@@ -1,0 +1,7 @@
+# Don't share these files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+*.log

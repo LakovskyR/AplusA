@@ -1,0 +1,1001 @@
+DocID,Specialty,YearsPractice,PrescriptionFreq,CriteriaScore,PreferBrand,Comment,Comment_missing
+cf440f61634b8b95,Pulmono,19,Weekly,0.43,No,Je m'appuie principalement sur les traitements validés avec données solides et robustes disponibles.,0
+33a123e5d474e8f3,Onco,11,Daily,0.42,No,Je valorise particulièrement l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+2265f5336d7b6037,Endocrino,9,Weekly,0.45,Yes,Pour ma pratique quotidienne l'éducation thérapeutique approfondie du patient car c'est fondamental. Les effets secondaires constituent un critère absolument déterminant.,0
+bed7abeac56e560a,GP,5,Monthly,0.76,Yes,J'intègre systématiquement le profil individuel spécifique de chaque patient avant tout.,0
+080f626098377e96,Cardio,15,Daily,0.14,No,Dans mon exercice le profil individuel spécifique de chaque patient avant tout. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+12a750139ca2e4c1,Onco,12,Daily,0.62,No,"Pour ma pratique quotidienne les preuves scientifiques les plus récentes disponibles dans la littérature. Les recommandations évoluent constamment, il faut rester très informé. L'impact sur la qualité de vie globale compte énormément.",0
+ed35195ae02792a3,Cardio,9,Daily,0.78,No,Je suis très attentif aux retours d'expérience de mes patients.,0
+2f434ba53bd39e79,Endocrino,11,Monthly,0.84,No,Je base toutes mes décisions sur les contre-indications absolues que je vérifie systématiquement. Le coût reste malheureusement un frein majeur pour certains patients.,0
+e32ddc3033b526c2,Cardio,9,Daily,0.43,No,Je base toutes mes décisions sur l'efficacité clinique démontrée plutôt que les considérations économiques. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+9102326afa32b91a,GP,10,Rare,0.4,No,Je tiens particulièrement compte de l'éducation thérapeutique approfondie du patient car c'est fondamental.,0
+d322de085a24ae58,GP,9,Weekly,0.24,No,Mon approche privilégie clairement les retours d'expérience de mes patients au fil du temps.,0
+a7dc9aa658db149b,Onco,8,Weekly,0.6,No,Ma démarche s'appuie sur les recommandations officielles de la HAS mises à jour systématiquement. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+8c53e7b89615ad0a,Endocrino,8,Daily,0.48,No,Je privilégie toujours les traitements validés avec données solides et robustes disponibles. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+72ce87717c0cdc00,GP,10,Weekly,0.45,No,Je me concentre essentiellement sur les retours d'expérience de mes patients au fil du temps.,0
+0683c2bb5f8f1c15,Pulmono,9,Weekly,0.92,No,J'intègre systématiquement les données de vie réelle importantes pour ma pratique quotidienne.,0
+d91f856d4ffd88dd,Cardio,9,Weekly,0.68,No,,1
+3a7d0915bebcba1e,Pulmono,16,Weekly,0.35,Yes,Je tiens particulièrement compte de les interactions médicamenteuses potentielles à surveiller toujours. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+1d3a071aecf272a7,GP,8,Weekly,0.27,No,L'essentiel pour moi reste le profil individuel spécifique de chaque patient avant tout.,0
+fe5ad2812dc8d3f1,Onco,11,Weekly,0.28,Yes,Mon raisonnement clinique privilégie les traitements validés avec données solides et robustes disponibles. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+039d35a39f1d47b9,Cardio,6,Weekly,0.74,No,Je suis très attentif à l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+422446d7512f61f7,Endocrino,10,Weekly,0.28,No,Mon raisonnement clinique privilégie le profil individuel spécifique de chaque patient avant tout.,0
+fa267bb037d77a05,GP,7,Monthly,0.77,No,Les risques d'interactions augmentent avec les polymédications.,0
+8d5cae7d33215998,GP,12,Weekly,0.75,No,Ma pratique repose entièrement sur le rapport bénéfice-risque qui doit impérativement rester favorable.,0
+903479e126a305e4,GP,7,Weekly,0.84,No,Je base toutes mes décisions sur les contre-indications absolues que je vérifie systématiquement. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+7d29060f2cc06f51,Onco,8,Weekly,0.47,No,J'intègre systématiquement l'expérience clinique accumulée au fil de nombreuses années. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+0c03602536bf609f,GP,11,Daily,0.47,No,Je tiens particulièrement compte de l'evidence-based medicine comme socle de ma pratique. Je reste particulièrement vigilant quant aux effets indésirables rares. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+708cd051cd714b48,Endocrino,11,Weekly,0.17,No,Je valorise particulièrement les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+abc4b3a159852b2c,GP,9,Weekly,0.65,Yes,Mon raisonnement clinique privilégie les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+7e406bbc6d5b1e57,GP,6,Daily,0.81,No,Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+c7ec791745cea939,GP,10,Rare,0.31,No,Je tiens particulièrement compte de l'evidence-based medicine comme socle de ma pratique. Je collabore étroitement avec d'autres spécialistes si nécessaire. L'impact sur la qualité de vie globale compte énormément.,0
+11c3fe679912570c,Pulmono,16,Weekly,0.75,Yes,Je considère d'abord systématiquement les interactions médicamenteuses potentielles à surveiller toujours.,0
+ee2e2a8abc246ba3,Pulmono,14,Weekly,0.77,No,J'intègre systématiquement la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+93aa1cb3dc5796b5,Onco,13,Monthly,0.17,No,Pour ma pratique quotidienne les retours d'expérience de mes patients au fil du temps. La compliance est souvent problématique avec les schémas complexes. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+2581665cb758846f,Onco,8,Weekly,0.25,No,,1
+7fdcea7d9e08ce5b,GP,8,Monthly,0.59,No,Mon expérience clinique montre que la personnalisation optimale du traitement selon chaque cas particulier. Je privilégie les génériques quand c'est médicalement approprié.,0
+a5882870f8cff482,Pulmono,11,Weekly,0.31,No,Je tiens particulièrement compte de la simplicité du schéma thérapeutique pour améliorer l'observance. Le coût reste malheureusement un frein majeur pour certains patients.,0
+c1ded8b60ca5b4e1,Cardio,19,Weekly,0.56,Yes,Mon approche privilégie clairement les retours d'expérience de mes patients au fil du temps. La compliance est souvent problématique avec les schémas complexes.,0
+6ad1be13d317c99c,Pulmono,15,Monthly,0.6,No,Ma priorité reste avant tout le rapport bénéfice-risque qui doit impérativement rester favorable. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+44bcf9885e6aa04f,GP,10,Rare,0.78,No,Je tiens particulièrement compte de les contre-indications absolues que je vérifie systématiquement. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+a7e2ce96289c76c2,Pulmono,10,Monthly,0.88,No,J'intègre systématiquement la personnalisation optimale du traitement selon chaque cas particulier.,0
+c2778721257b3e01,GP,9,Weekly,0.29,No,"J'intègre systématiquement l'evidence-based medicine comme socle de ma pratique. Les recommandations évoluent constamment, il faut rester très informé. Je privilégie les génériques quand c'est médicalement approprié.",0
+b114fe4898702cc6,GP,15,Weekly,0.07,Yes,,1
+7935e326be250738,GP,9,Weekly,0.37,No,Mon expérience clinique montre que l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+17251bab825664de,GP,9,Monthly,0.89,No,J'accorde une grande importance à l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+5da727c950388fac,Cardio,8,Weekly,0.23,No,Je suis très attentif à le profil individuel spécifique de chaque patient avant tout.,0
+49d045f8a478853b,Pulmono,8,Weekly,0.38,No,Je base toutes mes décisions sur les facteurs de risque spécifiques à chaque patient. Les risques d'interactions augmentent avec les polymédications.,0
+35468dd57aad8093,Pulmono,9,Monthly,0.42,No,Ma pratique repose entièrement sur l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+9b3b65a7bc03bc72,GP,11,Monthly,0.04,Yes,,1
+b29479dae349fca2,GP,10,Weekly,0.46,Yes,Dans mon exercice l'expérience clinique accumulée au fil de nombreuses années.,0
+2f7436f1d3f6a1dd,GP,8,Monthly,0.15,No,Je considère d'abord systématiquement les traitements validés avec données solides et robustes disponibles. Les patients demandent de plus en plus souvent des alternatives moins chères. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+cd989f27acf849a0,Pulmono,13,Weekly,0.36,No,,1
+5e5e377bacafba5b,GP,15,Weekly,0.42,Yes,Mon raisonnement clinique privilégie l'expérience clinique accumulée au fil de nombreuses années. Le coût reste malheureusement un frein majeur pour certains patients.,0
+e3911179e36ec37b,Cardio,13,Weekly,0.33,No,Ma priorité reste avant tout les retours d'expérience de mes patients au fil du temps. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+978deacd8f440c51,GP,6,Weekly,0.13,No,Je considère d'abord systématiquement les données de vie réelle importantes pour ma pratique quotidienne. L'impact sur la qualité de vie globale compte énormément. La coordination avec la médecine de ville est essentielle.,0
+86e6394bda1c7ce1,Cardio,6,Monthly,0.68,No,J'accorde une grande importance à la simplicité du schéma thérapeutique pour améliorer l'observance. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+1f355930beb5b655,GP,11,Monthly,0.5,Yes,J'accorde une grande importance à l'evidence-based medicine comme socle de ma pratique. La compliance est souvent problématique avec les schémas complexes.,0
+c98ac7271f97863b,GP,9,Weekly,0.83,No,Je me concentre essentiellement sur la tolérance du traitement autant que son efficacité thérapeutique. La compliance est souvent problématique avec les schémas complexes.,0
+f3d73edf8f095605,GP,5,Monthly,0.57,No,Mon expérience clinique montre que l'expérience clinique accumulée au fil de nombreuses années. Je suis très attentif aux retours d'expérience de mes patients. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+0402d8f6dc1a1a34,GP,9,Weekly,0.37,No,Pour ma pratique quotidienne le profil individuel spécifique de chaque patient avant tout. La coordination avec la médecine de ville est essentielle.,0
+1f057b8e0cdcf1f8,GP,20,Weekly,0.63,No,Ma priorité reste avant tout les recommandations officielles de la HAS mises à jour systématiquement. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+107770f1dc9bb028,Endocrino,11,Daily,0.29,Yes,Je m'appuie principalement sur les retours d'expérience de mes patients au fil du temps. La coordination avec la médecine de ville est essentielle. Les risques d'interactions augmentent avec les polymédications.,0
+e87dbd3be40358cd,GP,7,Monthly,0.91,No,"Pour ma pratique quotidienne la simplicité du schéma thérapeutique pour améliorer l'observance. Les recommandations évoluent constamment, il faut rester très informé. Je collabore étroitement avec d'autres spécialistes si nécessaire.",0
+18cd91845bb8d298,GP,8,Weekly,0.47,Yes,Mon expérience clinique montre que le rapport bénéfice-risque qui doit impérativement rester favorable. Le coût reste malheureusement un frein majeur pour certains patients.,0
+90afcace4578767a,GP,8,Weekly,0.13,No,Je valorise particulièrement le rapport bénéfice-risque qui doit impérativement rester favorable.,0
+9360f63bf81fcd61,Pulmono,6,Weekly,0.61,No,J'intègre systématiquement les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+272943394b24c2f0,Endocrino,8,Weekly,0.84,No,Dans mon exercice les guidelines internationales récentes en matière de prescription.,0
+518dd15c39fa71d9,Endocrino,8,Monthly,0.21,Yes,Mon approche privilégie clairement l'éducation thérapeutique approfondie du patient car c'est fondamental. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+c8bc0a8768079ca6,GP,10,Weekly,0.45,Yes,Je tiens particulièrement compte de les retours d'expérience de mes patients au fil du temps. La compliance est souvent problématique avec les schémas complexes.,0
+ca0ec94f1c4140cb,GP,10,Daily,0.45,No,Mon approche privilégie clairement les retours d'expérience de mes patients au fil du temps.,0
+f0179ea77f3a617a,GP,8,Rare,0.74,No,Ma démarche s'appuie sur le profil individuel spécifique de chaque patient avant tout.,0
+0cb3fab6b91dbe42,Cardio,9,Daily,0.82,No,Ma pratique repose entièrement sur les traitements validés avec données solides et robustes disponibles.,0
+9108eec64088fa1c,Cardio,12,Monthly,0.38,No,Je tiens particulièrement compte de le rapport bénéfice-risque qui doit impérativement rester favorable. Les effets secondaires constituent un critère absolument déterminant.,0
+035910bef67fd5bd,Pulmono,22,Weekly,0.3,No,Je tiens particulièrement compte de les traitements validés avec données solides et robustes disponibles.,0
+997a080db5811c48,Pulmono,10,Weekly,0.42,No,Ma démarche s'appuie sur les contre-indications absolues que je vérifie systématiquement. Je suis très attentif aux retours d'expérience de mes patients.,0
+d7107987399714c8,Cardio,8,Monthly,0.47,No,Ma pratique repose entièrement sur les facteurs de risque spécifiques à chaque patient. Les risques d'interactions augmentent avec les polymédications.,0
+e885679cd8c2c5ff,Cardio,11,Daily,0.37,Yes,Dans mon exercice les guidelines internationales récentes en matière de prescription.,0
+0c83a6fd7c72da40,GP,15,Monthly,0.6,No,Je privilégie toujours les retours d'expérience de mes patients au fil du temps. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+b305050ef82c19f8,GP,8,Weekly,0.31,No,Pour ma pratique quotidienne les traitements validés avec données solides et robustes disponibles.,0
+bc0a9a9c0b8f070d,Onco,9,Weekly,0.35,No,Ma démarche s'appuie sur les interactions médicamenteuses potentielles à surveiller toujours. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+c0603a5c0512c79f,GP,8,Monthly,0.34,No,Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+df44a51aa38692fd,Onco,6,Daily,0.09,No,Je privilégie toujours l'evidence-based medicine comme socle de ma pratique. Je privilégie les génériques quand c'est médicalement approprié.,0
+d4367ee308f585b2,Cardio,11,Weekly,0.76,No,Mon approche privilégie clairement la tolérance du traitement autant que son efficacité thérapeutique. Je participe très régulièrement à des formations continues obligatoires.,0
+8bef446932e13680,Cardio,6,Monthly,0.54,No,Ma démarche s'appuie sur les recommandations officielles de la HAS mises à jour systématiquement. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+1ba50b3d386d91f7,GP,7,Monthly,0.8,No,Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+e92687d5d9b963e1,Endocrino,10,Weekly,0.14,No,Mon raisonnement clinique privilégie l'evidence-based medicine comme socle de ma pratique. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+223d35b729abf83c,Cardio,10,Monthly,0.53,Yes,J'accorde une grande importance à les interactions médicamenteuses potentielles à surveiller toujours. Le coût reste malheureusement un frein majeur pour certains patients.,0
+ecf9e20f4db0dfdc,GP,13,Rare,0.11,No,Je prescris en fonction de l'éducation thérapeutique approfondie du patient car c'est fondamental. Le coût reste malheureusement un frein majeur pour certains patients.,0
+75044df661bd8b17,GP,12,Weekly,0.52,No,Je me concentre essentiellement sur la balance efficacité-tolérance dans chaque décision thérapeutique. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+31c709b971dbdd61,GP,13,Weekly,0.21,No,Ma priorité reste avant tout la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+ac0af25480ffa107,Cardio,10,Weekly,0.19,No,Ma pratique repose entièrement sur l'efficacité clinique démontrée plutôt que les considérations économiques. Le coût reste malheureusement un frein majeur pour certains patients.,0
+eb17311605061e6c,GP,8,Monthly,0.55,No,Je base toutes mes décisions sur les données de vie réelle importantes pour ma pratique quotidienne. J'adapte mes prescriptions en fonction du contexte socio-économique. La compliance est souvent problématique avec les schémas complexes.,0
+bb21e4ac82c7e8b1,Endocrino,11,Monthly,0.48,No,Ma pratique repose entièrement sur les traitements validés avec données solides et robustes disponibles. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+76bd04cdbc2adad1,Endocrino,9,Monthly,0.23,Yes,Je prescris en fonction de les guidelines internationales récentes en matière de prescription. Je privilégie les génériques quand c'est médicalement approprié.,0
+264fac46417ea831,GP,7,Rare,0.37,No,Mon expérience clinique montre que la balance efficacité-tolérance dans chaque décision thérapeutique. Je participe très régulièrement à des formations continues obligatoires.,0
+3c88967d9e95f1f3,Endocrino,12,Weekly,0.48,No,Les patients âgés nécessitent une attention particulière accrue.,0
+21aa3f2f15abbdf5,GP,12,Daily,0.31,Yes,L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+34bd31e6df32aae0,Endocrino,9,Weekly,0.31,No,,1
+8937d704e19f0e85,GP,10,Weekly,0.7,Yes,Dans mon exercice les interactions médicamenteuses potentielles à surveiller toujours.,0
+ba8447eb8992c648,GP,6,Monthly,0.87,No,Je prescris en fonction de les interactions médicamenteuses potentielles à surveiller toujours. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+69572bdfc305546b,GP,8,Monthly,0.53,No,Je valorise particulièrement le profil individuel spécifique de chaque patient avant tout.,0
+d9b80e9e54aa62d1,Pulmono,9,Weekly,0.67,No,Mon expérience clinique montre que les traitements validés avec données solides et robustes disponibles. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+342da8cdf1f23ee3,GP,10,Weekly,0.56,No,Je valorise particulièrement les recommandations officielles de la HAS mises à jour systématiquement.,0
+d9b3711365ccca9f,GP,5,Monthly,0.31,No,Je prescris en fonction de la simplicité du schéma thérapeutique pour améliorer l'observance. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+e2a5cc5713e57696,GP,13,Weekly,0.38,No,Je valorise particulièrement le rapport bénéfice-risque qui doit impérativement rester favorable. La coordination avec la médecine de ville est essentielle.,0
+1f88e53e643cd175,GP,7,Weekly,0.34,Yes,Je base toutes mes décisions sur les retours d'expérience de mes patients au fil du temps. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+5f79a47a019da2d3,Pulmono,14,Weekly,0.61,Yes,Le coût reste malheureusement un frein majeur pour certains patients.,0
+484647591d743615,Cardio,10,Weekly,0.47,No,Je tiens particulièrement compte de l'efficacité clinique démontrée plutôt que les considérations économiques. Les patients âgés nécessitent une attention particulière accrue.,0
+5037958992967f80,Onco,6,Rare,0.61,No,J'accorde une grande importance à le profil individuel spécifique de chaque patient avant tout.,0
+4624bff57f728c8b,GP,10,Weekly,0.77,No,Pour ma pratique quotidienne le rapport bénéfice-risque qui doit impérativement rester favorable.,0
+a9a8e6ca44c6e972,GP,5,Monthly,0.3,No,Mon expérience clinique montre que les facteurs de risque spécifiques à chaque patient. Les risques d'interactions augmentent avec les polymédications.,0
+710b67f917752d7d,Endocrino,6,Weekly,0.65,No,Mon raisonnement clinique privilégie les données de vie réelle importantes pour ma pratique quotidienne. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+ab99490ee6a6be59,Endocrino,13,Daily,0.43,No,Je privilégie toujours les interactions médicamenteuses potentielles à surveiller toujours. L'impact sur la qualité de vie globale compte énormément.,0
+34589777719dfdac,GP,9,Daily,0.88,No,Dans mon exercice le rapport bénéfice-risque qui doit impérativement rester favorable. Je suis très attentif aux retours d'expérience de mes patients.,0
+1dbd22500e64bcf4,Cardio,11,Weekly,0.42,No,J'intègre systématiquement les données de vie réelle importantes pour ma pratique quotidienne.,0
+5fce74a5102651f8,Pulmono,15,Daily,0.63,Yes,Mon approche privilégie clairement la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+2db4318dcfca8bcb,GP,9,Weekly,0.52,No,,1
+051c171b41f88be5,Endocrino,15,Weekly,0.83,Yes,Je prescris en fonction de l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+1d9261e6c8bdafb3,GP,12,Monthly,0.69,No,Je tiens particulièrement compte de les données de vie réelle importantes pour ma pratique quotidienne.,0
+bb60677b592556c9,Onco,11,Weekly,0.5,Yes,Je base toutes mes décisions sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je suis très attentif aux retours d'expérience de mes patients. Je participe très régulièrement à des formations continues obligatoires.,0
+edb9cd6e342c20f4,Cardio,15,Daily,0.44,No,Je prescris en fonction de les traitements validés avec données solides et robustes disponibles.,0
+ebef5a8d81aeb91f,GP,7,Monthly,0.5,No,Je me concentre essentiellement sur l'éducation thérapeutique approfondie du patient car c'est fondamental.,0
+77f6ad4e3f2d52d4,Cardio,15,Weekly,0.55,No,Je participe très régulièrement à des formations continues obligatoires.,0
+bb659d34fa80e02c,Onco,13,Rare,0.25,No,Je tiens particulièrement compte de l'efficacité clinique démontrée plutôt que les considérations économiques. Je prends systématiquement le temps d'expliquer le traitement en détail. L'impact sur la qualité de vie globale compte énormément.,0
+e8232a52fb67da18,Endocrino,9,Rare,0.17,Yes,Je me concentre essentiellement sur les retours d'expérience de mes patients au fil du temps. J'adapte mes prescriptions en fonction du contexte socio-économique. Les patients âgés nécessitent une attention particulière accrue.,0
+9ba2114d1f9d6cb5,GP,11,Monthly,0.67,No,Pour ma pratique quotidienne la tolérance du traitement autant que son efficacité thérapeutique. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+7a1d99f57af3b9d1,Cardio,11,Monthly,0.59,No,Je prescris en fonction de l'éducation thérapeutique approfondie du patient car c'est fondamental. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+912f70477afb99e2,Cardio,7,Daily,0.35,No,Je prescris en fonction de les facteurs de risque spécifiques à chaque patient. Les risques d'interactions augmentent avec les polymédications.,0
+fd002947558a8f04,GP,8,Daily,0.49,No,Mon expérience clinique montre que les données de vie réelle importantes pour ma pratique quotidienne. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+670b93f3c1c957b1,GP,12,Monthly,0.42,No,Je considère d'abord systématiquement la personnalisation optimale du traitement selon chaque cas particulier. Le coût reste malheureusement un frein majeur pour certains patients.,0
+821c8bb469ea3111,Cardio,5,Weekly,0.85,No,Je prescris en fonction de les retours d'expérience de mes patients au fil du temps. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+f8a29c24641c3083,Cardio,5,Weekly,0.44,No,Je valorise particulièrement l'evidence-based medicine comme socle de ma pratique.,0
+8e14b613a594098a,GP,8,Monthly,0.22,No,Le coût reste malheureusement un frein majeur pour certains patients.,0
+36c5a3a766115e62,Pulmono,15,Monthly,0.73,Yes,Mon approche privilégie clairement les recommandations officielles de la HAS mises à jour systématiquement. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+e6e1bb7b108f993d,Cardio,12,Weekly,0.67,Yes,Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+595699adb6eda70b,GP,13,Weekly,0.62,Yes,Je m'appuie principalement sur les guidelines internationales récentes en matière de prescription.,0
+d823ca6024f7bd90,GP,10,Daily,0.79,Yes,Les effets secondaires constituent un critère absolument déterminant.,0
+577bafc73d9009af,Endocrino,8,Monthly,0.51,No,Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+14ab717374d9eafc,Endocrino,9,Weekly,0.24,Yes,Pour ma pratique quotidienne les interactions médicamenteuses potentielles à surveiller toujours. Je privilégie les génériques quand c'est médicalement approprié. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+4df01dc5228f44fe,Endocrino,7,Rare,0.55,No,Dans mon exercice l'efficacité clinique démontrée plutôt que les considérations économiques. Je suis très attentif aux retours d'expérience de mes patients.,0
+91c566d287f6f12a,GP,9,Monthly,0.63,No,Je m'appuie principalement sur le rapport bénéfice-risque qui doit impérativement rester favorable. La compliance est souvent problématique avec les schémas complexes. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+00cc40802a804b35,Cardio,7,Daily,0.45,No,L'impact sur la qualité de vie globale compte énormément.,0
+ccf3995772830ef0,Onco,5,Weekly,0.35,No,Je participe très régulièrement à des formations continues obligatoires.,0
+3323db72d9816905,GP,11,Weekly,0.89,No,"Les recommandations évoluent constamment, il faut rester très informé.",0
+cea7948fb24d5dcb,GP,12,Rare,0.65,Yes,Je considère d'abord systématiquement les traitements validés avec données solides et robustes disponibles.,0
+f508437840184719,Pulmono,8,Weekly,0.64,Yes,Mon expérience clinique montre que les facteurs de risque spécifiques à chaque patient. Le coût reste malheureusement un frein majeur pour certains patients.,0
+1dc72d20e27e2978,GP,13,Monthly,0.32,Yes,Mon expérience clinique montre que les contre-indications absolues que je vérifie systématiquement. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+0b13dc63b4f051d2,GP,13,Weekly,0.74,No,"Pour ma pratique quotidienne les facteurs de risque spécifiques à chaque patient. Les recommandations évoluent constamment, il faut rester très informé.",0
+dede16d0e3b222f3,GP,9,Weekly,0.22,No,Je considère d'abord systématiquement les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Les risques d'interactions augmentent avec les polymédications.,0
+e79b25814b67b3e9,GP,10,Rare,0.54,No,Je suis très attentif à les guidelines internationales récentes en matière de prescription. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+6a60bee25c3f8c64,Cardio,7,Daily,0.48,Yes,Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+34a6b5556675013e,GP,12,Monthly,0.42,No,Je base toutes mes décisions sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+f7946ae32143d307,Pulmono,10,Daily,0.54,No,Dans mon exercice la balance efficacité-tolérance dans chaque décision thérapeutique. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+ba67948a604068dd,Cardio,9,Monthly,0.39,No,Mon expérience clinique montre que les données de vie réelle importantes pour ma pratique quotidienne.,0
+6ebad534c7115bf3,Cardio,12,Monthly,0.32,No,Je base toutes mes décisions sur l'éducation thérapeutique approfondie du patient car c'est fondamental. Je participe très régulièrement à des formations continues obligatoires.,0
+022db4f2a004e266,GP,7,Monthly,0.66,No,La coordination avec la médecine de ville est essentielle.,0
+65bd1cfc0de2c8c0,Endocrino,9,Weekly,0.14,No,Je suis très attentif à la balance efficacité-tolérance dans chaque décision thérapeutique. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+7cfbcd5fc9c52ff8,Cardio,16,Daily,0.05,Yes,Mon approche privilégie clairement les retours d'expérience de mes patients au fil du temps. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+adc51db8c70bda53,Pulmono,13,Weekly,0.52,No,Je me concentre essentiellement sur l'expérience clinique accumulée au fil de nombreuses années. L'impact sur la qualité de vie globale compte énormément.,0
+366a71a98646d9bd,Pulmono,8,Weekly,0.5,No,Je considère d'abord systématiquement l'efficacité clinique démontrée plutôt que les considérations économiques. Je privilégie les génériques quand c'est médicalement approprié.,0
+99bc91cb663f5360,Endocrino,13,Monthly,0.61,No,Dans mon exercice les recommandations officielles de la HAS mises à jour systématiquement.,0
+9ad6bb94ea09067c,Cardio,8,Weekly,0.26,No,"Ma priorité reste avant tout les interactions médicamenteuses potentielles à surveiller toujours. Les recommandations évoluent constamment, il faut rester très informé.",0
+5b27ec276df802c3,Pulmono,11,Daily,0.67,No,Pour ma pratique quotidienne les données de vie réelle importantes pour ma pratique quotidienne.,0
+f334a3aaef5765ef,Cardio,12,Monthly,0.63,No,L'impact sur la qualité de vie globale compte énormément.,0
+065999867d71084c,GP,9,Monthly,0.76,Yes,Mon raisonnement clinique privilégie les guidelines internationales récentes en matière de prescription. La coordination avec la médecine de ville est essentielle.,0
+34e14f011de27b61,GP,18,Rare,0.3,Yes,Je base toutes mes décisions sur les retours d'expérience de mes patients au fil du temps.,0
+e5bcedcd60bd1ed1,Onco,10,Weekly,0.47,No,Pour ma pratique quotidienne les retours d'expérience de mes patients au fil du temps. L'observance thérapeutique reste un défi majeur quotidien que je constate. Le coût reste malheureusement un frein majeur pour certains patients.,0
+51e2a7a2362549b4,GP,10,Weekly,0.21,No,J'intègre systématiquement les facteurs de risque spécifiques à chaque patient. Les effets secondaires constituent un critère absolument déterminant.,0
+91b2441d5919c964,Pulmono,15,Weekly,0.55,No,,1
+c7aad24d52409839,GP,11,Weekly,0.44,Yes,Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+7e7e0beea6391a51,Cardio,10,Weekly,0.27,Yes,Mon raisonnement clinique privilégie le profil individuel spécifique de chaque patient avant tout. La coordination avec la médecine de ville est essentielle.,0
+b8a59a4d111f2ff0,Endocrino,4,Rare,0.26,No,Je base toutes mes décisions sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je privilégie les génériques quand c'est médicalement approprié.,0
+2b56ab3d71604b21,GP,9,Daily,0.44,No,L'essentiel pour moi reste les traitements validés avec données solides et robustes disponibles. Je participe très régulièrement à des formations continues obligatoires.,0
+10677c801c3a5dc6,Endocrino,8,Weekly,0.69,No,Je m'appuie principalement sur le rapport bénéfice-risque qui doit impérativement rester favorable. Les patients âgés nécessitent une attention particulière accrue. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+c8610481b38d0a46,Endocrino,11,Daily,0.17,Yes,J'intègre systématiquement la balance efficacité-tolérance dans chaque décision thérapeutique. La coordination avec la médecine de ville est essentielle.,0
+5e57a41d69222fa9,Cardio,13,Weekly,0.51,Yes,Ma priorité reste avant tout les contre-indications absolues que je vérifie systématiquement. Je suis très attentif aux retours d'expérience de mes patients.,0
+b2a2fd22c85f08a7,Cardio,5,Daily,0.6,No,Je base toutes mes décisions sur les contre-indications absolues que je vérifie systématiquement.,0
+4297463f609b3bb4,GP,10,Weekly,0.53,No,Ma démarche s'appuie sur les recommandations officielles de la HAS mises à jour systématiquement.,0
+d6345a49bd41df3a,Cardio,6,Weekly,0.64,No,Je privilégie toujours les guidelines internationales récentes en matière de prescription.,0
+3b068ef7c1bd2c90,GP,12,Weekly,0.31,No,Je considère d'abord systématiquement la personnalisation optimale du traitement selon chaque cas particulier. Les effets secondaires constituent un critère absolument déterminant.,0
+17df8ae1715d49fc,GP,9,Weekly,0.66,Yes,L'essentiel pour moi reste les recommandations officielles de la HAS mises à jour systématiquement. Je suis très attentif aux retours d'expérience de mes patients.,0
+35b67a2b8898c0e0,Onco,9,Monthly,0.61,Yes,Je considère d'abord systématiquement les comorbidités multiples qui influencent fortement mes choix thérapeutiques. L'impact sur la qualité de vie globale compte énormément.,0
+274283e771e7a060,Cardio,8,Weekly,0.57,No,Je suis très attentif à l'evidence-based medicine comme socle de ma pratique.,0
+67dab25c822a0bec,Endocrino,10,Daily,0.22,No,Je suis très attentif aux retours d'expérience de mes patients.,0
+46b4eb62f07d9b45,Cardio,10,Rare,0.14,No,Dans mon exercice la tolérance du traitement autant que son efficacité thérapeutique. L'impact sur la qualité de vie globale compte énormément.,0
+d0e3e3fdd92cf3c6,GP,8,Weekly,0.67,No,Je me concentre essentiellement sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+b5c7ca9334ca759e,Cardio,10,Weekly,0.8,No,Je considère d'abord systématiquement le profil individuel spécifique de chaque patient avant tout. Je participe très régulièrement à des formations continues obligatoires.,0
+16b5def1edf05454,Pulmono,14,Monthly,0.29,No,Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+cd33e0a8772dc591,GP,10,Weekly,0.3,Yes,Mon expérience clinique montre que la tolérance du traitement autant que son efficacité thérapeutique. Je prends systématiquement le temps d'expliquer le traitement en détail. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+ad79e57cf0be8b67,Pulmono,14,Monthly,0.63,No,Ma démarche s'appuie sur les preuves scientifiques les plus récentes disponibles dans la littérature. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+da2fa308a421def5,Cardio,11,Rare,0.03,Yes,Mon approche privilégie clairement les comorbidités multiples qui influencent fortement mes choix thérapeutiques. J'adapte mes prescriptions en fonction du contexte socio-économique. Je privilégie les génériques quand c'est médicalement approprié.,0
+d944c66e3f2f1e87,GP,9,Weekly,0.14,No,Je me concentre essentiellement sur le rapport bénéfice-risque qui doit impérativement rester favorable. Le coût reste malheureusement un frein majeur pour certains patients. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+c78a468cd77d353b,Cardio,6,Monthly,0.48,No,Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+bf976e94a7f58c68,GP,7,Daily,0.67,No,Pour ma pratique quotidienne les données de vie réelle importantes pour ma pratique quotidienne.,0
+0be76a5529eaec93,GP,10,Weekly,0.43,Yes,Mon raisonnement clinique privilégie l'expérience clinique accumulée au fil de nombreuses années. L'impact sur la qualité de vie globale compte énormément.,0
+cd25b53b7712f958,Pulmono,11,Monthly,0.24,Yes,La coordination avec la médecine de ville est essentielle.,0
+a7c3882a5eef8f32,Pulmono,8,Rare,0.43,No,Pour ma pratique quotidienne les données de vie réelle importantes pour ma pratique quotidienne. Les patients sont souvent peu observants malheureusement dans ma pratique. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+4d8574d2e06ac26e,Pulmono,14,Monthly,0.36,No,Je suis très attentif à les interactions médicamenteuses potentielles à surveiller toujours. Les effets secondaires constituent un critère absolument déterminant. Les risques d'interactions augmentent avec les polymédications.,0
+6a97cfc4d4eed52d,Pulmono,7,Daily,0.53,No,L'essentiel pour moi reste les retours d'expérience de mes patients au fil du temps. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+cc55cb08a07c9ac0,Onco,9,Weekly,0.19,No,J'accorde une grande importance à les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+ec62543b86fabd36,Onco,8,Weekly,0.46,Yes,Je me concentre essentiellement sur la tolérance du traitement autant que son efficacité thérapeutique. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+2f51f7a2e3345074,GP,12,Weekly,0.46,No,Dans mon exercice l'evidence-based medicine comme socle de ma pratique.,0
+0a3740438c5df861,Cardio,14,Rare,0.42,Yes,Mon raisonnement clinique privilégie les données de vie réelle importantes pour ma pratique quotidienne.,0
+f1b3b80721791f13,GP,6,Weekly,0.19,Yes,Je base toutes mes décisions sur la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+46527c80bd76d627,Cardio,9,Weekly,0.64,No,Je suis très attentif aux retours d'expérience de mes patients.,0
+8d3b9d90caa7f39f,Onco,11,Daily,0.64,No,J'accorde une grande importance à les contre-indications absolues que je vérifie systématiquement. Les risques d'interactions augmentent avec les polymédications.,0
+22f8eae377a4c2fa,GP,8,Weekly,0.79,No,Mon approche privilégie clairement la simplicité du schéma thérapeutique pour améliorer l'observance. Les risques d'interactions augmentent avec les polymédications.,0
+ccc3b0fdd2ee35b9,Endocrino,14,Monthly,0.48,No,La coordination avec la médecine de ville est essentielle.,0
+423e4914eff21300,Endocrino,7,Weekly,0.27,No,Je prescris en fonction de les recommandations officielles de la HAS mises à jour systématiquement. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+a3d77c95a260bc12,GP,10,Monthly,0.88,Yes,L'essentiel pour moi reste le rapport bénéfice-risque qui doit impérativement rester favorable. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+5c6829c14576b2de,GP,6,Daily,0.67,No,L'essentiel pour moi reste les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+6b1a122dc09e41ad,Cardio,11,Weekly,0.25,No,Je tiens particulièrement compte de l'evidence-based medicine comme socle de ma pratique. Le coût reste malheureusement un frein majeur pour certains patients.,0
+5870d0374b9e06cc,GP,13,Monthly,0.2,No,"Pour ma pratique quotidienne les facteurs de risque spécifiques à chaque patient. Les recommandations évoluent constamment, il faut rester très informé.",0
+34f30c9c58c755aa,Cardio,11,Daily,0.63,No,Je valorise particulièrement les données de vie réelle importantes pour ma pratique quotidienne.,0
+f6422afaebb44fc5,Cardio,11,Weekly,0.24,No,Mon approche privilégie clairement les guidelines internationales récentes en matière de prescription.,0
+0d9bd228c88f9dde,Cardio,6,Monthly,0.17,No,Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+f082bb9478c2d6b3,GP,12,Weekly,0.59,No,J'intègre systématiquement les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+a7d7c48ee8863740,Cardio,16,Weekly,0.52,No,Je considère d'abord systématiquement les recommandations officielles de la HAS mises à jour systématiquement. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+bcded9f1a5a9651d,GP,16,Monthly,0.83,Yes,Mon expérience clinique montre que les contre-indications absolues que je vérifie systématiquement. Les risques d'interactions augmentent avec les polymédications.,0
+f351c99b0fff9635,Pulmono,17,Rare,0.78,Yes,L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+ac42eae19c66f4a8,GP,7,Weekly,0.9,Yes,J'accorde une grande importance à les traitements validés avec données solides et robustes disponibles. La compliance est souvent problématique avec les schémas complexes.,0
+1d28f9a48c79dff6,Pulmono,13,Monthly,0.33,Yes,Je tiens particulièrement compte de l'expérience clinique accumulée au fil de nombreuses années. Le coût reste malheureusement un frein majeur pour certains patients.,0
+4a79b05c81cd101f,Endocrino,10,Daily,0.44,Yes,J'intègre systématiquement l'evidence-based medicine comme socle de ma pratique. La compliance est souvent problématique avec les schémas complexes. Je privilégie les génériques quand c'est médicalement approprié.,0
+773d6a63f5524075,Pulmono,11,Daily,0.28,Yes,Dans mon exercice la personnalisation optimale du traitement selon chaque cas particulier. L'impact sur la qualité de vie globale compte énormément.,0
+8cc15bf18c721886,GP,16,Weekly,0.19,No,Dans mon exercice les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+02063f22500ba5bb,GP,12,Rare,0.07,No,Je valorise particulièrement les traitements validés avec données solides et robustes disponibles. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+75b06cf010b7f6fd,Cardio,14,Weekly,0.57,Yes,Je considère d'abord systématiquement le profil individuel spécifique de chaque patient avant tout. Le suivi régulier rapproché permet d'ajuster efficacement le traitement. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+25b17015d7353577,GP,14,Weekly,0.23,Yes,J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+429fe3d8367390df,Onco,13,Daily,0.1,No,Je considère d'abord systématiquement les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+99e19b5d8e5fe27e,GP,3,Rare,0.43,No,Je valorise particulièrement les guidelines internationales récentes en matière de prescription.,0
+4c7b53ecc4f0cd59,Onco,7,Weekly,0.26,No,Ma démarche s'appuie sur la tolérance du traitement autant que son efficacité thérapeutique. La coordination avec la médecine de ville est essentielle.,0
+e00086ce0ab939df,Pulmono,9,Weekly,0.26,Yes,L'essentiel pour moi reste les interactions médicamenteuses potentielles à surveiller toujours. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+72c95526e32fa70f,GP,11,Monthly,0.36,Yes,J'accorde une grande importance à les retours d'expérience de mes patients au fil du temps.,0
+6ae1428f5010c95f,Endocrino,17,Monthly,0.44,No,Je me concentre essentiellement sur les retours d'expérience de mes patients au fil du temps. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+2ef910d164d455d9,GP,6,Weekly,0.25,No,Pour ma pratique quotidienne la tolérance du traitement autant que son efficacité thérapeutique. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+fdd879cd1171d5f2,GP,12,Weekly,0.57,No,Je considère d'abord systématiquement le profil individuel spécifique de chaque patient avant tout. L'impact sur la qualité de vie globale compte énormément.,0
+627d53aec9a99982,GP,11,Rare,0.48,Yes,Je m'appuie principalement sur l'éducation thérapeutique approfondie du patient car c'est fondamental.,0
+b3cc10bbe1002933,Onco,14,Rare,0.84,No,Je me concentre essentiellement sur la tolérance du traitement autant que son efficacité thérapeutique.,0
+c0e50e5c7ea7d80c,Cardio,7,Daily,0.11,No,Je suis très attentif à la balance efficacité-tolérance dans chaque décision thérapeutique. Je suis très attentif aux retours d'expérience de mes patients.,0
+1e9dce6ed0e69535,Endocrino,9,Weekly,0.44,Yes,"Mon raisonnement clinique privilégie la personnalisation optimale du traitement selon chaque cas particulier. Je prends systématiquement le temps d'expliquer le traitement en détail. Les recommandations évoluent constamment, il faut rester très informé.",0
+c7affa723648e9ca,GP,11,Weekly,0.48,Yes,Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+0290fb1dba830390,Cardio,12,Weekly,0.75,Yes,Je suis très attentif à le profil individuel spécifique de chaque patient avant tout. La coordination avec la médecine de ville est essentielle. Je suis très attentif aux retours d'expérience de mes patients.,0
+c6c573e17e47c684,GP,15,Monthly,0.53,No,J'intègre systématiquement les interactions médicamenteuses potentielles à surveiller toujours.,0
+fa61bb5fe9169844,GP,11,Weekly,0.65,Yes,J'intègre systématiquement les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+3fb446f7a0e0dc70,GP,9,Monthly,0.49,No,Je considère d'abord systématiquement la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+1fd37517fc3c8835,Cardio,13,Monthly,0.5,Yes,Je m'appuie principalement sur l'evidence-based medicine comme socle de ma pratique.,0
+b1d8d8c2e18d1155,Endocrino,8,Monthly,0.54,Yes,Je tiens particulièrement compte de la personnalisation optimale du traitement selon chaque cas particulier. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+82a730e8c6e43634,GP,7,Rare,0.69,Yes,"Je m'appuie principalement sur les recommandations officielles de la HAS mises à jour systématiquement. Les recommandations évoluent constamment, il faut rester très informé.",0
+6b656023307df59e,Onco,16,Weekly,0.9,Yes,Ma priorité reste avant tout les recommandations officielles de la HAS mises à jour systématiquement. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+4da102915fbce040,GP,12,Weekly,0.6,Yes,Ma priorité reste avant tout les données de vie réelle importantes pour ma pratique quotidienne. La compliance est souvent problématique avec les schémas complexes.,0
+9d398153ef634417,Cardio,12,Monthly,0.77,No,Je tiens particulièrement compte de la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+9d0f809f588cb151,GP,13,Monthly,0.83,No,Pour ma pratique quotidienne les données de vie réelle importantes pour ma pratique quotidienne. L'impact sur la qualité de vie globale compte énormément.,0
+05e670666e8bab34,GP,10,Weekly,0.8,No,Je prescris en fonction de l'efficacité clinique démontrée plutôt que les considérations économiques. Le coût reste malheureusement un frein majeur pour certains patients.,0
+921a2e7e9a0a2e64,Onco,16,Monthly,0.53,No,Ma démarche s'appuie sur les interactions médicamenteuses potentielles à surveiller toujours.,0
+99d73ae459b5bea9,Pulmono,7,Daily,0.59,No,Je me concentre essentiellement sur les guidelines internationales récentes en matière de prescription. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+66239dbfa2a0b69c,Endocrino,14,Daily,0.56,No,Je valorise particulièrement les traitements validés avec données solides et robustes disponibles. Les effets secondaires constituent un critère absolument déterminant. La compliance est souvent problématique avec les schémas complexes.,0
+7f92e8b71837d121,Pulmono,7,Weekly,0.39,No,J'accorde une grande importance à l'efficacité clinique démontrée plutôt que les considérations économiques. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+b59e94d0de1aa88a,Pulmono,11,Rare,0.81,Yes,Je base toutes mes décisions sur l'expérience clinique accumulée au fil de nombreuses années. Je privilégie les génériques quand c'est médicalement approprié.,0
+137ddfbdc07c9574,Endocrino,18,Weekly,0.31,Yes,Je suis très attentif à les guidelines internationales récentes en matière de prescription. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+ddc2740d1b310f07,Pulmono,8,Daily,0.62,No,Mon expérience clinique montre que la simplicité du schéma thérapeutique pour améliorer l'observance. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée. La coordination avec la médecine de ville est essentielle.,0
+cc3b2fb339bd6129,GP,12,Rare,0.86,No,Je valorise particulièrement les recommandations officielles de la HAS mises à jour systématiquement.,0
+fc0fc63e09e52738,Cardio,12,Monthly,0.78,No,Dans mon exercice les comorbidités multiples qui influencent fortement mes choix thérapeutiques. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+0f10e11e25877e0a,Pulmono,9,Monthly,0.27,Yes,Ma pratique repose entièrement sur la tolérance du traitement autant que son efficacité thérapeutique. L'impact sur la qualité de vie globale compte énormément.,0
+4ee6843a07641656,GP,8,Weekly,0.45,No,Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+b906aab74f2270f0,Pulmono,9,Daily,0.48,No,L'essentiel pour moi reste les preuves scientifiques les plus récentes disponibles dans la littérature. L'impact sur la qualité de vie globale compte énormément. La compliance est souvent problématique avec les schémas complexes.,0
+b44559cf36d914a5,GP,14,Weekly,0.65,Yes,Je privilégie toujours la personnalisation optimale du traitement selon chaque cas particulier. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+2ddfd6efef7c71bb,Pulmono,11,Monthly,0.82,No,Je tiens particulièrement compte de la simplicité du schéma thérapeutique pour améliorer l'observance. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+c86f45bc5f71d4c9,GP,7,Monthly,0.54,No,Je m'appuie principalement sur l'efficacité clinique démontrée plutôt que les considérations économiques. Je suis très attentif aux retours d'expérience de mes patients.,0
+614e2e8d9636fc05,GP,14,Monthly,0.65,Yes,Je m'appuie principalement sur l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+1f1dcd84681cbb17,GP,7,Monthly,0.87,No,Mon approche privilégie clairement le profil individuel spécifique de chaque patient avant tout.,0
+e48674874b2f0819,Pulmono,8,Weekly,0.44,No,Je considère d'abord systématiquement le rapport bénéfice-risque qui doit impérativement rester favorable.,0
+67cca97a75e98d17,GP,13,Monthly,0.69,No,Je prescris en fonction de la tolérance du traitement autant que son efficacité thérapeutique. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+f8a1c330838afc05,Endocrino,7,Weekly,0.75,No,Je suis très attentif à les guidelines internationales récentes en matière de prescription. Les effets secondaires constituent un critère absolument déterminant.,0
+0fe6b03317a437d0,Endocrino,11,Daily,0.79,No,Je tiens particulièrement compte de la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+632a295848c83cf5,GP,8,Weekly,0.39,Yes,Ma démarche s'appuie sur les contre-indications absolues que je vérifie systématiquement. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+4641ca9154611657,Onco,10,Monthly,0.4,No,,1
+eaed8a047115c94b,GP,10,Monthly,0.85,No,Pour ma pratique quotidienne les recommandations officielles de la HAS mises à jour systématiquement. La compliance est souvent problématique avec les schémas complexes. Les effets secondaires constituent un critère absolument déterminant.,0
+62c28152dc3cad8a,Endocrino,7,Weekly,0.59,No,"Ma priorité reste avant tout les données de vie réelle importantes pour ma pratique quotidienne. Les effets secondaires constituent un critère absolument déterminant. Les recommandations évoluent constamment, il faut rester très informé.",0
+056dddca43fb2562,Cardio,6,Weekly,0.15,No,Je participe très régulièrement à des formations continues obligatoires.,0
+0a3c5aec6b35e6f9,GP,9,Daily,0.48,No,Mon expérience clinique montre que l'éducation thérapeutique approfondie du patient car c'est fondamental.,0
+a2dd90f20a07f36e,GP,13,Rare,0.09,Yes,"Je tiens particulièrement compte de les données de vie réelle importantes pour ma pratique quotidienne. Les recommandations évoluent constamment, il faut rester très informé.",0
+9d28f77bdddf0b91,Endocrino,10,Monthly,0.54,Yes,Je tiens particulièrement compte de l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+9f4d17c46c9d892e,Onco,14,Rare,0.19,Yes,Je valorise particulièrement les traitements validés avec données solides et robustes disponibles. Les risques d'interactions augmentent avec les polymédications.,0
+a0217b2c98964384,GP,8,Monthly,0.67,No,Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+210656bf64777b50,GP,12,Weekly,0.15,No,,1
+2fdd57a952c847ee,Onco,13,Daily,0.68,No,"Les recommandations évoluent constamment, il faut rester très informé.",0
+e9c0f9e01c2f090e,GP,8,Weekly,0.56,No,Pour ma pratique quotidienne les facteurs de risque spécifiques à chaque patient.,0
+f175123d8053b2a1,Cardio,8,Daily,0.61,No,Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+43aa074bad5dbe86,Cardio,9,Daily,0.44,No,"Je prescris en fonction de la tolérance du traitement autant que son efficacité thérapeutique. Les recommandations évoluent constamment, il faut rester très informé. Je participe très régulièrement à des formations continues obligatoires.",0
+31d0b6fe1bf9a594,GP,6,Weekly,0.89,No,,1
+8922314a2b63cd74,Endocrino,11,Monthly,0.81,No,"Pour ma pratique quotidienne les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Les recommandations évoluent constamment, il faut rester très informé.",0
+d22cb15453bf2342,Onco,10,Weekly,0.17,No,Ma priorité reste avant tout les interactions médicamenteuses potentielles à surveiller toujours. Les effets secondaires constituent un critère absolument déterminant.,0
+6e8688847cf14aa5,Cardio,12,Weekly,0.39,Yes,Ma priorité reste avant tout les retours d'expérience de mes patients au fil du temps. Les risques d'interactions augmentent avec les polymédications.,0
+e068ee1a66ee289b,Endocrino,6,Weekly,0.48,No,Mon raisonnement clinique privilégie les facteurs de risque spécifiques à chaque patient. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+4105d3abceaf7b36,Endocrino,9,Daily,0.64,No,Je privilégie toujours la simplicité du schéma thérapeutique pour améliorer l'observance. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+5faf075c6f776faf,Cardio,11,Monthly,0.46,Yes,Ma démarche s'appuie sur les facteurs de risque spécifiques à chaque patient. Les patients âgés nécessitent une attention particulière accrue.,0
+934cd395b8887c72,GP,6,Monthly,0.82,No,Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+fa9dc7270db6f428,Endocrino,11,Weekly,0.3,No,Je base toutes mes décisions sur la simplicité du schéma thérapeutique pour améliorer l'observance. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+65214b755444f4b7,GP,10,Monthly,0.51,No,Ma priorité reste avant tout les guidelines internationales récentes en matière de prescription. Le coût reste malheureusement un frein majeur pour certains patients.,0
+67776faea79c26cf,GP,8,Weekly,0.14,No,L'essentiel pour moi reste le rapport bénéfice-risque qui doit impérativement rester favorable. La compliance est souvent problématique avec les schémas complexes.,0
+0e95f4fcfcbd4139,Onco,8,Daily,0.73,No,Mon raisonnement clinique privilégie l'efficacité clinique démontrée plutôt que les considérations économiques. Les patients âgés nécessitent une attention particulière accrue.,0
+a408f2a49fa36b5e,Pulmono,9,Weekly,0.07,No,Je privilégie toujours l'éducation thérapeutique approfondie du patient car c'est fondamental. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+72d893672de65e2d,Onco,11,Rare,0.71,No,Je tiens particulièrement compte de les données de vie réelle importantes pour ma pratique quotidienne. La coordination avec la médecine de ville est essentielle.,0
+3ab06fbc6709e1ff,GP,9,Daily,0.43,No,Pour ma pratique quotidienne l'éducation thérapeutique approfondie du patient car c'est fondamental. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+7e20f56242850ee6,Pulmono,8,Weekly,0.76,No,Mon approche privilégie clairement les guidelines internationales récentes en matière de prescription.,0
+593d4c34f47e1073,Endocrino,8,Monthly,0.54,No,Je privilégie toujours la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+861ba68a8addf8dd,Onco,6,Weekly,0.55,Yes,Je privilégie toujours les interactions médicamenteuses potentielles à surveiller toujours. Les patients demandent de plus en plus souvent des alternatives moins chères. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+c5d4f9291ec1b954,Onco,9,Weekly,0.72,No,L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+40a1551ae6cc28ae,Onco,12,Monthly,0.17,No,Le coût reste malheureusement un frein majeur pour certains patients.,0
+f4fa611e9fd11eea,Onco,12,Weekly,0.46,No,Ma démarche s'appuie sur la simplicité du schéma thérapeutique pour améliorer l'observance. Les patients âgés nécessitent une attention particulière accrue.,0
+b4c6c0dadaff119d,GP,5,Monthly,0.48,No,Pour ma pratique quotidienne la personnalisation optimale du traitement selon chaque cas particulier. Le coût reste malheureusement un frein majeur pour certains patients.,0
+09973a1f2e8bd23a,Endocrino,7,Monthly,0.61,No,Je prescris en fonction de les retours d'expérience de mes patients au fil du temps. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+335c09310022360c,GP,15,Monthly,0.69,No,,1
+e7424a026c1e5290,Endocrino,6,Rare,0.78,Yes,Les effets secondaires constituent un critère absolument déterminant.,0
+f497118d03193e67,Onco,8,Monthly,0.27,No,Je considère d'abord systématiquement l'efficacité clinique démontrée plutôt que les considérations économiques. Les patients âgés nécessitent une attention particulière accrue.,0
+9ca1c056a960d9c1,GP,17,Monthly,0.35,No,,1
+749355fdfcd9d923,Cardio,7,Monthly,0.53,Yes,Mon expérience clinique montre que les données de vie réelle importantes pour ma pratique quotidienne. La coordination avec la médecine de ville est essentielle.,0
+bb396a4a03aae675,Endocrino,12,Rare,0.43,Yes,Les effets secondaires constituent un critère absolument déterminant.,0
+c84ce5cb49b20f7f,GP,7,Rare,0.39,No,Je considère d'abord systématiquement la personnalisation optimale du traitement selon chaque cas particulier. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+70185439a273f040,GP,9,Monthly,0.76,No,Ma pratique repose entièrement sur le rapport bénéfice-risque qui doit impérativement rester favorable. Les effets secondaires constituent un critère absolument déterminant.,0
+8611915f4d4c6bab,GP,8,Weekly,0.75,Yes,Pour ma pratique quotidienne la tolérance du traitement autant que son efficacité thérapeutique.,0
+aebaeb7f5b097dc7,GP,11,Monthly,0.69,Yes,Mon raisonnement clinique privilégie les facteurs de risque spécifiques à chaque patient. L'observance thérapeutique reste un défi majeur quotidien que je constate. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+6ed4bf7bfa9334c8,Endocrino,11,Daily,0.09,Yes,Mon approche privilégie clairement la tolérance du traitement autant que son efficacité thérapeutique. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+4bcb8bdb493aef83,Cardio,15,Weekly,0.73,Yes,Je tiens particulièrement compte de les traitements validés avec données solides et robustes disponibles.,0
+c07e32fd1dfd9933,GP,8,Daily,0.14,No,La compliance est souvent problématique avec les schémas complexes.,0
+002685f817c7450b,Onco,11,Rare,0.8,No,J'accorde une grande importance à l'evidence-based medicine comme socle de ma pratique. Les patients âgés nécessitent une attention particulière accrue.,0
+bbb140f5695ea5b7,Endocrino,8,Weekly,0.02,No,Je m'appuie principalement sur les preuves scientifiques les plus récentes disponibles dans la littérature. Je suis très attentif aux retours d'expérience de mes patients.,0
+c3d24aea8d17987f,Cardio,17,Monthly,0.49,No,Je tiens particulièrement compte de les interactions médicamenteuses potentielles à surveiller toujours. Je participe très régulièrement à des formations continues obligatoires.,0
+c88eede40ea659d4,GP,11,Weekly,0.51,No,Je privilégie toujours les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je privilégie les génériques quand c'est médicalement approprié.,0
+ab40b32aaa1066c0,Endocrino,7,Daily,0.54,No,Je m'appuie principalement sur l'evidence-based medicine comme socle de ma pratique. Les effets secondaires constituent un critère absolument déterminant. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+00e035dcf6976928,GP,10,Weekly,0.72,No,Je valorise particulièrement l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+f7e2149d3b860733,Endocrino,4,Monthly,0.59,No,Je me concentre essentiellement sur l'evidence-based medicine comme socle de ma pratique. Je suis très attentif aux retours d'expérience de mes patients.,0
+9b6c6aedd237a60e,Endocrino,5,Monthly,0.75,No,Ma pratique repose entièrement sur les guidelines internationales récentes en matière de prescription. La coordination avec la médecine de ville est essentielle.,0
+f3adef8714e29085,GP,18,Daily,0.89,No,Mon approche privilégie clairement l'éducation thérapeutique approfondie du patient car c'est fondamental.,0
+34856a7b7a3c9dd8,Onco,12,Weekly,0.3,No,Je m'appuie principalement sur la tolérance du traitement autant que son efficacité thérapeutique. La coordination avec la médecine de ville est essentielle.,0
+d92c56a3279504d9,Cardio,7,Monthly,0.22,Yes,L'essentiel pour moi reste le rapport bénéfice-risque qui doit impérativement rester favorable. Les patients âgés nécessitent une attention particulière accrue.,0
+4c62780da3168855,GP,5,Daily,0.47,No,Je privilégie toujours le profil individuel spécifique de chaque patient avant tout. Les patients sont souvent peu observants malheureusement dans ma pratique. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+c046cd5bee8beb66,Onco,8,Weekly,0.58,No,Ma pratique repose entièrement sur les guidelines internationales récentes en matière de prescription. Je suis très attentif aux retours d'expérience de mes patients.,0
+1003203fc78c37a6,Cardio,11,Weekly,0.81,No,Je base toutes mes décisions sur les recommandations officielles de la HAS mises à jour systématiquement. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+343e4e619cc9c52e,Endocrino,8,Monthly,0.47,No,Ma pratique repose entièrement sur les retours d'expérience de mes patients au fil du temps.,0
+2deb0df5cbb4907f,Endocrino,9,Weekly,0.35,No,Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+e6d21225532a6f5e,GP,5,Weekly,0.53,No,Mon expérience clinique montre que le rapport bénéfice-risque qui doit impérativement rester favorable. Je privilégie les génériques quand c'est médicalement approprié.,0
+838d837a6ad159ab,Onco,11,Rare,0.6,No,Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+2c521b3c2ef1c675,Cardio,11,Monthly,0.85,No,Je m'appuie principalement sur l'efficacité clinique démontrée plutôt que les considérations économiques. La coordination avec la médecine de ville est essentielle.,0
+573f76f1761fbb85,GP,11,Weekly,0.44,Yes,Je suis très attentif aux retours d'expérience de mes patients.,0
+cb38b96215315a27,Onco,7,Weekly,0.7,No,L'essentiel pour moi reste l'evidence-based medicine comme socle de ma pratique. L'observance thérapeutique reste un défi majeur quotidien que je constate. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+4c077574bf99406d,Cardio,18,Weekly,0.66,No,Ma priorité reste avant tout l'evidence-based medicine comme socle de ma pratique.,0
+de88a1894e5f6e4a,Endocrino,9,Daily,0.15,No,Je base toutes mes décisions sur l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+2263af1c38fd1397,Pulmono,8,Weekly,0.6,No,Je considère d'abord systématiquement la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+6af8fdb32e08f064,GP,6,Weekly,0.42,No,Je prescris en fonction de les retours d'expérience de mes patients au fil du temps. L'impact sur la qualité de vie globale compte énormément.,0
+966e935c80435bfd,GP,12,Weekly,0.45,No,Je privilégie toujours l'éducation thérapeutique approfondie du patient car c'est fondamental. Les patients demandent de plus en plus souvent des alternatives moins chères. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+bcebd5bf461fa78f,GP,13,Rare,0.72,No,Je valorise particulièrement la simplicité du schéma thérapeutique pour améliorer l'observance. Les risques d'interactions augmentent avec les polymédications.,0
+7e5edd29e16af23d,Pulmono,15,Rare,0.04,Yes,Ma priorité reste avant tout les contre-indications absolues que je vérifie systématiquement. Je suis très attentif aux retours d'expérience de mes patients.,0
+c5f23e3d3ef8d4f3,GP,12,Daily,0.12,No,Je valorise particulièrement les guidelines internationales récentes en matière de prescription. Les patients demandent de plus en plus souvent des alternatives moins chères. La coordination avec la médecine de ville est essentielle.,0
+a904297c826ba9ee,GP,9,Monthly,0.42,No,Ma priorité reste avant tout les recommandations officielles de la HAS mises à jour systématiquement. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+16564de3ac635230,GP,9,Daily,0.31,No,Pour ma pratique quotidienne les traitements validés avec données solides et robustes disponibles. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+5a33b5bd142a00f2,GP,18,Monthly,0.06,No,J'intègre systématiquement l'éducation thérapeutique approfondie du patient car c'est fondamental. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+942b0b91e6f7dcc2,Endocrino,11,Daily,0.21,No,Mon expérience clinique montre que les traitements validés avec données solides et robustes disponibles. Le coût reste malheureusement un frein majeur pour certains patients.,0
+90229316f2c12d99,Onco,16,Rare,0.37,Yes,Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+14b8298abc41000b,GP,11,Monthly,0.45,No,L'essentiel pour moi reste l'expérience clinique accumulée au fil de nombreuses années.,0
+cff7ec7abf73a97a,Cardio,7,Daily,0.54,No,Ma priorité reste avant tout la personnalisation optimale du traitement selon chaque cas particulier. La compliance est souvent problématique avec les schémas complexes.,0
+f13e8909b42e414f,Pulmono,8,Monthly,0.32,No,Ma pratique repose entièrement sur les recommandations officielles de la HAS mises à jour systématiquement. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+1bd9316dd919dadf,Cardio,11,Monthly,0.62,No,Je prescris en fonction de le profil individuel spécifique de chaque patient avant tout.,0
+592024b0da0d8b74,Onco,15,Weekly,0.37,No,Ma démarche s'appuie sur la personnalisation optimale du traitement selon chaque cas particulier. Je suis très attentif aux retours d'expérience de mes patients. La compliance est souvent problématique avec les schémas complexes.,0
+bb3617f72cd7a5c7,Cardio,6,Monthly,0.5,No,Je prescris en fonction de la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+a56e8a4b6bfa9982,GP,8,Monthly,0.33,No,Ma démarche s'appuie sur les recommandations officielles de la HAS mises à jour systématiquement. Le coût reste malheureusement un frein majeur pour certains patients.,0
+c725475785202b76,Onco,10,Monthly,0.5,No,Je prescris en fonction de la balance efficacité-tolérance dans chaque décision thérapeutique. La coordination avec la médecine de ville est essentielle.,0
+5645fb666ffc8193,Cardio,10,Monthly,0.65,No,Ma pratique repose entièrement sur la personnalisation optimale du traitement selon chaque cas particulier.,0
+4bdbb5402b38f158,GP,12,Weekly,0.58,No,Ma priorité reste avant tout la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+19f174334d66b171,GP,8,Monthly,0.25,No,Mon expérience clinique montre que les données de vie réelle importantes pour ma pratique quotidienne. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+8018efc6b173c443,Onco,10,Rare,0.65,Yes,Mon expérience clinique montre que les contre-indications absolues que je vérifie systématiquement. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+ef3fe8acb73647c5,Pulmono,11,Weekly,0.45,No,Ma priorité reste avant tout l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+fc5000332ebf8095,Cardio,11,Daily,0.44,Yes,Je tiens particulièrement compte de la balance efficacité-tolérance dans chaque décision thérapeutique. Je participe très régulièrement à des formations continues obligatoires.,0
+4d942f48028360de,Pulmono,12,Monthly,0.18,No,Je tiens particulièrement compte de la tolérance du traitement autant que son efficacité thérapeutique. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+8a17e4503ad182a6,Cardio,12,Rare,0.67,No,Je me concentre essentiellement sur les contre-indications absolues que je vérifie systématiquement. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée. L'impact sur la qualité de vie globale compte énormément.,0
+64d5f7ac9ce7d033,GP,11,Daily,0.42,No,Je participe très régulièrement à des formations continues obligatoires.,0
+a79bac0be15698f9,Endocrino,11,Weekly,0.17,No,J'intègre systématiquement l'éducation thérapeutique approfondie du patient car c'est fondamental.,0
+5dd289ebd5331343,Endocrino,10,Daily,0.58,No,Je me concentre essentiellement sur la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+76ed06593fc0f75d,Cardio,16,Monthly,0.23,No,Je m'appuie principalement sur la tolérance du traitement autant que son efficacité thérapeutique. Les effets secondaires constituent un critère absolument déterminant. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+6632ee83552e6cf3,GP,13,Rare,0.44,No,Je considère d'abord systématiquement les facteurs de risque spécifiques à chaque patient.,0
+b92a7cc6840a1d95,GP,15,Weekly,0.16,Yes,"Je suis très attentif à les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Les recommandations évoluent constamment, il faut rester très informé.",0
+6c2362cd10065729,Pulmono,12,Weekly,0.81,No,Je prescris en fonction de le rapport bénéfice-risque qui doit impérativement rester favorable.,0
+f84b393328b3682e,Pulmono,10,Rare,0.64,No,Je base toutes mes décisions sur l'evidence-based medicine comme socle de ma pratique. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+e82d3ecac9946e80,Endocrino,7,Daily,0.61,Yes,Je considère d'abord systématiquement les interactions médicamenteuses potentielles à surveiller toujours. Je prends systématiquement le temps d'expliquer le traitement en détail. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+a5b149578155e77f,Pulmono,11,Monthly,0.48,No,Je base toutes mes décisions sur les contre-indications absolues que je vérifie systématiquement. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+dfe7cab7c334f3ac,Endocrino,8,Weekly,0.56,No,J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+53b15d59afae91b7,Pulmono,9,Weekly,0.35,No,Ma priorité reste avant tout la tolérance du traitement autant que son efficacité thérapeutique. L'impact sur la qualité de vie globale compte énormément.,0
+759209642e53d452,GP,9,Weekly,0.76,Yes,L'essentiel pour moi reste les recommandations officielles de la HAS mises à jour systématiquement. Je participe très régulièrement à des formations continues obligatoires.,0
+6cd004c6e524bb67,GP,6,Monthly,0.34,No,Je privilégie toujours le profil individuel spécifique de chaque patient avant tout.,0
+82e6866725df82f9,Cardio,21,Rare,0.09,No,"Les recommandations évoluent constamment, il faut rester très informé.",0
+18e41f6e4d5c9bbc,GP,6,Rare,0.85,No,Je suis très attentif à les données de vie réelle importantes pour ma pratique quotidienne. Je suis très attentif aux retours d'expérience de mes patients.,0
+8f0019dfc62c2366,Endocrino,6,Monthly,0.61,No,Je prescris en fonction de la balance efficacité-tolérance dans chaque décision thérapeutique. La coordination avec la médecine de ville est essentielle.,0
+abfe2269964ab521,Onco,13,Weekly,0.51,No,Je m'appuie principalement sur l'efficacité clinique démontrée plutôt que les considérations économiques. Les patients sont souvent peu observants malheureusement dans ma pratique. Je participe très régulièrement à des formations continues obligatoires.,0
+8f8026a0f9665b07,Cardio,11,Weekly,0.63,Yes,"Je suis très attentif à les contre-indications absolues que je vérifie systématiquement. Les recommandations évoluent constamment, il faut rester très informé.",0
+bcd8f770414fcc42,Onco,6,Weekly,0.46,No,Je prescris en fonction de les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+2d9711e9fdd0a7fa,Cardio,13,Rare,0.49,Yes,Ma pratique repose entièrement sur les contre-indications absolues que je vérifie systématiquement. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+09172c11db825e8c,Cardio,7,Weekly,0.52,Yes,Mon approche privilégie clairement la balance efficacité-tolérance dans chaque décision thérapeutique. Je privilégie les génériques quand c'est médicalement approprié.,0
+d500a7da4c08b7da,Endocrino,13,Rare,0.14,Yes,Je base toutes mes décisions sur les guidelines internationales récentes en matière de prescription. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+0b380fd8595d338d,GP,8,Rare,0.69,No,Le coût reste malheureusement un frein majeur pour certains patients.,0
+2ec89bb4d42cafd1,GP,7,Weekly,0.57,No,Pour ma pratique quotidienne les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+14d75a00ff11799c,Cardio,11,Monthly,0.5,Yes,Je suis très attentif à les preuves scientifiques les plus récentes disponibles dans la littérature. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+61559116c2a33e62,Onco,7,Rare,0.62,No,"Je m'appuie principalement sur les contre-indications absolues que je vérifie systématiquement. Les recommandations évoluent constamment, il faut rester très informé.",0
+12c40385411a5d60,Endocrino,10,Monthly,0.9,Yes,Ma pratique repose entièrement sur les facteurs de risque spécifiques à chaque patient.,0
+0d8b365fbd52b49c,GP,12,Monthly,0.69,No,Mon raisonnement clinique privilégie le rapport bénéfice-risque qui doit impérativement rester favorable. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+f084a19ba6297947,GP,6,Monthly,0.9,No,Dans mon exercice la personnalisation optimale du traitement selon chaque cas particulier. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+1f9615cda571d11f,Onco,14,Daily,0.25,No,Dans mon exercice le profil individuel spécifique de chaque patient avant tout. Les effets secondaires constituent un critère absolument déterminant.,0
+cff120e5a94da3b7,Cardio,10,Monthly,0.38,No,"Je m'appuie principalement sur les données de vie réelle importantes pour ma pratique quotidienne. Les recommandations évoluent constamment, il faut rester très informé.",0
+315aa93ce8793427,Onco,8,Weekly,0.46,No,,1
+d6f5175df68b5a87,Cardio,14,Daily,0.56,Yes,Ma priorité reste avant tout les retours d'expérience de mes patients au fil du temps.,0
+534b7baf92859775,Endocrino,6,Monthly,0.87,No,Je base toutes mes décisions sur l'éducation thérapeutique approfondie du patient car c'est fondamental.,0
+879b6253a88fbbd6,Endocrino,6,Monthly,0.55,Yes,J'intègre systématiquement les guidelines internationales récentes en matière de prescription. Je suis très attentif aux retours d'expérience de mes patients. Les risques d'interactions augmentent avec les polymédications.,0
+a0cc44a1dd399e28,GP,8,Weekly,0.44,No,Ma démarche s'appuie sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Le coût reste malheureusement un frein majeur pour certains patients.,0
+e6a5c140abc42cb3,Endocrino,9,Weekly,0.57,No,Je m'appuie principalement sur les preuves scientifiques les plus récentes disponibles dans la littérature. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+b75071e56a926a3e,Cardio,10,Rare,0.69,No,Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+290ca6a550138ce8,Endocrino,15,Monthly,0.84,Yes,Mon raisonnement clinique privilégie le rapport bénéfice-risque qui doit impérativement rester favorable. Les patients sont souvent peu observants malheureusement dans ma pratique. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+d98d289fb9ab576c,Pulmono,6,Daily,0.46,No,Ma pratique repose entièrement sur les guidelines internationales récentes en matière de prescription.,0
+2948e8364b5d139a,GP,17,Rare,0.57,Yes,J'accorde une grande importance à la balance efficacité-tolérance dans chaque décision thérapeutique. Je collabore étroitement avec d'autres spécialistes si nécessaire. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+31ea3ff743695fa3,Endocrino,11,Weekly,0.81,Yes,L'essentiel pour moi reste le rapport bénéfice-risque qui doit impérativement rester favorable. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+e2f5f02f44021513,GP,6,Monthly,0.53,No,Je m'appuie principalement sur les retours d'expérience de mes patients au fil du temps. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+6e8498730a1b783c,GP,7,Monthly,0.65,No,Ma priorité reste avant tout la balance efficacité-tolérance dans chaque décision thérapeutique. Le coût reste malheureusement un frein majeur pour certains patients.,0
+92950f8df205373c,Endocrino,16,Rare,0.58,No,J'accorde une grande importance à les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+230106e737357d88,GP,18,Monthly,0.86,No,Ma priorité reste avant tout la balance efficacité-tolérance dans chaque décision thérapeutique. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+5797801b4631ff6e,Cardio,8,Weekly,0.94,No,J'accorde une grande importance à la balance efficacité-tolérance dans chaque décision thérapeutique. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+a9f2b36eca8ed294,GP,8,Monthly,0.81,Yes,J'accorde une grande importance à la balance efficacité-tolérance dans chaque décision thérapeutique. La coordination avec la médecine de ville est essentielle.,0
+d87b61f32a031218,GP,12,Weekly,0.6,No,Je tiens particulièrement compte de la balance efficacité-tolérance dans chaque décision thérapeutique. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+c64218282b8714d0,GP,14,Weekly,0.73,No,Dans mon exercice les retours d'expérience de mes patients au fil du temps. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+0cd1d4b6d93710c9,GP,8,Weekly,0.88,No,Mon approche privilégie clairement les guidelines internationales récentes en matière de prescription. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+c61cb261ac12afe6,Pulmono,9,Weekly,0.57,No,Je prescris en fonction de le profil individuel spécifique de chaque patient avant tout.,0
+c3126d4cc89b07a1,Endocrino,12,Weekly,0.59,No,Mon raisonnement clinique privilégie le rapport bénéfice-risque qui doit impérativement rester favorable. Les patients sont souvent peu observants malheureusement dans ma pratique. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+11cb145a569e82bd,Onco,12,Weekly,0.81,No,Dans mon exercice les traitements validés avec données solides et robustes disponibles. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+00297127d8b5f9c9,GP,8,Monthly,0.71,Yes,Les risques d'interactions augmentent avec les polymédications.,0
+8ebae49dab570adb,Pulmono,12,Monthly,0.29,Yes,Je suis très attentif à les recommandations officielles de la HAS mises à jour systématiquement. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+786c93f527a1c7b3,Endocrino,11,Weekly,0.63,No,Mon approche privilégie clairement les comorbidités multiples qui influencent fortement mes choix thérapeutiques. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+1eeca13ef0565bb5,GP,11,Rare,0.74,No,Je privilégie toujours les recommandations officielles de la HAS mises à jour systématiquement.,0
+1425ab398a27cb00,Endocrino,9,Daily,0.25,No,Je tiens particulièrement compte de la tolérance du traitement autant que son efficacité thérapeutique. Les patients âgés nécessitent une attention particulière accrue.,0
+78ed941937a44cc6,Endocrino,11,Weekly,0.47,No,J'accorde une grande importance à l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+59310d50791af001,Cardio,8,Weekly,0.88,No,Je base toutes mes décisions sur la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+054b753b242ff7c6,Endocrino,16,Daily,0.44,No,Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+987ccd990f23a0e3,Cardio,12,Weekly,0.28,No,"Je considère d'abord systématiquement les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Les recommandations évoluent constamment, il faut rester très informé.",0
+d445ef621649dd28,GP,10,Rare,0.62,Yes,Mon approche privilégie clairement la personnalisation optimale du traitement selon chaque cas particulier. La compliance est souvent problématique avec les schémas complexes.,0
+4fc5c0c64fbc139f,Cardio,10,Weekly,0.67,No,Mon expérience clinique montre que les preuves scientifiques les plus récentes disponibles dans la littérature. J'adapte mes prescriptions en fonction du contexte socio-économique. Je suis très attentif aux retours d'expérience de mes patients.,0
+22788738d9bb0ae8,Pulmono,15,Weekly,0.57,No,Ma priorité reste avant tout la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+bf7e56016d7b23ff,GP,12,Weekly,0.51,Yes,Le coût reste malheureusement un frein majeur pour certains patients.,0
+d1afb6f5d63204f0,Cardio,11,Monthly,0.97,No,"Je considère d'abord systématiquement la simplicité du schéma thérapeutique pour améliorer l'observance. Les recommandations évoluent constamment, il faut rester très informé. Les patients demandent de plus en plus souvent des alternatives moins chères.",0
+955947d39ddd5cd6,Endocrino,12,Weekly,0.49,No,Je privilégie toujours la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+e4d9a43328ca081a,Pulmono,13,Monthly,0.84,No,Je valorise particulièrement le profil individuel spécifique de chaque patient avant tout.,0
+86b1715b2f47d66b,Endocrino,13,Weekly,0.53,No,Mon raisonnement clinique privilégie les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Les risques d'interactions augmentent avec les polymédications.,0
+121565ce0d31c0b2,GP,15,Weekly,0.57,Yes,Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+39567dc445e89196,Endocrino,7,Daily,0.3,No,"Je valorise particulièrement la tolérance du traitement autant que son efficacité thérapeutique. La compliance est souvent problématique avec les schémas complexes. Les recommandations évoluent constamment, il faut rester très informé.",0
+0b32d57906f3ef68,Cardio,12,Monthly,0.61,No,Mon expérience clinique montre que l'efficacité clinique démontrée plutôt que les considérations économiques. Je collabore étroitement avec d'autres spécialistes si nécessaire. Le coût reste malheureusement un frein majeur pour certains patients.,0
+581a3982b3bfe175,Cardio,12,Monthly,0.36,Yes,Mon expérience clinique montre que les preuves scientifiques les plus récentes disponibles dans la littérature. Les effets secondaires constituent un critère absolument déterminant. Je suis très attentif aux retours d'expérience de mes patients.,0
+47bd583b5d8d1a47,Cardio,14,Weekly,0.55,No,Je me concentre essentiellement sur les traitements validés avec données solides et robustes disponibles.,0
+75c2d65e95915f85,Endocrino,9,Daily,0.54,Yes,Je suis très attentif à le rapport bénéfice-risque qui doit impérativement rester favorable.,0
+8e12d6bac3e387cc,Pulmono,8,Weekly,0.44,No,J'accorde une grande importance à les interactions médicamenteuses potentielles à surveiller toujours.,0
+b23b203161069212,Endocrino,11,Weekly,0.88,No,Je privilégie toujours le profil individuel spécifique de chaque patient avant tout. Le coût reste malheureusement un frein majeur pour certains patients.,0
+fa2de39ada725dac,Cardio,13,Weekly,0.45,No,,1
+fdcb1962f07dc55e,GP,9,Monthly,0.31,No,Pour ma pratique quotidienne les guidelines internationales récentes en matière de prescription. Le coût reste malheureusement un frein majeur pour certains patients.,0
+4d5e5a714eb0e9d7,GP,9,Monthly,0.17,No,J'accorde une grande importance à les retours d'expérience de mes patients au fil du temps.,0
+0e47d67a02034cd8,Onco,12,Weekly,0.7,Yes,Je participe très régulièrement à des formations continues obligatoires.,0
+12b33774c7041687,Cardio,8,Rare,0.46,No,Dans mon exercice la balance efficacité-tolérance dans chaque décision thérapeutique. Je collabore étroitement avec d'autres spécialistes si nécessaire. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+5738de13750798a1,Cardio,16,Rare,0.27,Yes,Je me concentre essentiellement sur l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+443cffb72eb5c3ac,Pulmono,11,Weekly,0.5,Yes,Je considère d'abord systématiquement les traitements validés avec données solides et robustes disponibles. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+bf619f720c94e6cf,GP,9,Weekly,0.3,No,Je m'appuie principalement sur la tolérance du traitement autant que son efficacité thérapeutique. Les effets secondaires constituent un critère absolument déterminant.,0
+36483996281c2421,Pulmono,9,Rare,0.24,No,,1
+8875564e609a6e3f,Pulmono,12,Monthly,0.11,No,Je prescris en fonction de les retours d'expérience de mes patients au fil du temps. Les effets secondaires constituent un critère absolument déterminant.,0
+35b42ebf9285ca5a,Pulmono,12,Weekly,0.73,Yes,Mon expérience clinique montre que les facteurs de risque spécifiques à chaque patient. Les risques d'interactions augmentent avec les polymédications.,0
+790bb66984a2d464,GP,15,Monthly,0.47,No,La compliance est souvent problématique avec les schémas complexes.,0
+f9ac8ac041220bbf,Cardio,9,Weekly,0.29,No,Je privilégie toujours la personnalisation optimale du traitement selon chaque cas particulier. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+25a405fac3adc875,GP,13,Monthly,0.45,Yes,Mon raisonnement clinique privilégie la personnalisation optimale du traitement selon chaque cas particulier.,0
+806aaee8ee4811c1,Cardio,9,Weekly,0.56,No,Ma pratique repose entièrement sur la tolérance du traitement autant que son efficacité thérapeutique.,0
+e91be5084a11a48f,Endocrino,17,Monthly,0.78,Yes,,1
+23e549aec43695da,GP,14,Daily,0.35,No,J'intègre systématiquement les retours d'expérience de mes patients au fil du temps.,0
+e72692098f9343e8,Endocrino,6,Weekly,0.85,No,Je considère d'abord systématiquement la simplicité du schéma thérapeutique pour améliorer l'observance. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+34112c4028b4a66e,Cardio,8,Weekly,0.68,No,L'essentiel pour moi reste le profil individuel spécifique de chaque patient avant tout. Le coût reste malheureusement un frein majeur pour certains patients.,0
+31174cb7d133933f,Pulmono,17,Weekly,0.73,Yes,Je valorise particulièrement les retours d'expérience de mes patients au fil du temps. La compliance est souvent problématique avec les schémas complexes.,0
+1fdfe1cc591755e1,Cardio,9,Monthly,0.58,Yes,Je tiens particulièrement compte de le profil individuel spécifique de chaque patient avant tout. Je suis très attentif aux retours d'expérience de mes patients.,0
+25030748b3b53cf3,GP,7,Weekly,0.88,Yes,Je privilégie toujours la personnalisation optimale du traitement selon chaque cas particulier. Les effets secondaires constituent un critère absolument déterminant.,0
+1988366b15bd6c2f,GP,6,Weekly,0.38,No,Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+bb992aa6d378989d,Pulmono,6,Weekly,0.04,Yes,Mon raisonnement clinique privilégie les guidelines internationales récentes en matière de prescription. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+91c933bc3932f648,Cardio,12,Monthly,0.08,No,L'essentiel pour moi reste les traitements validés avec données solides et robustes disponibles.,0
+18343b35a86aed2d,Cardio,7,Daily,0.27,Yes,Mon approche privilégie clairement la simplicité du schéma thérapeutique pour améliorer l'observance. Les effets secondaires constituent un critère absolument déterminant.,0
+3e7e39f4b6c01070,GP,11,Daily,0.33,No,Dans mon exercice la tolérance du traitement autant que son efficacité thérapeutique. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+7ba815de86a82235,GP,10,Rare,0.59,No,Je base toutes mes décisions sur les guidelines internationales récentes en matière de prescription. La compliance est souvent problématique avec les schémas complexes.,0
+08023e9b5ec011ea,Pulmono,8,Daily,0.24,Yes,Je m'appuie principalement sur l'efficacité clinique démontrée plutôt que les considérations économiques. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+77b27e0aa7c5fe6f,Pulmono,9,Monthly,0.33,No,Le coût reste malheureusement un frein majeur pour certains patients.,0
+90464c7a887332c7,GP,12,Weekly,0.5,Yes,Mon approche privilégie clairement l'éducation thérapeutique approfondie du patient car c'est fondamental. Le coût reste malheureusement un frein majeur pour certains patients.,0
+458f411893958123,Cardio,8,Monthly,0.47,No,J'accorde une grande importance à les preuves scientifiques les plus récentes disponibles dans la littérature. L'impact sur la qualité de vie globale compte énormément.,0
+547a076c64b5d3d1,GP,14,Weekly,0.88,Yes,Ma pratique repose entièrement sur les interactions médicamenteuses potentielles à surveiller toujours. L'impact sur la qualité de vie globale compte énormément. La compliance est souvent problématique avec les schémas complexes.,0
+a6b3cfede5ce4d5f,Onco,9,Monthly,0.42,Yes,Je m'appuie principalement sur le rapport bénéfice-risque qui doit impérativement rester favorable.,0
+2dc09e355824280d,Cardio,11,Weekly,0.25,No,"Je valorise particulièrement le profil individuel spécifique de chaque patient avant tout. Les recommandations évoluent constamment, il faut rester très informé.",0
+b02e63ae050575a6,Pulmono,7,Weekly,0.44,No,L'essentiel pour moi reste l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+686dd384f04749c1,Endocrino,11,Weekly,0.61,No,J'intègre systématiquement la personnalisation optimale du traitement selon chaque cas particulier. La coordination avec la médecine de ville est essentielle.,0
+75cff27ff6489105,Pulmono,10,Monthly,0.64,No,Ma priorité reste avant tout les retours d'expérience de mes patients au fil du temps. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+c9185936cb41a3fb,Onco,17,Monthly,0.71,Yes,Je base toutes mes décisions sur l'evidence-based medicine comme socle de ma pratique.,0
+94254b2c4f2253c4,GP,9,Weekly,0.53,No,J'intègre systématiquement les guidelines internationales récentes en matière de prescription.,0
+96f187c62c0dbe13,Onco,17,Weekly,0.02,Yes,Ma priorité reste avant tout les guidelines internationales récentes en matière de prescription.,0
+773b6d5dfb15f995,Pulmono,9,Monthly,0.89,Yes,Je prescris en fonction de les données de vie réelle importantes pour ma pratique quotidienne.,0
+6eb7e2fac5b71521,GP,15,Monthly,0.45,Yes,Ma démarche s'appuie sur la balance efficacité-tolérance dans chaque décision thérapeutique. Les patients âgés nécessitent une attention particulière accrue.,0
+544bb261bf103f86,Pulmono,4,Monthly,0.57,No,Je valorise particulièrement les facteurs de risque spécifiques à chaque patient.,0
+9efcab4731c1e051,Endocrino,14,Rare,0.72,Yes,L'essentiel pour moi reste les contre-indications absolues que je vérifie systématiquement. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+592caa714ddae3ef,Pulmono,9,Weekly,0.16,No,Mon approche privilégie clairement l'expérience clinique accumulée au fil de nombreuses années. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+7f3ea5929cc652fe,GP,7,Weekly,0.65,No,Je tiens particulièrement compte de le profil individuel spécifique de chaque patient avant tout.,0
+6df079f05d354661,Endocrino,4,Weekly,0.23,No,Je prescris en fonction de la personnalisation optimale du traitement selon chaque cas particulier. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+ef6c9d0700b34fe9,GP,14,Monthly,0.24,No,Je tiens particulièrement compte de les facteurs de risque spécifiques à chaque patient.,0
+51dd23deb4a6a4bd,Pulmono,6,Weekly,0.22,No,Mon expérience clinique montre que l'efficacité clinique démontrée plutôt que les considérations économiques. Les effets secondaires constituent un critère absolument déterminant.,0
+76df3b05e8c026db,Onco,9,Weekly,0.79,No,Je base toutes mes décisions sur les retours d'expérience de mes patients au fil du temps. Le coût reste malheureusement un frein majeur pour certains patients.,0
+8cf5fe12b8ed56fc,Endocrino,8,Weekly,0.33,No,J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+ff839af437759f2d,Cardio,9,Weekly,0.5,No,Mon expérience clinique montre que les interactions médicamenteuses potentielles à surveiller toujours. Les patients âgés nécessitent une attention particulière accrue.,0
+a984d14c4db80449,Endocrino,10,Daily,0.51,Yes,Je me concentre essentiellement sur les traitements validés avec données solides et robustes disponibles. Les risques d'interactions augmentent avec les polymédications.,0
+715e1cfac5024aa4,GP,11,Daily,0.52,Yes,,1
+4d74e25d404a8392,Endocrino,6,Rare,0.81,No,"L'essentiel pour moi reste la personnalisation optimale du traitement selon chaque cas particulier. Les recommandations évoluent constamment, il faut rester très informé.",0
+bfec5c511e9175ca,Endocrino,13,Weekly,0.53,No,"Les recommandations évoluent constamment, il faut rester très informé.",0
+016d5b1a9577c6ce,GP,9,Weekly,0.14,No,Je valorise particulièrement la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+fdbaeb39a87d9d68,GP,11,Monthly,0.81,No,L'essentiel pour moi reste la tolérance du traitement autant que son efficacité thérapeutique. La coordination avec la médecine de ville est essentielle. Je participe très régulièrement à des formations continues obligatoires.,0
+78b7f2e33632d84e,Endocrino,13,Monthly,0.85,Yes,Je considère d'abord systématiquement les retours d'expérience de mes patients au fil du temps. Je suis très attentif aux retours d'expérience de mes patients.,0
+1e3b3eb76ccdd5b3,Cardio,9,Monthly,0.47,No,Pour ma pratique quotidienne les interactions médicamenteuses potentielles à surveiller toujours.,0
+70f0e650a0a116a6,Pulmono,13,Weekly,0.68,No,Dans mon exercice la balance efficacité-tolérance dans chaque décision thérapeutique. Les risques d'interactions augmentent avec les polymédications.,0
+247206fed9a3b3f3,GP,8,Monthly,0.41,No,Dans mon exercice le profil individuel spécifique de chaque patient avant tout. Je prends systématiquement le temps d'expliquer le traitement en détail. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+55216470fe8963ee,GP,8,Weekly,0.33,No,Je base toutes mes décisions sur les recommandations officielles de la HAS mises à jour systématiquement. Les risques d'interactions augmentent avec les polymédications.,0
+b341dcd67e945db7,Endocrino,9,Weekly,0.79,No,Mon raisonnement clinique privilégie les données de vie réelle importantes pour ma pratique quotidienne. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+0915bfd66a81736b,Endocrino,6,Monthly,0.64,No,Je base toutes mes décisions sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+6971ea280554606c,Cardio,7,Monthly,0.05,No,Ma pratique repose entièrement sur les guidelines internationales récentes en matière de prescription. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+edbdd2174d024577,Endocrino,8,Weekly,0.34,No,J'accorde une grande importance à les traitements validés avec données solides et robustes disponibles. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+c8541960e823eb62,Cardio,17,Rare,0.51,Yes,Je considère d'abord systématiquement la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+22f87f63663264d0,Endocrino,12,Monthly,0.21,No,Dans mon exercice la tolérance du traitement autant que son efficacité thérapeutique. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+bca54b1348b8c21a,GP,10,Monthly,0.25,Yes,Je tiens particulièrement compte de la simplicité du schéma thérapeutique pour améliorer l'observance. L'impact sur la qualité de vie globale compte énormément.,0
+2a4b7b3fcd471fb2,GP,10,Weekly,0.53,No,Mon expérience clinique montre que les interactions médicamenteuses potentielles à surveiller toujours. Je privilégie les génériques quand c'est médicalement approprié.,0
+3801260d4639c639,GP,10,Weekly,0.09,Yes,Mon raisonnement clinique privilégie l'efficacité clinique démontrée plutôt que les considérations économiques. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+540c72b66d95653b,GP,15,Weekly,0.39,No,Je me concentre essentiellement sur l'expérience clinique accumulée au fil de nombreuses années. Je privilégie les génériques quand c'est médicalement approprié.,0
+71b74a1646ae6e21,GP,16,Daily,0.79,No,Dans mon exercice l'evidence-based medicine comme socle de ma pratique. Je suis très attentif aux retours d'expérience de mes patients.,0
+87a0b125c52ff418,GP,4,Weekly,0.76,No,Ma pratique repose entièrement sur l'evidence-based medicine comme socle de ma pratique. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+582cf51e24fd4588,Onco,11,Monthly,0.79,Yes,Je prescris en fonction de la simplicité du schéma thérapeutique pour améliorer l'observance. Les patients âgés nécessitent une attention particulière accrue.,0
+31f90e33485ecace,GP,10,Monthly,0.3,No,Je base toutes mes décisions sur les recommandations officielles de la HAS mises à jour systématiquement.,0
+c1f4d532748c32e1,GP,11,Weekly,0.91,No,Je valorise particulièrement les traitements validés avec données solides et robustes disponibles. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+79a9eeafb2cac4dc,Pulmono,11,Weekly,0.41,Yes,Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+0923a7e99a7e49ca,Cardio,9,Daily,0.97,Yes,Je suis très attentif à le profil individuel spécifique de chaque patient avant tout.,0
+255206897a687891,Cardio,8,Monthly,0.08,No,Ma pratique repose entièrement sur les contre-indications absolues que je vérifie systématiquement.,0
+b4d3f67d91404bc3,Cardio,18,Daily,0.49,No,J'accorde une grande importance à l'expérience clinique accumulée au fil de nombreuses années. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+b3f3ef232a6e21e7,Cardio,15,Monthly,0.19,Yes,J'accorde une grande importance à les contre-indications absolues que je vérifie systématiquement.,0
+fd14d32eba976fd0,GP,5,Monthly,0.35,No,Je base toutes mes décisions sur la tolérance du traitement autant que son efficacité thérapeutique. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+4166f008c2cb3c71,GP,11,Weekly,0.23,No,Ma priorité reste avant tout l'éducation thérapeutique approfondie du patient car c'est fondamental. La compliance est souvent problématique avec les schémas complexes.,0
+ea9b035d8f286442,Pulmono,9,Weekly,0.5,Yes,Mon raisonnement clinique privilégie les contre-indications absolues que je vérifie systématiquement. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+f0fbe9e59d92814b,GP,9,Weekly,0.48,No,Dans mon exercice la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+08d733130f29f838,GP,9,Monthly,0.5,Yes,J'accorde une grande importance à l'éducation thérapeutique approfondie du patient car c'est fondamental. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+7f9e9073765e38e2,Cardio,14,Monthly,0.08,Yes,Je m'appuie principalement sur l'efficacité clinique démontrée plutôt que les considérations économiques. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+c70c5fa4ebbbcf43,GP,8,Monthly,0.2,Yes,Je privilégie toujours les données de vie réelle importantes pour ma pratique quotidienne.,0
+5a38285b4899c33f,Cardio,5,Monthly,0.91,No,Mon approche privilégie clairement la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+1e48f6a4efbdfb5f,Pulmono,12,Daily,0.62,No,Ma priorité reste avant tout le rapport bénéfice-risque qui doit impérativement rester favorable. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+851a17a6e3782b8e,Onco,9,Daily,0.35,No,Je m'appuie principalement sur la personnalisation optimale du traitement selon chaque cas particulier. Les patients âgés nécessitent une attention particulière accrue.,0
+336b231e2915d301,Pulmono,10,Monthly,0.37,Yes,Je privilégie toujours les traitements validés avec données solides et robustes disponibles. La compliance est souvent problématique avec les schémas complexes.,0
+c0cda07ce8a98300,GP,14,Monthly,0.42,Yes,Je tiens particulièrement compte de les preuves scientifiques les plus récentes disponibles dans la littérature. Les risques d'interactions augmentent avec les polymédications.,0
+83b127f374dd3cea,Onco,6,Monthly,0.2,No,Je privilégie toujours le rapport bénéfice-risque qui doit impérativement rester favorable. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+5e91464208512a2a,GP,15,Monthly,0.13,Yes,Mon raisonnement clinique privilégie la simplicité du schéma thérapeutique pour améliorer l'observance. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+ee6373caff9335d0,GP,6,Weekly,0.27,No,Je privilégie les génériques quand c'est médicalement approprié.,0
+291a101c6d5d7193,Cardio,6,Weekly,0.76,No,Je base toutes mes décisions sur l'éducation thérapeutique approfondie du patient car c'est fondamental. L'impact sur la qualité de vie globale compte énormément.,0
+af5c17ff51677832,Endocrino,12,Monthly,0.47,No,Je m'appuie principalement sur l'expérience clinique accumulée au fil de nombreuses années. L'impact sur la qualité de vie globale compte énormément.,0
+26fff9f50a7afd41,GP,10,Rare,0.56,Yes,Je considère d'abord systématiquement l'evidence-based medicine comme socle de ma pratique. Les risques d'interactions augmentent avec les polymédications.,0
+74b860a776004131,Endocrino,13,Weekly,0.7,No,Je base toutes mes décisions sur la balance efficacité-tolérance dans chaque décision thérapeutique. Je participe très régulièrement à des formations continues obligatoires.,0
+7fa3450e50075d48,Pulmono,7,Weekly,0.91,Yes,Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+1641cac03eb24b59,GP,5,Weekly,0.25,No,Ma démarche s'appuie sur l'éducation thérapeutique approfondie du patient car c'est fondamental. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+fd50628aa47af4d6,Endocrino,9,Daily,0.42,No,Mon raisonnement clinique privilégie les facteurs de risque spécifiques à chaque patient. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+43de1d1635a10801,GP,11,Weekly,0.21,No,Je considère d'abord systématiquement la tolérance du traitement autant que son efficacité thérapeutique. La compliance est souvent problématique avec les schémas complexes.,0
+7c7964f2753bacb0,Cardio,11,Rare,0.71,No,Je prescris en fonction de les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Le suivi régulier rapproché permet d'ajuster efficacement le traitement. Je suis très attentif aux retours d'expérience de mes patients.,0
+901da70905863cab,GP,11,Monthly,0.33,No,Je m'appuie principalement sur les interactions médicamenteuses potentielles à surveiller toujours. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+2fae07fafc3c56e5,Endocrino,8,Monthly,0.21,No,Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+b561fc319118cb4d,GP,3,Monthly,0.67,Yes,Je tiens particulièrement compte de l'evidence-based medicine comme socle de ma pratique. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+6faabc8424d40b73,Pulmono,7,Weekly,0.49,No,Ma pratique repose entièrement sur les facteurs de risque spécifiques à chaque patient.,0
+5c0ffe95fe04f21e,Onco,7,Rare,0.04,No,Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+1a84a0774beed1e5,Onco,7,Weekly,0.67,No,Je tiens particulièrement compte de les traitements validés avec données solides et robustes disponibles. La compliance est souvent problématique avec les schémas complexes.,0
+0c8d8cd730d8445c,GP,10,Rare,0.7,No,Je considère d'abord systématiquement les interactions médicamenteuses potentielles à surveiller toujours. Je privilégie les génériques quand c'est médicalement approprié.,0
+8d9a7f580e2996b7,GP,10,Monthly,0.47,No,Je base toutes mes décisions sur les données de vie réelle importantes pour ma pratique quotidienne.,0
+d1122512adb02081,Cardio,11,Weekly,0.09,No,Je valorise particulièrement la balance efficacité-tolérance dans chaque décision thérapeutique. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+3a7e13e689ac80c0,Endocrino,8,Weekly,0.33,No,Mon expérience clinique montre que le rapport bénéfice-risque qui doit impérativement rester favorable. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+a7ca634d8227f7c0,Onco,11,Weekly,0.36,Yes,Dans mon exercice l'éducation thérapeutique approfondie du patient car c'est fondamental. Les patients âgés nécessitent une attention particulière accrue.,0
+ad9c86c7f45aa5af,Pulmono,12,Daily,0.34,No,Je considère d'abord systématiquement les preuves scientifiques les plus récentes disponibles dans la littérature. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+54b918d905eeafaf,Cardio,13,Weekly,0.29,No,Mon approche privilégie clairement la simplicité du schéma thérapeutique pour améliorer l'observance. Je participe très régulièrement à des formations continues obligatoires.,0
+dcba6cd816d45d8c,GP,6,Monthly,0.62,No,Dans mon exercice les recommandations officielles de la HAS mises à jour systématiquement. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+cbd3058df60ea7f9,Pulmono,11,Monthly,0.68,No,J'intègre systématiquement les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+7ec7f78ff265162e,GP,11,Weekly,0.76,No,,1
+44c8009519a352ef,GP,8,Weekly,0.59,No,Je considère d'abord systématiquement la personnalisation optimale du traitement selon chaque cas particulier.,0
+99b89a30f66adad1,Pulmono,7,Monthly,0.61,No,J'accorde une grande importance à les interactions médicamenteuses potentielles à surveiller toujours. La coordination avec la médecine de ville est essentielle. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+9908bc63fdcb0398,Cardio,9,Weekly,0.39,No,Je me concentre essentiellement sur la tolérance du traitement autant que son efficacité thérapeutique.,0
+eba4f6abe4d1dbe1,GP,15,Weekly,0.51,Yes,L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+9ce713bd59bf1838,GP,10,Monthly,0.65,Yes,Je valorise particulièrement la balance efficacité-tolérance dans chaque décision thérapeutique. Les risques d'interactions augmentent avec les polymédications.,0
+c52f98c6e52969f8,GP,7,Weekly,0.78,No,Je prescris en fonction de les guidelines internationales récentes en matière de prescription.,0
+052008f08d5724e5,Endocrino,16,Weekly,0.65,No,Ma démarche s'appuie sur la tolérance du traitement autant que son efficacité thérapeutique.,0
+504242a2d49c2776,GP,10,Weekly,0.85,No,Ma démarche s'appuie sur la simplicité du schéma thérapeutique pour améliorer l'observance. Je privilégie les génériques quand c'est médicalement approprié.,0
+819b338ffacc0548,Pulmono,11,Weekly,0.25,Yes,"Ma pratique repose entièrement sur les recommandations officielles de la HAS mises à jour systématiquement. Les recommandations évoluent constamment, il faut rester très informé.",0
+e22c7702a02b3f92,GP,12,Weekly,0.78,Yes,Je suis très attentif à les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je privilégie les génériques quand c'est médicalement approprié.,0
+f3c0c3e68ab45da7,Cardio,10,Weekly,0.21,No,"Je valorise particulièrement les contre-indications absolues que je vérifie systématiquement. Les recommandations évoluent constamment, il faut rester très informé.",0
+66a3e34dac3775d1,GP,11,Weekly,0.48,No,Mon expérience clinique montre que les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+1e25521080396ca3,GP,10,Monthly,0.81,No,Dans mon exercice les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+8f360385010c4bed,Endocrino,9,Monthly,0.64,No,Mon expérience clinique montre que le profil individuel spécifique de chaque patient avant tout. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+e87ad506cadbaf00,Endocrino,10,Monthly,0.86,No,Je me concentre essentiellement sur les interactions médicamenteuses potentielles à surveiller toujours. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+ee3ead6f1e3d9f1a,GP,11,Weekly,0.45,No,Mon approche privilégie clairement la balance efficacité-tolérance dans chaque décision thérapeutique. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+701b8c9e187e58f0,Cardio,13,Daily,0.3,No,"Dans mon exercice l'efficacité clinique démontrée plutôt que les considérations économiques. Les recommandations évoluent constamment, il faut rester très informé.",0
+20a1f77971ef927e,Pulmono,13,Weekly,0.67,Yes,Mon raisonnement clinique privilégie la personnalisation optimale du traitement selon chaque cas particulier. Je privilégie les génériques quand c'est médicalement approprié. Le coût reste malheureusement un frein majeur pour certains patients.,0
+d3f2adaedd461262,GP,17,Monthly,0.6,No,Pour ma pratique quotidienne les guidelines internationales récentes en matière de prescription.,0
+a443a33080af5e7b,GP,12,Weekly,0.64,Yes,Je privilégie toujours le profil individuel spécifique de chaque patient avant tout. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+2fa7bb83cd0d420a,Cardio,9,Weekly,0.76,Yes,Je suis très attentif à l'éducation thérapeutique approfondie du patient car c'est fondamental. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+bb6c4c39ec9fd2cb,Endocrino,9,Weekly,0.26,No,Mon expérience clinique montre que l'evidence-based medicine comme socle de ma pratique. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+da2fee92a586aa2b,GP,11,Rare,0.14,No,Je privilégie toujours les traitements validés avec données solides et robustes disponibles. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+b1160a9af5248905,GP,7,Rare,0.68,No,Ma priorité reste avant tout l'éducation thérapeutique approfondie du patient car c'est fondamental. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+5f123e05672785a5,Endocrino,7,Daily,0.78,No,Je tiens particulièrement compte de la tolérance du traitement autant que son efficacité thérapeutique. Le coût reste malheureusement un frein majeur pour certains patients.,0
+297b37d3bd74220d,Onco,8,Monthly,0.8,No,Ma démarche s'appuie sur la balance efficacité-tolérance dans chaque décision thérapeutique. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+cb753dee2ce7b053,Cardio,7,Daily,0.9,Yes,Mon approche privilégie clairement l'efficacité clinique démontrée plutôt que les considérations économiques. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+06cd981292e31e2b,GP,10,Weekly,0.29,Yes,Je considère d'abord systématiquement la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+aab3af224a8ed28a,Cardio,11,Weekly,0.6,No,Ma démarche s'appuie sur les facteurs de risque spécifiques à chaque patient. Les patients âgés nécessitent une attention particulière accrue.,0
+b9f872bc239de702,GP,9,Daily,0.26,No,Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+9748ab165d247b3b,GP,10,Daily,0.62,No,Pour ma pratique quotidienne les recommandations officielles de la HAS mises à jour systématiquement. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée. Les patients âgés nécessitent une attention particulière accrue.,0
+99195c8cf9cc4ca7,Cardio,11,Rare,0.84,No,J'accorde une grande importance à l'expérience clinique accumulée au fil de nombreuses années. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+5306a83fe96edf0d,Onco,16,Monthly,0.67,Yes,Je base toutes mes décisions sur les traitements validés avec données solides et robustes disponibles.,0
+1e17cb788759a9e5,Pulmono,8,Daily,0.58,Yes,Ma priorité reste avant tout les recommandations officielles de la HAS mises à jour systématiquement.,0
+bd325b85aae8af23,GP,9,Weekly,0.57,No,Je privilégie toujours la balance efficacité-tolérance dans chaque décision thérapeutique. Les patients âgés nécessitent une attention particulière accrue.,0
+901712200a20223e,Pulmono,7,Weekly,0.77,No,Mon approche privilégie clairement la tolérance du traitement autant que son efficacité thérapeutique. Je suis très attentif aux retours d'expérience de mes patients.,0
+0fc15365a726af8e,GP,10,Weekly,0.08,No,Ma pratique repose entièrement sur les données de vie réelle importantes pour ma pratique quotidienne. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+a614c84088be165d,GP,10,Monthly,0.59,No,J'intègre systématiquement les facteurs de risque spécifiques à chaque patient. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+f53bd6da86902bd5,Onco,8,Daily,0.59,No,Mon raisonnement clinique privilégie le profil individuel spécifique de chaque patient avant tout.,0
+ca5004f5606b7278,Onco,7,Monthly,0.62,Yes,Je privilégie toujours le profil individuel spécifique de chaque patient avant tout.,0
+40d47f0bc67ff2a3,GP,13,Weekly,0.34,Yes,Pour ma pratique quotidienne les contre-indications absolues que je vérifie systématiquement.,0
+e04d1bb8f0d7bb45,GP,13,Weekly,0.5,No,L'essentiel pour moi reste les retours d'expérience de mes patients au fil du temps.,0
+94a904138d6e2e40,GP,5,Weekly,0.58,No,Dans mon exercice les recommandations officielles de la HAS mises à jour systématiquement.,0
+9623b9fcbd8c7f98,Cardio,14,Rare,0.1,No,Je privilégie toujours la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+1f6256dbc2cdcf2d,Pulmono,7,Monthly,0.61,No,L'essentiel pour moi reste l'evidence-based medicine comme socle de ma pratique. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+6df3f82ffa32f433,GP,12,Daily,0.23,No,Mon raisonnement clinique privilégie les facteurs de risque spécifiques à chaque patient.,0
+36147fbb1bc467b2,Cardio,6,Monthly,0.49,Yes,Pour ma pratique quotidienne la tolérance du traitement autant que son efficacité thérapeutique. Les patients âgés nécessitent une attention particulière accrue.,0
+edf1f1c3891ae749,GP,20,Rare,0.78,Yes,Mon raisonnement clinique privilégie la tolérance du traitement autant que son efficacité thérapeutique. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+4643dd85f0a89c9a,GP,12,Weekly,0.62,No,L'essentiel pour moi reste la tolérance du traitement autant que son efficacité thérapeutique. La compliance est souvent problématique avec les schémas complexes.,0
+a727d89d858074fa,Pulmono,12,Weekly,0.64,No,Je suis très attentif à les facteurs de risque spécifiques à chaque patient. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+a61d1f5d92b6a7a1,Pulmono,9,Daily,0.63,Yes,Je m'appuie principalement sur l'evidence-based medicine comme socle de ma pratique. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+32ed797e77963248,GP,13,Weekly,0.62,Yes,J'accorde une grande importance à la personnalisation optimale du traitement selon chaque cas particulier. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+50c28d8a4404d7a4,GP,13,Monthly,0.43,No,Mon approche privilégie clairement le profil individuel spécifique de chaque patient avant tout. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+4fb5636a5951b1cd,GP,11,Weekly,0.64,No,Dans mon exercice l'expérience clinique accumulée au fil de nombreuses années. La compliance est souvent problématique avec les schémas complexes. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+e75378b4009c5241,Cardio,7,Daily,0.37,Yes,Ma priorité reste avant tout les traitements validés avec données solides et robustes disponibles. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+5e02ab8bd286a566,GP,5,Weekly,0.72,No,,1
+b49167d3dc139f01,Cardio,18,Weekly,0.54,Yes,Dans mon exercice les recommandations officielles de la HAS mises à jour systématiquement.,0
+f09abfddcc243ce4,GP,9,Weekly,0.87,No,Ma démarche s'appuie sur l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+818b0ef7a473e90e,GP,6,Monthly,0.66,No,Je m'appuie principalement sur le rapport bénéfice-risque qui doit impérativement rester favorable. L'impact sur la qualité de vie globale compte énormément.,0
+d8902c654f269a75,Pulmono,8,Daily,0.61,No,Je considère d'abord systématiquement les interactions médicamenteuses potentielles à surveiller toujours.,0
+f05c1ca6439338f6,GP,6,Weekly,0.82,No,Ma pratique repose entièrement sur la tolérance du traitement autant que son efficacité thérapeutique. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+7a4675a3026618e0,Pulmono,14,Weekly,0.43,Yes,L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+6d1b5531027d4f06,Cardio,12,Rare,0.45,No,Je considère d'abord systématiquement l'éducation thérapeutique approfondie du patient car c'est fondamental. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée. L'impact sur la qualité de vie globale compte énormément.,0
+d7500a9eeb664d06,Pulmono,9,Weekly,0.5,Yes,L'essentiel pour moi reste la tolérance du traitement autant que son efficacité thérapeutique. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+7bf2b3d1d5a3a916,GP,11,Daily,0.5,No,Je privilégie toujours les recommandations officielles de la HAS mises à jour systématiquement.,0
+ff3aa8393a0b1a12,Endocrino,8,Daily,0.9,No,Mon expérience clinique montre que l'éducation thérapeutique approfondie du patient car c'est fondamental. L'impact sur la qualité de vie globale compte énormément. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+a229ed2a01d54142,GP,8,Weekly,0.78,Yes,Je prescris en fonction de l'éducation thérapeutique approfondie du patient car c'est fondamental.,0
+e333b034daf708f8,Onco,11,Weekly,0.27,Yes,Mon approche privilégie clairement la tolérance du traitement autant que son efficacité thérapeutique. Le coût reste malheureusement un frein majeur pour certains patients.,0
+ae2d28f7f0a99211,Endocrino,11,Monthly,0.39,No,Je base toutes mes décisions sur les contre-indications absolues que je vérifie systématiquement. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+515d3679645d82b8,GP,10,Monthly,0.39,No,Je base toutes mes décisions sur les guidelines internationales récentes en matière de prescription. Je privilégie les génériques quand c'est médicalement approprié.,0
+a88a6929c8fc2a15,GP,8,Weekly,0.3,No,"Mon approche privilégie clairement la tolérance du traitement autant que son efficacité thérapeutique. Les recommandations évoluent constamment, il faut rester très informé.",0
+3eb7c53e8d1c5de5,Pulmono,10,Weekly,0.27,No,Ma pratique repose entièrement sur les preuves scientifiques les plus récentes disponibles dans la littérature. Je participe très régulièrement à des formations continues obligatoires.,0
+58907ddeacb37680,Onco,13,Monthly,0.68,No,Je privilégie les génériques quand c'est médicalement approprié.,0
+e78d17c38c07f2c8,Pulmono,11,Weekly,0.07,No,Je valorise particulièrement les guidelines internationales récentes en matière de prescription. La coordination avec la médecine de ville est essentielle. L'impact sur la qualité de vie globale compte énormément.,0
+3d0db91e300181db,Pulmono,10,Daily,0.66,No,Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+6918254fd9dd31b6,Pulmono,12,Weekly,0.13,Yes,Mon raisonnement clinique privilégie les données de vie réelle importantes pour ma pratique quotidienne. Je suis très attentif aux retours d'expérience de mes patients.,0
+3120fae3d692a9df,Cardio,9,Monthly,0.24,Yes,"Mon raisonnement clinique privilégie les traitements validés avec données solides et robustes disponibles. Les recommandations évoluent constamment, il faut rester très informé.",0
+b15dc3220dde6926,GP,6,Monthly,0.59,No,Dans mon exercice les guidelines internationales récentes en matière de prescription. Je participe très régulièrement à des formations continues obligatoires.,0
+f39c57a2f51d33cb,GP,8,Daily,0.4,No,Pour ma pratique quotidienne les contre-indications absolues que je vérifie systématiquement. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+2b9dacab28020cbd,Endocrino,7,Weekly,0.82,No,Je prescris en fonction de les interactions médicamenteuses potentielles à surveiller toujours. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+add9895851213c41,Cardio,5,Monthly,0.62,No,Je privilégie toujours l'evidence-based medicine comme socle de ma pratique.,0
+86cf921a3006af21,Cardio,8,Weekly,0.82,No,Je valorise particulièrement le rapport bénéfice-risque qui doit impérativement rester favorable.,0
+a9cc9efb3b8d66a0,GP,4,Monthly,0.52,No,Ma démarche s'appuie sur l'evidence-based medicine comme socle de ma pratique. Les risques d'interactions augmentent avec les polymédications.,0
+c4239b553883d993,Endocrino,5,Weekly,0.32,No,L'essentiel pour moi reste la personnalisation optimale du traitement selon chaque cas particulier.,0
+fcb2bc25e04eb9e6,GP,8,Rare,0.35,Yes,Dans mon exercice l'éducation thérapeutique approfondie du patient car c'est fondamental. Le coût reste malheureusement un frein majeur pour certains patients.,0
+acd6f5d5ee9f6cee,Cardio,9,Monthly,0.81,No,Je tiens particulièrement compte de les retours d'expérience de mes patients au fil du temps. Les risques d'interactions augmentent avec les polymédications.,0
+c63a59637fbe8c6a,Cardio,8,Weekly,0.56,No,L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+47f21e934cd169f7,GP,9,Weekly,0.27,No,Je privilégie toujours les preuves scientifiques les plus récentes disponibles dans la littérature. Les patients âgés nécessitent une attention particulière accrue.,0
+fdb559e1ae714603,Pulmono,14,Daily,0.49,Yes,Dans mon exercice les guidelines internationales récentes en matière de prescription. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+e5807e76b63035ae,Cardio,12,Weekly,0.41,No,Je prescris en fonction de les guidelines internationales récentes en matière de prescription. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+c83d26a52ab85d2b,Pulmono,10,Monthly,0.23,Yes,Ma priorité reste avant tout les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+27ffca9711e530af,GP,8,Weekly,0.36,No,Ma pratique repose entièrement sur l'evidence-based medicine comme socle de ma pratique. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+0bb783feec1ba961,GP,13,Monthly,0.71,No,J'intègre systématiquement les données de vie réelle importantes pour ma pratique quotidienne. Le coût reste malheureusement un frein majeur pour certains patients.,0
+3e276dcf42e0d075,GP,6,Weekly,0.63,Yes,Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+2d146a3edc020bb8,GP,11,Monthly,0.78,No,Je prescris en fonction de les contre-indications absolues que je vérifie systématiquement. L'impact sur la qualité de vie globale compte énormément.,0
+5a7ea3be4fc6c552,GP,8,Weekly,0.29,No,Je valorise particulièrement les contre-indications absolues que je vérifie systématiquement.,0
+263d8edabe2acfcf,GP,11,Monthly,0.81,No,Dans mon exercice les contre-indications absolues que je vérifie systématiquement. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée. Je participe très régulièrement à des formations continues obligatoires.,0
+08b930a4e413e9c9,Pulmono,19,Daily,0.16,Yes,Dans mon exercice les traitements validés avec données solides et robustes disponibles.,0
+b14df197e20f7a47,Onco,11,Weekly,0.52,Yes,Je base toutes mes décisions sur la personnalisation optimale du traitement selon chaque cas particulier.,0
+bd9df0580f453c36,Onco,11,Weekly,0.68,Yes,J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+b71c8fc577a4959a,Onco,11,Weekly,0.45,Yes,J'intègre systématiquement les traitements validés avec données solides et robustes disponibles. Les effets secondaires constituent un critère absolument déterminant.,0
+34343e90a493920b,Cardio,14,Weekly,0.55,No,Mon raisonnement clinique privilégie les facteurs de risque spécifiques à chaque patient. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+ffaf9fdf290d8ae8,Cardio,9,Weekly,0.68,No,Ma démarche s'appuie sur les retours d'expérience de mes patients au fil du temps. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+ae8a50abcc3e7e8f,GP,8,Rare,0.66,No,Je me concentre essentiellement sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je suis très attentif aux retours d'expérience de mes patients.,0
+138b39ef98c5dbe6,GP,14,Weekly,0.16,No,Ma pratique repose entièrement sur le rapport bénéfice-risque qui doit impérativement rester favorable. L'impact sur la qualité de vie globale compte énormément.,0
+55729f6aa1054f82,Pulmono,13,Monthly,0.5,Yes,Mon expérience clinique montre que les retours d'expérience de mes patients au fil du temps. Les risques d'interactions augmentent avec les polymédications.,0
+04eec867f507126e,Pulmono,3,Weekly,0.33,No,Mon raisonnement clinique privilégie les guidelines internationales récentes en matière de prescription.,0
+d32ce778bccd3e13,Pulmono,7,Weekly,0.77,No,Je me concentre essentiellement sur la tolérance du traitement autant que son efficacité thérapeutique.,0
+f6c072272d63e565,Pulmono,10,Monthly,0.17,No,Ma priorité reste avant tout les traitements validés avec données solides et robustes disponibles. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+2326c1ec002486fa,GP,10,Monthly,0.42,Yes,,1
+2b00ced1ff699f73,Cardio,6,Weekly,0.48,No,Ma démarche s'appuie sur l'éducation thérapeutique approfondie du patient car c'est fondamental. Je participe très régulièrement à des formations continues obligatoires. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+1433addb634bf834,Cardio,6,Monthly,0.27,No,,1
+7e7ec598d35ff2f0,Onco,12,Daily,0.79,No,Pour ma pratique quotidienne la tolérance du traitement autant que son efficacité thérapeutique. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+f6d40b6d928027b7,Onco,9,Monthly,0.44,Yes,Mon raisonnement clinique privilégie l'expérience clinique accumulée au fil de nombreuses années. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+d2cb83ca22a8400f,Cardio,7,Weekly,0.71,No,L'essentiel pour moi reste les données de vie réelle importantes pour ma pratique quotidienne.,0
+f44df3074b91291b,GP,11,Weekly,0.39,No,L'impact sur la qualité de vie globale compte énormément.,0
+9ff69c7040f7dd40,GP,17,Weekly,0.3,Yes,Je suis très attentif à les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+9187dcca0e077e40,GP,13,Weekly,0.24,No,Pour ma pratique quotidienne le profil individuel spécifique de chaque patient avant tout. La coordination avec la médecine de ville est essentielle.,0
+1563f2f408011b98,Pulmono,13,Weekly,0.5,Yes,L'essentiel pour moi reste les contre-indications absolues que je vérifie systématiquement.,0
+96e977aa01c1738c,GP,18,Weekly,0.47,No,"Je valorise particulièrement l'evidence-based medicine comme socle de ma pratique. Les recommandations évoluent constamment, il faut rester très informé.",0
+00edf94084620f95,GP,12,Monthly,0.79,No,Dans mon exercice les traitements validés avec données solides et robustes disponibles. Les patients âgés nécessitent une attention particulière accrue.,0
+d747a5a23c1a263d,GP,8,Weekly,0.37,No,Ma pratique repose entièrement sur les retours d'expérience de mes patients au fil du temps.,0
+cf837594503baf00,Onco,10,Weekly,0.43,No,Je valorise particulièrement les guidelines internationales récentes en matière de prescription. Les patients âgés nécessitent une attention particulière accrue.,0
+cefd53e7d43fabc7,Cardio,12,Weekly,0.52,Yes,Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+3c2abdf3f5f435b3,Endocrino,9,Monthly,0.05,No,Je valorise particulièrement les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+79387196e7be7cc8,GP,8,Monthly,0.61,No,L'essentiel pour moi reste les données de vie réelle importantes pour ma pratique quotidienne. Les risques d'interactions augmentent avec les polymédications. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+2433cf453bafda5a,GP,7,Weekly,0.57,No,Ma démarche s'appuie sur les données de vie réelle importantes pour ma pratique quotidienne. Je privilégie les génériques quand c'est médicalement approprié.,0
+7386b145f3830b5c,GP,4,Weekly,0.69,No,Mon raisonnement clinique privilégie le rapport bénéfice-risque qui doit impérativement rester favorable.,0
+2e2a32ca2dfbee89,Pulmono,10,Weekly,0.71,No,Je base toutes mes décisions sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+636120ebb025fe12,Pulmono,10,Monthly,0.6,No,Je me concentre essentiellement sur les recommandations officielles de la HAS mises à jour systématiquement.,0
+6bcbe8b03fc16437,Cardio,8,Monthly,0.46,No,Je privilégie les génériques quand c'est médicalement approprié.,0
+f5ae14827af84bc2,GP,7,Daily,0.51,Yes,Mon raisonnement clinique privilégie l'evidence-based medicine comme socle de ma pratique. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+68bb4187092f63a1,Pulmono,7,Monthly,0.18,Yes,J'intègre systématiquement les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+502a13988b600c4a,Endocrino,13,Daily,0.51,No,Je suis très attentif à l'expérience clinique accumulée au fil de nombreuses années. Les patients demandent de plus en plus souvent des alternatives moins chères. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+add962bb140428d5,GP,6,Weekly,0.55,No,Je suis très attentif aux retours d'expérience de mes patients.,0
+60065ed6bbf92bb7,GP,11,Rare,0.32,No,Je tiens particulièrement compte de les preuves scientifiques les plus récentes disponibles dans la littérature. Les patients âgés nécessitent une attention particulière accrue.,0
+43f04cc7559ece30,Endocrino,14,Monthly,0.14,Yes,J'intègre systématiquement les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je participe très régulièrement à des formations continues obligatoires.,0
+1d1fb9f8e26cd178,Cardio,18,Monthly,0.51,No,J'accorde une grande importance à les retours d'expérience de mes patients au fil du temps. La compliance est souvent problématique avec les schémas complexes.,0
+d891a8006ae8f9a3,Onco,7,Weekly,0.84,No,Je valorise particulièrement la balance efficacité-tolérance dans chaque décision thérapeutique. Je privilégie les génériques quand c'est médicalement approprié.,0
+29e0b3d1180a0063,Pulmono,10,Weekly,0.25,No,J'intègre systématiquement la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+eae4ac6182ebcc59,GP,8,Monthly,0.82,No,Je privilégie toujours l'evidence-based medicine comme socle de ma pratique.,0
+15e6fdeedcdae93b,Endocrino,10,Monthly,0.19,No,"Je privilégie toujours les données de vie réelle importantes pour ma pratique quotidienne. Les recommandations évoluent constamment, il faut rester très informé.",0
+e53c057ae07b2bce,GP,8,Weekly,0.45,No,Ma pratique repose entièrement sur le profil individuel spécifique de chaque patient avant tout. Les patients demandent de plus en plus souvent des alternatives moins chères. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+6a6c344eae1ab09f,Endocrino,9,Weekly,0.86,No,Mon approche privilégie clairement la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+08847c59df18decc,Endocrino,11,Monthly,0.45,No,Je tiens particulièrement compte de le profil individuel spécifique de chaque patient avant tout. Je reste particulièrement vigilant quant aux effets indésirables rares. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+3ea2d72e875021a5,Cardio,9,Rare,0.33,No,J'intègre systématiquement le profil individuel spécifique de chaque patient avant tout. Je suis très attentif aux retours d'expérience de mes patients.,0
+75fbc5e18a6f3d77,Pulmono,14,Monthly,0.62,Yes,Je me concentre essentiellement sur la tolérance du traitement autant que son efficacité thérapeutique.,0
+6bf98c8793243c5d,Endocrino,11,Monthly,0.77,No,J'intègre systématiquement le rapport bénéfice-risque qui doit impérativement rester favorable.,0
+6b1d632db68b5f49,Pulmono,7,Daily,0.62,No,Je base toutes mes décisions sur le rapport bénéfice-risque qui doit impérativement rester favorable. Les patients âgés nécessitent une attention particulière accrue.,0
+1469f0c1e0128a9b,GP,5,Monthly,0.38,No,Je considère d'abord systématiquement le profil individuel spécifique de chaque patient avant tout.,0
+b0c70124cdd5875e,GP,13,Monthly,0.77,Yes,Je base toutes mes décisions sur la personnalisation optimale du traitement selon chaque cas particulier. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+36e0ff462c92f069,Endocrino,6,Daily,0.62,No,J'intègre systématiquement le profil individuel spécifique de chaque patient avant tout.,0
+dbc27f74d8580acb,Onco,14,Monthly,0.22,No,Je m'appuie principalement sur l'expérience clinique accumulée au fil de nombreuses années. Les risques d'interactions augmentent avec les polymédications.,0
+4e9fd5afc4235edc,GP,10,Rare,0.42,No,Je me concentre essentiellement sur le rapport bénéfice-risque qui doit impérativement rester favorable. Je suis très attentif aux retours d'expérience de mes patients.,0
+b3693ca81422b4a2,GP,14,Weekly,0.41,No,Je valorise particulièrement les retours d'expérience de mes patients au fil du temps.,0
+f7782e40797b89ca,Cardio,9,Monthly,0.61,No,Je suis très attentif à l'expérience clinique accumulée au fil de nombreuses années. Je reste particulièrement vigilant quant aux effets indésirables rares. La compliance est souvent problématique avec les schémas complexes.,0
+ca74f58980859be7,Cardio,13,Monthly,0.14,Yes,Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+1bd03a493d913e2d,Pulmono,12,Weekly,0.74,No,Je prescris en fonction de les preuves scientifiques les plus récentes disponibles dans la littérature. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+3905ad8a7dc047c4,Endocrino,5,Monthly,0.9,No,Ma démarche s'appuie sur la tolérance du traitement autant que son efficacité thérapeutique. Le coût reste malheureusement un frein majeur pour certains patients.,0
+0a8d54667e457074,Onco,8,Weekly,0.66,No,Ma pratique repose entièrement sur la personnalisation optimale du traitement selon chaque cas particulier. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+2a72b3b8216516c5,Pulmono,10,Monthly,0.31,No,"J'intègre systématiquement les interactions médicamenteuses potentielles à surveiller toujours. Les recommandations évoluent constamment, il faut rester très informé.",0
+8b12db59568400e7,GP,9,Weekly,0.66,No,Mon approche privilégie clairement la balance efficacité-tolérance dans chaque décision thérapeutique. Le suivi régulier rapproché permet d'ajuster efficacement le traitement. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+07bf3682770f2ddf,Endocrino,10,Monthly,0.41,No,,1
+cea13547663860b1,Endocrino,11,Weekly,0.32,No,Ma pratique repose entièrement sur les recommandations officielles de la HAS mises à jour systématiquement.,0
+50bb1f0a83605c2d,Onco,18,Daily,0.49,No,Mon raisonnement clinique privilégie le profil individuel spécifique de chaque patient avant tout. Les risques d'interactions augmentent avec les polymédications.,0
+01fe1672b5682a7d,GP,7,Weekly,0.71,No,Je considère d'abord systématiquement les guidelines internationales récentes en matière de prescription.,0
+3be78521541e5adf,GP,4,Weekly,0.31,Yes,J'intègre systématiquement l'éducation thérapeutique approfondie du patient car c'est fondamental. Les effets secondaires constituent un critère absolument déterminant. Je suis très attentif aux retours d'expérience de mes patients.,0
+44b8ab37eeed340b,GP,12,Daily,0.62,No,Ma démarche s'appuie sur le rapport bénéfice-risque qui doit impérativement rester favorable. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+5fcebce56d9eb637,Cardio,13,Daily,0.82,Yes,Ma démarche s'appuie sur l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+974d9d1c6db5b935,GP,8,Monthly,0.66,Yes,Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+a772ff5687a5cab0,Endocrino,11,Monthly,0.28,Yes,Pour ma pratique quotidienne les retours d'expérience de mes patients au fil du temps.,0
+1f008ad295136497,Pulmono,12,Rare,0.49,No,Je base toutes mes décisions sur l'efficacité clinique démontrée plutôt que les considérations économiques. Je suis très attentif aux retours d'expérience de mes patients. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+f1ef90d7529b9175,Cardio,13,Monthly,0.22,No,Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+dd2a6696a4c7f61d,Cardio,17,Monthly,0.25,No,Mon expérience clinique montre que les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je suis très attentif aux retours d'expérience de mes patients.,0
+610faf4ab86c9c78,Onco,8,Daily,0.24,No,Je considère d'abord systématiquement l'expérience clinique accumulée au fil de nombreuses années. Les risques d'interactions augmentent avec les polymédications.,0
+52475c0108cb3123,Cardio,13,Monthly,0.27,Yes,Ma démarche s'appuie sur les guidelines internationales récentes en matière de prescription. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+68b13c7f403d92e5,GP,11,Monthly,0.26,No,Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+da8a17712967878d,GP,11,Daily,0.68,Yes,L'essentiel pour moi reste l'éducation thérapeutique approfondie du patient car c'est fondamental. L'impact sur la qualité de vie globale compte énormément.,0
+ad505df30809ed8d,Cardio,2,Monthly,0.68,No,Ma priorité reste avant tout les facteurs de risque spécifiques à chaque patient. Les risques d'interactions augmentent avec les polymédications.,0
+c07ecb491bc915b0,GP,8,Weekly,0.59,No,Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+2ec6da9f2b411bc7,Endocrino,11,Rare,0.5,No,Ma pratique repose entièrement sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+087da299784931ec,Onco,2,Monthly,0.68,No,L'essentiel pour moi reste les données de vie réelle importantes pour ma pratique quotidienne. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+9148178e46c8a051,Endocrino,5,Rare,0.4,No,J'intègre systématiquement la simplicité du schéma thérapeutique pour améliorer l'observance. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+f3337793b4cfb804,GP,9,Daily,0.43,No,Ma démarche s'appuie sur l'éducation thérapeutique approfondie du patient car c'est fondamental. Les patients âgés nécessitent une attention particulière accrue.,0
+bb5e65aca3e32b32,GP,12,Daily,0.85,No,Ma démarche s'appuie sur les contre-indications absolues que je vérifie systématiquement. La compliance est souvent problématique avec les schémas complexes.,0
+a5cdaa1e941bc07a,Onco,6,Rare,0.82,No,Ma pratique repose entièrement sur la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+7b74d29e3441d95d,Pulmono,12,Daily,0.43,Yes,Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+d5eecebcb0b621c6,Cardio,8,Weekly,0.35,No,Ma démarche s'appuie sur l'efficacité clinique démontrée plutôt que les considérations économiques. Je participe très régulièrement à des formations continues obligatoires.,0
+408652407cd7b7c8,GP,9,Monthly,0.62,No,Mon approche privilégie clairement les retours d'expérience de mes patients au fil du temps. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+4cbc02aee3e01d9c,Endocrino,9,Monthly,0.56,Yes,Je privilégie toujours l'efficacité clinique démontrée plutôt que les considérations économiques. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+91c3edb0a14b9cae,GP,16,Weekly,0.32,No,Je suis très attentif à la personnalisation optimale du traitement selon chaque cas particulier.,0
+019c8f0741bd9c26,GP,3,Daily,0.43,No,Je suis très attentif à les retours d'expérience de mes patients au fil du temps. Je privilégie les génériques quand c'est médicalement approprié.,0
+bbc9a50b19016f95,GP,15,Weekly,0.65,No,Je prescris en fonction de les recommandations officielles de la HAS mises à jour systématiquement. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+3a61b66cec05d569,Cardio,6,Weekly,0.47,No,Je me concentre essentiellement sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+9c56c096b58d64b6,GP,8,Weekly,0.91,No,Je prescris en fonction de l'efficacité clinique démontrée plutôt que les considérations économiques. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+a96f2e2011507eb4,GP,11,Monthly,0.2,No,Mon approche privilégie clairement les interactions médicamenteuses potentielles à surveiller toujours. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+d229b4893ca317fc,GP,9,Monthly,0.8,No,Je prescris en fonction de la balance efficacité-tolérance dans chaque décision thérapeutique. Je collabore étroitement avec d'autres spécialistes si nécessaire. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+2b56f8d54a5d6178,Endocrino,9,Monthly,0.11,No,Pour ma pratique quotidienne les données de vie réelle importantes pour ma pratique quotidienne. L'impact sur la qualité de vie globale compte énormément.,0
+8a63eb074b349d6e,Endocrino,7,Weekly,0.41,No,Je base toutes mes décisions sur la personnalisation optimale du traitement selon chaque cas particulier.,0
+27113e2f7ea6db73,GP,9,Monthly,0.91,Yes,Je privilégie toujours les données de vie réelle importantes pour ma pratique quotidienne. Je participe très régulièrement à des formations continues obligatoires.,0
+d715187ca9ee0ab7,Onco,18,Rare,0.64,No,J'intègre systématiquement les traitements validés avec données solides et robustes disponibles. Les risques d'interactions augmentent avec les polymédications.,0
+502c50b3b7172876,Cardio,6,Monthly,0.26,No,Je prescris en fonction de la balance efficacité-tolérance dans chaque décision thérapeutique. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+66093307d1b24097,GP,11,Weekly,0.71,No,Je prescris en fonction de l'éducation thérapeutique approfondie du patient car c'est fondamental. Les patients âgés nécessitent une attention particulière accrue.,0
+717e2194da113ea8,GP,13,Rare,0.91,No,L'essentiel pour moi reste la simplicité du schéma thérapeutique pour améliorer l'observance. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+aa8466aeb1baaa5b,Endocrino,9,Weekly,0.56,No,Mon raisonnement clinique privilégie l'efficacité clinique démontrée plutôt que les considérations économiques. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+72ea21a8db598b3f,GP,11,Monthly,0.48,No,Je me concentre essentiellement sur les données de vie réelle importantes pour ma pratique quotidienne. Le coût reste malheureusement un frein majeur pour certains patients.,0
+cf35f62b3d73995b,GP,9,Daily,0.25,No,Je privilégie toujours les guidelines internationales récentes en matière de prescription. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+27454ac8798062ad,Endocrino,7,Monthly,0.66,No,"J'intègre systématiquement le rapport bénéfice-risque qui doit impérativement rester favorable. Les recommandations évoluent constamment, il faut rester très informé.",0
+9ee6eac181231191,Cardio,7,Rare,0.17,No,Je base toutes mes décisions sur les retours d'expérience de mes patients au fil du temps. Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+177c1bf4aa96576d,Pulmono,16,Weekly,0.07,No,Je tiens particulièrement compte de la simplicité du schéma thérapeutique pour améliorer l'observance. Je suis très attentif aux retours d'expérience de mes patients.,0
+02a4f8e55b20ac85,Pulmono,7,Weekly,0.62,Yes,Je privilégie toujours les retours d'expérience de mes patients au fil du temps.,0
+13522033fd884f4d,Onco,8,Daily,0.25,Yes,Je tiens particulièrement compte de la tolérance du traitement autant que son efficacité thérapeutique.,0
+341b3f0e3de4c03d,GP,4,Weekly,0.36,No,Je privilégie toujours la balance efficacité-tolérance dans chaque décision thérapeutique. Les risques d'interactions augmentent avec les polymédications. Le coût reste malheureusement un frein majeur pour certains patients.,0
+49455593a7420dbe,GP,8,Weekly,0.24,Yes,J'intègre systématiquement les retours d'expérience de mes patients au fil du temps. Les effets secondaires constituent un critère absolument déterminant.,0
+c42e7172f96ea5d4,Onco,5,Monthly,0.84,No,Je considère d'abord systématiquement l'expérience clinique accumulée au fil de nombreuses années.,0
+52744af964a86b1c,Endocrino,8,Weekly,0.37,No,"Je suis très attentif à la personnalisation optimale du traitement selon chaque cas particulier. Les patients âgés nécessitent une attention particulière accrue. Les recommandations évoluent constamment, il faut rester très informé.",0
+f7c893dcceb27e07,Endocrino,7,Daily,0.93,No,Mon approche privilégie clairement les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+0107dbdf3413c388,GP,10,Weekly,0.63,No,Mon raisonnement clinique privilégie les interactions médicamenteuses potentielles à surveiller toujours. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+4e29e812b2c5f15a,GP,18,Weekly,0.34,No,L'essentiel pour moi reste les preuves scientifiques les plus récentes disponibles dans la littérature. La coordination avec la médecine de ville est essentielle.,0
+ae55cb1087b292f4,GP,9,Monthly,0.23,No,Ma pratique repose entièrement sur les retours d'expérience de mes patients au fil du temps.,0
+54002ccedaaf6482,Cardio,9,Monthly,0.38,No,J'intègre systématiquement l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+5039ef8a66268422,GP,7,Monthly,0.54,No,Je prescris en fonction de les interactions médicamenteuses potentielles à surveiller toujours.,0
+5c82ee6911694d1d,Cardio,14,Weekly,0.33,No,Je suis très attentif à la balance efficacité-tolérance dans chaque décision thérapeutique. La compliance est souvent problématique avec les schémas complexes.,0
+d3a9871bd921c3d9,Cardio,7,Weekly,0.36,No,"Mon expérience clinique montre que l'éducation thérapeutique approfondie du patient car c'est fondamental. Les recommandations évoluent constamment, il faut rester très informé.",0
+d4cac076f3955e89,GP,7,Weekly,0.56,No,,1
+5c0cbb1c27dbf6ca,GP,14,Daily,0.84,No,Mon raisonnement clinique privilégie l'efficacité clinique démontrée plutôt que les considérations économiques. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+821f00192f28d1f7,GP,11,Weekly,0.78,Yes,Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+0f5cdc34bd305ad8,GP,17,Monthly,0.73,No,Dans mon exercice les contre-indications absolues que je vérifie systématiquement. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+dad8c8c98dbcd0e9,GP,15,Daily,0.31,No,Mon raisonnement clinique privilégie la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+46c9b7295695ddba,GP,12,Daily,0.72,Yes,Je tiens particulièrement compte de la balance efficacité-tolérance dans chaque décision thérapeutique. La coordination avec la médecine de ville est essentielle.,0
+60489004f2129485,Cardio,10,Monthly,0.53,Yes,J'accorde une grande importance à les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+30ec6abbe94dcd8f,Endocrino,7,Monthly,0.45,No,Mon approche privilégie clairement les traitements validés avec données solides et robustes disponibles.,0
+84f17a5f0fbcbb36,GP,7,Weekly,0.05,No,Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+5d46bc4d641a6f3f,Endocrino,12,Monthly,0.29,No,Ma priorité reste avant tout la personnalisation optimale du traitement selon chaque cas particulier. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+44333dd95faa1e44,Pulmono,12,Rare,0.29,Yes,J'accorde une grande importance à les recommandations officielles de la HAS mises à jour systématiquement. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+6d0232e469edd465,Endocrino,14,Weekly,0.44,Yes,Dans mon exercice les contre-indications absolues que je vérifie systématiquement. L'impact sur la qualité de vie globale compte énormément.,0
+f024d8dde58e8d5f,GP,9,Weekly,0.2,No,Je suis très attentif aux retours d'expérience de mes patients.,0
+f3843cafad995bfa,Cardio,8,Weekly,0.6,No,,1
+ae0edb9f662e8e0f,Endocrino,12,Monthly,0.14,Yes,L'essentiel pour moi reste les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+4d5373fabd7e4072,Onco,7,Weekly,0.84,No,"Je prescris en fonction de les interactions médicamenteuses potentielles à surveiller toujours. Les recommandations évoluent constamment, il faut rester très informé.",0
+2f27f0bf383c8c65,Onco,9,Rare,0.56,No,J'intègre systématiquement l'expérience clinique accumulée au fil de nombreuses années. Le suivi régulier rapproché permet d'ajuster efficacement le traitement. Les effets secondaires constituent un critère absolument déterminant.,0
+763bf18b1ed09fdc,GP,14,Monthly,0.11,No,Je prescris en fonction de les traitements validés avec données solides et robustes disponibles. Les patients âgés nécessitent une attention particulière accrue. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+2b54831d18fc2af5,Endocrino,11,Weekly,0.44,No,Je valorise particulièrement la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+5caae0d901a3d3ae,Pulmono,13,Daily,0.76,No,Je valorise particulièrement l'expérience clinique accumulée au fil de nombreuses années.,0
+addeb3ac52b5cbbe,Pulmono,4,Weekly,0.23,No,J'intègre systématiquement les interactions médicamenteuses potentielles à surveiller toujours.,0
+f7d7162d35b42b22,Cardio,11,Weekly,0.85,No,,1
+b929e3f2ae9b5e85,GP,11,Rare,0.38,No,J'accorde une grande importance à les données de vie réelle importantes pour ma pratique quotidienne.,0
+f001bc62acaca238,GP,4,Weekly,0.78,No,"Je valorise particulièrement la simplicité du schéma thérapeutique pour améliorer l'observance. Les recommandations évoluent constamment, il faut rester très informé.",0
+b068101825e4b5c9,Cardio,12,Weekly,0.46,No,Je me concentre essentiellement sur l'evidence-based medicine comme socle de ma pratique. Les patients âgés nécessitent une attention particulière accrue.,0
+773d4ebaf854894a,Endocrino,9,Weekly,0.5,No,Je prescris en fonction de les données de vie réelle importantes pour ma pratique quotidienne. Je suis très attentif aux retours d'expérience de mes patients.,0
+40e4bd4ce669b6f9,Onco,8,Daily,0.34,No,Ma démarche s'appuie sur les traitements validés avec données solides et robustes disponibles. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+b0bdb338cb3426d8,Pulmono,10,Weekly,0.76,No,Mon raisonnement clinique privilégie les preuves scientifiques les plus récentes disponibles dans la littérature. Les patients âgés nécessitent une attention particulière accrue.,0
+c48aa5ce828d8327,GP,9,Daily,0.43,No,Je tiens particulièrement compte de les contre-indications absolues que je vérifie systématiquement. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+0349b5cf46f5443f,Endocrino,11,Monthly,0.43,No,Mon approche privilégie clairement la balance efficacité-tolérance dans chaque décision thérapeutique. La coordination avec la médecine de ville est essentielle.,0
+4d2a75696e3e6a79,GP,10,Weekly,0.39,No,Je tiens particulièrement compte de les guidelines internationales récentes en matière de prescription. Je suis très attentif aux retours d'expérience de mes patients.,0
+bf1bcae24a69853a,Endocrino,10,Weekly,0.25,Yes,Ma pratique repose entièrement sur le rapport bénéfice-risque qui doit impérativement rester favorable. La compliance est souvent problématique avec les schémas complexes.,0
+ff0dad3852cb703c,Endocrino,6,Monthly,0.73,No,Ma priorité reste avant tout l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+446a5f03cc91c123,GP,10,Daily,0.34,No,,1
+4a9de318ba4f95e5,GP,12,Weekly,0.36,No,Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+44d79747a9df2f52,GP,8,Weekly,0.45,No,Ma démarche s'appuie sur l'éducation thérapeutique approfondie du patient car c'est fondamental. Le coût reste malheureusement un frein majeur pour certains patients.,0
+e84fbe5cfe97b90b,GP,13,Weekly,0.34,No,Dans mon exercice les contre-indications absolues que je vérifie systématiquement. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+5b06530f4df0bc7b,Pulmono,15,Rare,0.58,No,Ma pratique repose entièrement sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je participe très régulièrement à des formations continues obligatoires.,0
+8db943e9b07c2e94,GP,11,Daily,0.21,No,Ma démarche s'appuie sur les interactions médicamenteuses potentielles à surveiller toujours. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+fe6fed16c4af41ea,GP,11,Monthly,0.67,No,Je valorise particulièrement les retours d'expérience de mes patients au fil du temps. La coordination avec la médecine de ville est essentielle.,0
+4078cae0bf0c25f4,GP,11,Weekly,0.29,No,Mon approche privilégie clairement les données de vie réelle importantes pour ma pratique quotidienne. Le coût reste malheureusement un frein majeur pour certains patients.,0
+e8f0f6c1e7ebcaf4,Pulmono,12,Weekly,0.41,Yes,J'accorde une grande importance à la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+232d03b11b30b614,GP,12,Monthly,0.11,No,Ma démarche s'appuie sur les interactions médicamenteuses potentielles à surveiller toujours.,0
+1cba21bffc770868,GP,8,Weekly,0.64,No,Ma priorité reste avant tout l'evidence-based medicine comme socle de ma pratique. Le coût reste malheureusement un frein majeur pour certains patients.,0
+5ac36f8b6bf654e3,Endocrino,7,Monthly,0.48,No,J'accorde une grande importance à l'éducation thérapeutique approfondie du patient car c'est fondamental.,0
+167a16f597b87df1,GP,12,Daily,0.42,No,Dans mon exercice les facteurs de risque spécifiques à chaque patient. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+b087e40f9c006274,GP,8,Weekly,0.46,Yes,Ma démarche s'appuie sur les recommandations officielles de la HAS mises à jour systématiquement. L'impact sur la qualité de vie globale compte énormément.,0
+d73a99e8e6cc1293,Endocrino,6,Monthly,0.6,No,Mon approche privilégie clairement le rapport bénéfice-risque qui doit impérativement rester favorable. Les effets secondaires constituent un critère absolument déterminant. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+0f53e374c0cdd206,GP,11,Weekly,0.59,No,"Je m'appuie principalement sur l'expérience clinique accumulée au fil de nombreuses années. Les recommandations évoluent constamment, il faut rester très informé.",0
+880c5e7c7ff1c303,Pulmono,7,Monthly,0.43,No,Mon approche privilégie clairement les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+2e78982293454a5c,Cardio,11,Weekly,0.71,No,Mon raisonnement clinique privilégie la tolérance du traitement autant que son efficacité thérapeutique. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+07f38bce75d5b4a3,Cardio,9,Monthly,0.48,No,Je privilégie les génériques quand c'est médicalement approprié.,0
+db2d980b028b0f1b,GP,10,Weekly,0.52,No,Mon expérience clinique montre que la tolérance du traitement autant que son efficacité thérapeutique. La compliance est souvent problématique avec les schémas complexes.,0
+490a670be8de189b,Pulmono,7,Monthly,0.47,Yes,Dans mon exercice les guidelines internationales récentes en matière de prescription. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+7c63d7f3078d5bba,Cardio,9,Rare,0.83,Yes,Je valorise particulièrement les preuves scientifiques les plus récentes disponibles dans la littérature. Je privilégie les génériques quand c'est médicalement approprié.,0
+9d86726a76680600,GP,10,Weekly,0.45,No,Je privilégie toujours le rapport bénéfice-risque qui doit impérativement rester favorable. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+70b24e5224ffb294,GP,13,Weekly,0.19,Yes,Je tiens particulièrement compte de la balance efficacité-tolérance dans chaque décision thérapeutique. La coordination avec la médecine de ville est essentielle.,0
+bbf65a4ed3d0af77,Cardio,12,Monthly,0.62,Yes,Mon approche privilégie clairement les recommandations officielles de la HAS mises à jour systématiquement.,0
+a69c5d077630de93,Pulmono,12,Weekly,0.34,No,L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+78a54715193e0de4,Onco,8,Monthly,0.13,No,Je valorise particulièrement les recommandations officielles de la HAS mises à jour systématiquement. L'observance thérapeutique reste un défi majeur quotidien que je constate. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+9cd82bdc27ada8bb,Endocrino,4,Rare,0.64,No,Je m'appuie principalement sur les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+e38488263561fe09,Cardio,6,Monthly,0.48,No,Je base toutes mes décisions sur les facteurs de risque spécifiques à chaque patient. La coordination avec la médecine de ville est essentielle.,0
+e8f0784e20582ef7,GP,12,Weekly,0.83,No,Je privilégie toujours la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+6a8db64e451b0b65,Endocrino,9,Weekly,0.68,No,Je suis très attentif à les contre-indications absolues que je vérifie systématiquement. Les risques d'interactions augmentent avec les polymédications. La compliance est souvent problématique avec les schémas complexes.,0
+bf941162d054496c,Onco,11,Weekly,0.81,Yes,Dans mon exercice les preuves scientifiques les plus récentes disponibles dans la littérature. Je collabore étroitement avec d'autres spécialistes si nécessaire. L'impact sur la qualité de vie globale compte énormément.,0
+8cdc3fd5f8e2e93a,Cardio,5,Weekly,0.78,No,Mon raisonnement clinique privilégie les recommandations officielles de la HAS mises à jour systématiquement.,0
+cd0eb448546ff29b,GP,8,Weekly,0.19,No,Mon approche privilégie clairement les facteurs de risque spécifiques à chaque patient.,0
+d16b6c94807e0e4b,GP,8,Monthly,0.39,No,Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+9054a16493a91102,GP,11,Weekly,0.62,No,Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+c220aef3b72c2932,Cardio,13,Rare,0.54,No,Mon expérience clinique montre que les contre-indications absolues que je vérifie systématiquement. Les risques d'interactions augmentent avec les polymédications. La coordination avec la médecine de ville est essentielle.,0
+d148965844f3f950,Onco,13,Monthly,0.71,Yes,Je prescris en fonction de le rapport bénéfice-risque qui doit impérativement rester favorable. Le coût reste malheureusement un frein majeur pour certains patients.,0
+60de48a041e12b93,GP,12,Rare,0.18,Yes,Je base toutes mes décisions sur les recommandations officielles de la HAS mises à jour systématiquement.,0
+13eb3feacb42f76f,GP,11,Weekly,0.45,No,Je privilégie toujours l'expérience clinique accumulée au fil de nombreuses années. Les patients âgés nécessitent une attention particulière accrue. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+2800140cd7214584,Cardio,10,Weekly,0.3,No,Pour ma pratique quotidienne les recommandations officielles de la HAS mises à jour systématiquement. Les risques d'interactions augmentent avec les polymédications.,0
+2e074dac90a8d592,Onco,10,Weekly,0.07,Yes,L'essentiel pour moi reste les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+f931a4378e8dd7d9,Cardio,9,Weekly,0.03,No,Mon raisonnement clinique privilégie les facteurs de risque spécifiques à chaque patient. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+75ebc3afec8c9179,GP,7,Monthly,0.2,No,J'intègre systématiquement l'evidence-based medicine comme socle de ma pratique.,0
+b9499f50c32183d7,GP,12,Monthly,0.44,Yes,Les effets secondaires constituent un critère absolument déterminant.,0
+da78758cd071442a,Cardio,10,Daily,0.52,No,Dans mon exercice les recommandations officielles de la HAS mises à jour systématiquement. Les risques d'interactions augmentent avec les polymédications.,0
+d500b18733cc467d,Pulmono,9,Weekly,0.42,Yes,J'intègre systématiquement les traitements validés avec données solides et robustes disponibles. Je privilégie les génériques quand c'est médicalement approprié.,0
+e7028e4f865bb718,GP,10,Weekly,0.49,No,Ma démarche s'appuie sur la personnalisation optimale du traitement selon chaque cas particulier.,0
+dff2137e0634767e,Cardio,9,Monthly,0.9,No,Ma pratique repose entièrement sur l'evidence-based medicine comme socle de ma pratique.,0
+16d6cc46e8449072,Endocrino,6,Rare,0.38,No,Ma priorité reste avant tout les guidelines internationales récentes en matière de prescription. Le coût reste malheureusement un frein majeur pour certains patients.,0
+c0db982c0fe9884f,Cardio,8,Daily,0.18,No,,1
+a3bff044626d837a,GP,6,Weekly,0.84,No,"L'essentiel pour moi reste la personnalisation optimale du traitement selon chaque cas particulier. Les recommandations évoluent constamment, il faut rester très informé. Je reste particulièrement vigilant quant aux effets indésirables rares.",0
+48d6cdc17fe242fd,Onco,14,Rare,0.58,Yes,Dans mon exercice le rapport bénéfice-risque qui doit impérativement rester favorable. Les effets secondaires constituent un critère absolument déterminant. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+a89ac8ca30f75ca8,Cardio,8,Weekly,0.57,No,Mon raisonnement clinique privilégie les retours d'expérience de mes patients au fil du temps.,0
+5d49244a88f76d1b,Endocrino,6,Monthly,0.53,Yes,,1
+b8c81f1b6a577893,Endocrino,10,Daily,0.8,No,Je privilégie toujours la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+db9c93941cbfd4d9,Onco,12,Weekly,0.24,No,L'essentiel pour moi reste l'evidence-based medicine comme socle de ma pratique. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+e6339090541881d3,Cardio,17,Weekly,0.29,No,Je base toutes mes décisions sur l'expérience clinique accumulée au fil de nombreuses années. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+28b2c6e43cadef46,Cardio,10,Monthly,0.45,No,Pour ma pratique quotidienne l'éducation thérapeutique approfondie du patient car c'est fondamental. Je participe très régulièrement à des formations continues obligatoires. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+b3708c89b384fc02,GP,8,Weekly,0.31,No,Pour ma pratique quotidienne la balance efficacité-tolérance dans chaque décision thérapeutique. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+c545f4deeb2eca28,GP,12,Weekly,0.58,No,Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+a0a915b41e72f58c,GP,9,Weekly,0.39,No,J'intègre systématiquement la personnalisation optimale du traitement selon chaque cas particulier. La coordination avec la médecine de ville est essentielle.,0
+861a2ef2177987fb,Onco,9,Weekly,0.13,No,,1
+1dc263158b19b398,Pulmono,8,Monthly,0.38,No,Je base toutes mes décisions sur l'expérience clinique accumulée au fil de nombreuses années. Je privilégie les génériques quand c'est médicalement approprié. La coordination avec la médecine de ville est essentielle.,0
+659151d370261423,GP,10,Monthly,0.56,No,J'intègre systématiquement les guidelines internationales récentes en matière de prescription. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+31386cca68ff7711,GP,6,Daily,0.55,Yes,J'accorde une grande importance à les retours d'expérience de mes patients au fil du temps. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+6a40a1a4fffa4dd8,GP,12,Monthly,0.76,Yes,La compliance est souvent problématique avec les schémas complexes.,0
+411f0cbfb6dd2e27,Pulmono,18,Daily,0.64,Yes,Je m'appuie principalement sur la simplicité du schéma thérapeutique pour améliorer l'observance. La coordination avec la médecine de ville est essentielle.,0
+1550debfeb050c79,GP,5,Weekly,0.7,No,Je suis très attentif aux retours d'expérience de mes patients.,0
+41f5bdf12ce8f6a3,Cardio,14,Monthly,0.68,No,Je base toutes mes décisions sur les recommandations officielles de la HAS mises à jour systématiquement.,0
+e01b343b7519f035,Onco,6,Daily,0.4,Yes,Ma priorité reste avant tout les contre-indications absolues que je vérifie systématiquement.,0
+298bb9798a87c3c0,Cardio,8,Daily,0.86,No,L'essentiel pour moi reste l'expérience clinique accumulée au fil de nombreuses années. Les patients âgés nécessitent une attention particulière accrue.,0
+3c0b6044e77e23b6,Pulmono,8,Weekly,0.78,No,Je base toutes mes décisions sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+496253cec0d33565,Cardio,10,Monthly,0.47,No,Les risques d'interactions augmentent avec les polymédications.,0
+eb8c1cf8a8a6a5f6,Endocrino,9,Weekly,0.66,No,Ma pratique repose entièrement sur les preuves scientifiques les plus récentes disponibles dans la littérature. Le coût reste malheureusement un frein majeur pour certains patients.,0
+4a6957499fa0fbb6,Cardio,5,Weekly,0.29,No,"Je privilégie toujours l'efficacité clinique démontrée plutôt que les considérations économiques. Les recommandations évoluent constamment, il faut rester très informé.",0
+19c0ad09c3885a4e,GP,5,Monthly,0.22,No,Dans mon exercice les facteurs de risque spécifiques à chaque patient.,0
+17aa2ca5caf66112,Onco,9,Monthly,0.69,No,Je prescris en fonction de l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+86a38b81d30518ed,Endocrino,11,Monthly,0.29,Yes,Ma priorité reste avant tout l'éducation thérapeutique approfondie du patient car c'est fondamental. Les effets secondaires constituent un critère absolument déterminant.,0
+f61c4bc0574bbc66,GP,10,Weekly,0.57,No,Mon raisonnement clinique privilégie le profil individuel spécifique de chaque patient avant tout.,0
+7a66db2b51a37186,GP,13,Daily,0.43,No,Je base toutes mes décisions sur les facteurs de risque spécifiques à chaque patient. Les patients âgés nécessitent une attention particulière accrue.,0
+9efa93b6c32e0f97,GP,11,Weekly,0.41,Yes,Je considère d'abord systématiquement les facteurs de risque spécifiques à chaque patient. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+2a0f6f145f5e8381,Endocrino,10,Monthly,0.67,No,Mon approche privilégie clairement les guidelines internationales récentes en matière de prescription. L'impact sur la qualité de vie globale compte énormément.,0
+1872c1bb08512e64,GP,5,Monthly,0.14,No,Je privilégie toujours l'expérience clinique accumulée au fil de nombreuses années. Les patients âgés nécessitent une attention particulière accrue.,0
+52dd97dfef0468b7,Pulmono,15,Rare,0.79,No,Je considère d'abord systématiquement l'expérience clinique accumulée au fil de nombreuses années. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+472fe95f323a224a,GP,8,Weekly,0.65,No,Mon raisonnement clinique privilégie l'evidence-based medicine comme socle de ma pratique. Les patients âgés nécessitent une attention particulière accrue. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+f1606fdcb183da8b,GP,11,Daily,0.35,No,Mon raisonnement clinique privilégie les preuves scientifiques les plus récentes disponibles dans la littérature. L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+f24024c1227b7072,Pulmono,9,Daily,0.35,Yes,J'accorde une grande importance à le rapport bénéfice-risque qui doit impérativement rester favorable.,0
+e6b44cc093e6f488,Cardio,6,Weekly,0.32,Yes,Mon approche privilégie clairement l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+35f8330f78cb3db1,Pulmono,12,Weekly,0.89,No,Je base toutes mes décisions sur l'éducation thérapeutique approfondie du patient car c'est fondamental. Le coût reste malheureusement un frein majeur pour certains patients.,0
+be540ebd16384003,Cardio,8,Rare,0.24,No,Je base toutes mes décisions sur la balance efficacité-tolérance dans chaque décision thérapeutique. Les patients demandent de plus en plus souvent des alternatives moins chères. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+1119464e86387f22,GP,13,Weekly,0.88,No,Je privilégie toujours l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+bf128159879627b1,Cardio,12,Weekly,0.46,Yes,J'intègre systématiquement la simplicité du schéma thérapeutique pour améliorer l'observance.,0
+a8f963b6bfd13727,GP,11,Monthly,0.49,No,Je valorise particulièrement l'éducation thérapeutique approfondie du patient car c'est fondamental. Je suis très attentif aux retours d'expérience de mes patients.,0
+ed64fca3470f816a,GP,9,Daily,0.51,No,Je m'appuie principalement sur le rapport bénéfice-risque qui doit impérativement rester favorable. Les risques d'interactions augmentent avec les polymédications. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+9ed0981c239f9b55,GP,8,Monthly,0.19,No,Je me concentre essentiellement sur les données de vie réelle importantes pour ma pratique quotidienne.,0
+ec41e8cad3a51fa5,Endocrino,11,Monthly,0.86,No,Je privilégie toujours les interactions médicamenteuses potentielles à surveiller toujours. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+650968f8bec031ed,GP,11,Weekly,0.39,No,Pour ma pratique quotidienne l'evidence-based medicine comme socle de ma pratique.,0
+c22d89ab10e7ca3d,GP,10,Monthly,0.55,No,J'intègre systématiquement l'efficacité clinique démontrée plutôt que les considérations économiques.,0
+a3ac86c3008b825f,GP,4,Weekly,0.37,No,Je reste particulièrement vigilant quant aux effets indésirables rares.,0
+9b62540726f442a5,GP,8,Daily,0.79,Yes,Mon expérience clinique montre que la tolérance du traitement autant que son efficacité thérapeutique. Les patients âgés nécessitent une attention particulière accrue. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+9768f513171ae960,GP,12,Weekly,0.38,No,J'intègre systématiquement la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+f7523fc8fa73b30c,GP,9,Weekly,0.38,No,Je me concentre essentiellement sur les données de vie réelle importantes pour ma pratique quotidienne.,0
+a35bd37d35420664,GP,10,Weekly,0.14,No,Dans mon exercice le rapport bénéfice-risque qui doit impérativement rester favorable. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+7df7851a69592432,GP,16,Weekly,0.73,No,Je me concentre essentiellement sur les contre-indications absolues que je vérifie systématiquement. La coordination avec la médecine de ville est essentielle.,0
+807e280bd9876194,GP,15,Weekly,0.72,Yes,Je privilégie toujours les guidelines internationales récentes en matière de prescription. Je participe très régulièrement à des formations continues obligatoires.,0
+e65610419307b725,Pulmono,11,Weekly,0.57,No,Je m'appuie principalement sur l'efficacité clinique démontrée plutôt que les considérations économiques. Le coût reste malheureusement un frein majeur pour certains patients. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+a9440e3bb4c52152,Endocrino,4,Monthly,0.72,No,Ma priorité reste avant tout les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Je privilégie les génériques quand c'est médicalement approprié.,0
+616e2b66a7c1520c,Cardio,5,Rare,0.28,No,J'accorde une grande importance à l'evidence-based medicine comme socle de ma pratique. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+736846923ce8aa1d,Onco,10,Monthly,0.59,No,Je privilégie toujours les interactions médicamenteuses potentielles à surveiller toujours.,0
+5d751d05a76469fa,GP,14,Weekly,0.56,No,Je considère d'abord systématiquement l'efficacité clinique démontrée plutôt que les considérations économiques. Le coût reste malheureusement un frein majeur pour certains patients.,0
+f742d6b2a0ff88b6,GP,9,Monthly,0.37,Yes,Mon expérience clinique montre que l'efficacité clinique démontrée plutôt que les considérations économiques. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+5d337c308ce511f8,Pulmono,7,Monthly,0.63,No,Mon approche privilégie clairement les guidelines internationales récentes en matière de prescription. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+ea81f2b60e6b8726,Endocrino,11,Weekly,0.47,No,J'accorde une grande importance à l'expérience clinique accumulée au fil de nombreuses années. La coordination avec la médecine de ville est essentielle.,0
+66ec3d738dc5a796,Onco,9,Weekly,0.58,No,Je m'appuie principalement sur les preuves scientifiques les plus récentes disponibles dans la littérature. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+ed65ad4f8279ddea,Onco,10,Monthly,0.53,Yes,Dans mon exercice l'expérience clinique accumulée au fil de nombreuses années.,0
+a084c52479cd1e9d,GP,11,Monthly,0.29,Yes,Ma priorité reste avant tout les interactions médicamenteuses potentielles à surveiller toujours. Les patients demandent de plus en plus souvent des alternatives moins chères.,0
+4d80b36fa33b2310,Onco,7,Rare,0.34,No,Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+050ab08d4f0c8e54,Onco,11,Monthly,0.64,No,Je suis très attentif à le rapport bénéfice-risque qui doit impérativement rester favorable. Les risques d'interactions augmentent avec les polymédications.,0
+5aa8c04ce5acb72b,GP,16,Monthly,0.2,No,J'accorde une grande importance à les recommandations officielles de la HAS mises à jour systématiquement. Je participe très régulièrement à des formations continues obligatoires.,0
+ebeb7ecf8b81d691,Onco,8,Daily,0.3,No,L'essentiel pour moi reste l'efficacité clinique démontrée plutôt que les considérations économiques. La compliance est souvent problématique avec les schémas complexes.,0
+1010c8e3b7fd0e6b,GP,17,Weekly,0.46,Yes,Mon raisonnement clinique privilégie les traitements validés avec données solides et robustes disponibles. J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+11993020573a4023,Endocrino,9,Rare,0.84,No,L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+d1702d116c2bdcc7,GP,10,Weekly,0.5,Yes,Dans mon exercice l'éducation thérapeutique approfondie du patient car c'est fondamental.,0
+7301ae9336ea983a,GP,8,Weekly,0.52,No,Mon expérience clinique montre que les guidelines internationales récentes en matière de prescription. La coordination avec la médecine de ville est essentielle.,0
+efb888d7d4b4238e,Cardio,6,Weekly,0.37,No,Je m'appuie principalement sur les guidelines internationales récentes en matière de prescription. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+5884b089b5acb1dc,GP,5,Monthly,0.28,No,Ma démarche s'appuie sur les interactions médicamenteuses potentielles à surveiller toujours.,0
+9b71004542562139,Endocrino,14,Daily,0.78,No,Ma priorité reste avant tout la balance efficacité-tolérance dans chaque décision thérapeutique.,0
+1d795c5d83399280,Cardio,11,Monthly,0.73,No,L'observance thérapeutique reste un défi majeur quotidien que je constate.,0
+e33670aa62141cb6,GP,8,Daily,0.19,No,Ma démarche s'appuie sur la personnalisation optimale du traitement selon chaque cas particulier. La compliance est souvent problématique avec les schémas complexes.,0
+35dd08b1cb753553,GP,6,Weekly,0.77,No,J'intègre systématiquement le profil individuel spécifique de chaque patient avant tout. Les patients âgés nécessitent une attention particulière accrue.,0
+1457a8fde1e6fba6,Endocrino,14,Rare,0.54,Yes,J'accorde une grande importance à les données de vie réelle importantes pour ma pratique quotidienne. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+13588d1fc6180786,Pulmono,8,Weekly,0.29,No,Je me concentre essentiellement sur la tolérance du traitement autant que son efficacité thérapeutique.,0
+97e96fd2ae2127f4,Endocrino,6,Daily,0.49,Yes,Je me concentre essentiellement sur les comorbidités multiples qui influencent fortement mes choix thérapeutiques. Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+627423692dd43507,Endocrino,4,Weekly,0.37,No,Les patients sont souvent peu observants malheureusement dans ma pratique.,0
+cb285b45ec560e11,Cardio,15,Weekly,0.63,Yes,Je suis très attentif à les données de vie réelle importantes pour ma pratique quotidienne. La coordination avec la médecine de ville est essentielle.,0
+89ddd6f107eb1ff6,GP,14,Weekly,0.39,Yes,L'essentiel pour moi reste les comorbidités multiples qui influencent fortement mes choix thérapeutiques.,0
+12bcf248d111e40a,Cardio,14,Weekly,0.44,Yes,Mon raisonnement clinique privilégie les interactions médicamenteuses potentielles à surveiller toujours. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+a3a1756a8a38e7d1,Onco,14,Rare,0.81,No,J'intègre systématiquement les interactions médicamenteuses potentielles à surveiller toujours. Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+27b4945cba3aa7d0,Endocrino,10,Weekly,0.24,No,Je m'appuie principalement sur les guidelines internationales récentes en matière de prescription. Les risques d'interactions augmentent avec les polymédications.,0
+e89c533a1664a95c,Cardio,11,Weekly,0.84,Yes,Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+56276b4538f4b2d9,Cardio,9,Weekly,0.68,Yes,J'accorde une grande importance à les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+1cecf148d87da7d4,Cardio,14,Weekly,0.25,Yes,Pour ma pratique quotidienne l'expérience clinique accumulée au fil de nombreuses années. Je privilégie les génériques quand c'est médicalement approprié.,0
+d0700d755748e48b,Endocrino,10,Daily,0.47,No,J'accorde une grande importance à l'éducation thérapeutique approfondie du patient car c'est fondamental. Le coût reste malheureusement un frein majeur pour certains patients.,0
+a82c58391f7b0afa,Cardio,12,Monthly,0.65,No,Je m'appuie principalement sur les contre-indications absolues que je vérifie systématiquement. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+562684ca2092b703,Endocrino,7,Rare,0.35,No,Je valorise particulièrement les recommandations officielles de la HAS mises à jour systématiquement.,0
+96fa868369fecb78,GP,4,Weekly,0.25,No,Ma priorité reste avant tout la tolérance du traitement autant que son efficacité thérapeutique. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+dcd6794bd0417b19,Cardio,17,Monthly,0.52,No,Je collabore étroitement avec d'autres spécialistes si nécessaire.,0
+c5ff92d5ff8848f0,Pulmono,10,Daily,0.8,No,J'intègre systématiquement la personnalisation optimale du traitement selon chaque cas particulier. Le coût reste malheureusement un frein majeur pour certains patients.,0
+68390a939867af40,GP,10,Monthly,0.21,No,"Je suis très attentif à les recommandations officielles de la HAS mises à jour systématiquement. Les recommandations évoluent constamment, il faut rester très informé.",0
+7e996c0e80daab8c,Onco,8,Weekly,0.69,No,Dans mon exercice les traitements validés avec données solides et robustes disponibles. Je prends systématiquement le temps d'expliquer le traitement en détail.,0
+28105de4ccda9338,GP,11,Weekly,0.63,Yes,Pour ma pratique quotidienne les guidelines internationales récentes en matière de prescription.,0
+b1bd5e7868609e65,GP,7,Weekly,0.57,No,Ma démarche s'appuie sur les retours d'expérience de mes patients au fil du temps. Les nouvelles thérapies doivent impérativement démontrer leur vraie valeur ajoutée.,0
+d396bb85474546ec,Cardio,14,Weekly,0.44,Yes,Dans mon exercice la simplicité du schéma thérapeutique pour améliorer l'observance. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+f432fdaab86e1cf8,Pulmono,9,Monthly,0.63,Yes,J'adapte mes prescriptions en fonction du contexte socio-économique.,0
+36764f4dd24f8f92,Endocrino,7,Weekly,0.41,No,Je valorise particulièrement le profil individuel spécifique de chaque patient avant tout. Le coût reste malheureusement un frein majeur pour certains patients.,0
+863eb0d76d0b4ad8,GP,6,Weekly,0.3,No,L'essentiel pour moi reste les preuves scientifiques les plus récentes disponibles dans la littérature.,0
+a3b1780d04cb2225,GP,9,Rare,0.7,No,Je suis très attentif à les interactions médicamenteuses potentielles à surveiller toujours. La compliance est souvent problématique avec les schémas complexes.,0
+47c175fab462ec1c,Cardio,8,Daily,0.73,No,L'essentiel pour moi reste les contre-indications absolues que je vérifie systématiquement.,0
+3a3a525d18491f50,GP,6,Monthly,0.83,No,Je m'appuie principalement sur l'éducation thérapeutique approfondie du patient car c'est fondamental.,0
+6b225efae60a3532,Cardio,9,Weekly,0.74,No,J'intègre systématiquement les retours d'expérience de mes patients au fil du temps. Le suivi régulier rapproché permet d'ajuster efficacement le traitement.,0
+29bf0347fd8abafa,Cardio,13,Weekly,0.67,Yes,J'accorde une grande importance à les traitements validés avec données solides et robustes disponibles.,0
+402786cf8934796f,Cardio,8,Weekly,0.27,No,Je participe très régulièrement à des formations continues obligatoires.,0
+8ec222856be252fb,GP,12,Weekly,0.26,No,J'accorde une grande importance à les facteurs de risque spécifiques à chaque patient.,0
+b31fd45f0ace5304,GP,13,Daily,0.63,No,La coordination avec la médecine de ville est essentielle.,0

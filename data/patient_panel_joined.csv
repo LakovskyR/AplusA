@@ -1,0 +1,1001 @@
+PatientID,VisitDate,VisitType,Biomarker,ResponseScore_visit,EventFlag,FutureProb,FutureResponse,Notes,Biomarker_missing,Age,Sex,Pathology,Treatment,Adherence,Satisfaction,ResponseScore_baseline,first_visit,days_from_first_visit,visit_number,age_bucket
+0057fe5da0e0a02c,2024-04-22,FollowUp,55.16,0.97,0,0.331,0,"Moral du patient bon, Glycémie correcte dans les objectifs, moral bon du patient.",0,86,F,Diabète,A,0.88,4,1.91,2024-04-22,0,1,76+
+0057fe5da0e0a02c,2024-08-30,Routine,56.56,1.56,1,0.035,0,"Bonne adhérence au protocole, Patient rapporte un meilleur sommeil, surveillance nécessaire.",0,86,F,Diabète,A,0.88,4,1.91,2024-04-22,130,2,76+
+0057fe5da0e0a02c,2024-10-25,FollowUp,37.3,1.66,0,0.0,0,"Bonne tolérance depuis l'initiation, Pas de signe d'infection, état général satisfaisant.",0,86,F,Diabète,A,0.88,4,1.91,2024-04-22,186,3,76+
+0088d81eeae59255,2024-01-01,Routine,80.6,1.6,0,0.01,0,"Douleurs thoraciques absentes, objectifs thérapeutiques atteints.",0,18,M,Asthme,C,0.88,2,1.6,2024-01-01,0,1,18-30
+0088d81eeae59255,2024-02-02,FollowUp,65.82,2.39,0,0.311,0,"Bonne réponse au traitement, objectifs thérapeutiques atteints.",0,18,M,Asthme,C,0.88,2,1.6,2024-01-01,32,2,18-30
+0088d81eeae59255,2024-08-24,Routine,49.42,0.33,0,0.0,0,"Résultats biologiques en amélioration, imagerie complémentaire demandée.",0,18,M,Asthme,C,0.88,2,1.6,2024-01-01,236,3,18-30
+008d26f2122d8e43,2024-10-21,FollowUp,27.01,2.03,1,0.451,0,"Transit intestinal régulier, état général satisfaisant.",0,78,F,HTA,A,0.99,2,3.9,2024-10-21,0,1,76+
+020c919a57d02ce1,2024-09-04,Routine,46.81,5.51,0,0.51,0,"Transit intestinal régulier, objectifs thérapeutiques atteints.",0,56,F,Polyarthrite,C,0.85,5,3.22,2024-09-04,0,1,46-60
+02a23a0a80b9dada,2024-06-02,FollowUp,62.54,2.61,0,0.277,0,"Fonction rénale stable, Auscultation pulmonaire normale, patient bien informé des signes d'alerte.",0,47,F,Diabète,B,0.93,1,5.43,2024-06-02,0,1,46-60
+04675dee53a883cf,2024-05-01,Emergency,47.34,1.77,0,0.223,0,"Cicatrisation en bonne voie, Léger oedème persistant, recommandée par précaution.",0,64,M,Polyarthrite,C,0.69,4,1.36,2024-05-01,0,1,61-75
+04675dee53a883cf,2024-05-16,FollowUp,55.09,2.37,0,0.272,0,"Aucun signe de décompensation, dosage à réévaluer prochainement.",0,64,M,Polyarthrite,C,0.69,4,1.36,2024-05-01,15,2,61-75
+04675dee53a883cf,2024-07-08,FollowUp,59.93,2.26,0,0.054,0,"Réduction progressive de la posologie, constatée lors de l'examen.",0,64,M,Polyarthrite,C,0.69,4,1.36,2024-05-01,68,3,61-75
+04675dee53a883cf,2024-09-11,Routine,54.12,5.17,0,0.39,1,"Poids stable depuis dernière visite, traitement maintenu à l'identique.",0,64,M,Polyarthrite,C,0.69,4,1.36,2024-05-01,133,4,61-75
+04675dee53a883cf,2024-12-01,FollowUp,34.2,3.85,0,0.51,0,"Patient satisfait de l'évolution, patient rassuré sur l'évolution.",0,64,M,Polyarthrite,C,0.69,4,1.36,2024-05-01,214,5,61-75
+063b8ff279d9e5d5,2024-04-02,Routine,31.73,2.57,0,0.397,0,"Tension artérielle bien contrôlée, poursuite du traitement actuel.",0,54,M,Asthme,B,0.56,4,1.72,2024-04-02,0,1,46-60
+063b8ff279d9e5d5,2024-10-04,Routine,41.64,5.87,0,0.365,0,"Résultats biologiques en amélioration, objectifs thérapeutiques atteints.",0,54,M,Asthme,B,0.56,4,1.72,2024-04-02,185,2,46-60
+0655600e44714ae1,2024-01-14,FollowUp,58.79,0.28,0,0.127,0,"Compliance médicamenteuse satisfaisante, explications données au patient.",0,67,M,HTA,B,1.0,5,1.97,2024-01-14,0,1,61-75
+0655600e44714ae1,2024-05-04,FollowUp,73.87,0.89,1,0.0,0,"Examen clinique sans particularité, Glycémie correcte dans les objectifs, aucune interaction détectée.",0,67,M,HTA,B,1.0,5,1.97,2024-01-14,111,2,61-75
+0655600e44714ae1,2024-07-11,FollowUp,51.31,3.77,0,0.469,0,"Résultats biologiques en amélioration, adaptation autonome correcte.",0,67,M,HTA,B,1.0,5,1.97,2024-01-14,179,3,61-75
+0655600e44714ae1,2024-08-22,Routine,45.0,3.5,0,0.505,0,"Aucun signe de décompensation, objectifs thérapeutiques atteints.",0,67,M,HTA,B,1.0,5,1.97,2024-01-14,221,4,61-75
+0655600e44714ae1,2024-09-09,Routine,62.64,3.9,1,0.255,0,"Patient signale des céphalées occasionnelles, envisagée si amélioration.",0,67,M,HTA,B,1.0,5,1.97,2024-01-14,239,5,61-75
+0688e4215661e0fa,2024-02-14,Routine,58.02,1.6,0,0.073,0,"Pas de signe d'infection, surveillance nécessaire.",0,61,M,HTA,B,0.69,4,1.75,2024-02-14,0,1,61-75
+0688e4215661e0fa,2024-03-27,FollowUp,94.78,2.71,0,0.016,0,"Amélioration notable de la capacité fonctionnelle, bon pronostic à court terme.",0,61,M,HTA,B,0.69,4,1.75,2024-02-14,42,2,61-75
+0688e4215661e0fa,2024-04-19,Routine,59.1,3.7,0,0.347,0,"Poids stable depuis dernière visite, Patient satisfait de l'évolution, état général satisfaisant.",0,61,M,HTA,B,0.69,4,1.75,2024-02-14,65,3,61-75
+069c6a053af649ff,2024-09-29,Routine,46.21,0.71,0,0.0,0,"Amélioration notable de la capacité fonctionnelle, pas d'effet indésirable signalé.",0,50,F,Asthme,B,0.78,3,2.06,2024-09-29,0,1,46-60
+08215371760a89f2,2024-10-04,FollowUp,60.74,1.84,0,0.398,0,"Bonne adhérence au protocole, surveillance nécessaire et réévaluation dans six semaines.",0,74,M,Diabète,B,0.84,4,6.91,2024-10-04,0,1,61-75
+08215371760a89f2,2024-11-21,FollowUp,53.41,2.51,0,0.35,0,"Hydratation correcte constatée, ajustement thérapeutique discuté.",0,74,M,Diabète,B,0.84,4,6.91,2024-10-04,48,2,61-75
+099aebbcc1f2017c,2024-01-08,Routine,23.32,2.41,0,0.504,0,"Bonne adhérence au protocole, envisagée si amélioration.",0,53,F,Diabète,B,1.0,1,3.87,2024-01-08,0,1,46-60
+099aebbcc1f2017c,2024-05-31,Routine,68.42,0.17,1,0.0,0,"Mobilité articulaire conservée, Aucun signe de décompensation, suivi téléphonique prévu.",0,53,F,Diabète,B,1.0,1,3.87,2024-01-08,144,2,46-60
+0a2efb1ea69706ae,2024-01-29,FollowUp,47.46,5.83,0,0.593,1,"Sommeil de qualité rapporté, éducation thérapeutique renforcée et aucune interaction détectée.",0,49,F,HTA,C,0.83,1,1.66,2024-01-29,0,1,46-60
+0a2efb1ea69706ae,2024-09-24,Routine,18.5,1.67,1,0.255,0,"Pas de signe d'infection, aucune interaction détectée.",0,49,F,HTA,C,0.83,1,1.66,2024-01-29,239,2,46-60
+0a7cb65017740e63,2024-04-27,Routine,73.31,0.36,0,0.0,0,"Douleurs articulaires atténuées, patient rassuré sur l'évolution.",0,60,F,Diabète,B,0.78,4,3.88,2024-04-27,0,1,46-60
+0a7cb65017740e63,2024-05-31,FollowUp,44.74,5.67,0,0.532,0,"Examen clinique sans particularité, traitement maintenu à l'identique.",0,60,F,Diabète,B,0.78,4,3.88,2024-04-27,34,2,46-60
+0a7cb65017740e63,2024-10-01,Emergency,44.47,3.84,0,0.027,0,"Poids stable depuis dernière visite, surveillance nécessaire.",0,60,F,Diabète,B,0.78,4,3.88,2024-04-27,157,3,46-60
+0aad47566f9e8a2d,2024-11-22,FollowUp,33.05,1.53,0,0.348,0,"Légère baisse de l'appétit signalée, protocole bien suivi à domicile.",0,40,F,Oncologie,C,0.9,2,1.92,2024-11-22,0,1,31-45
+0abd58acb80f26f7,2024-04-09,FollowUp,34.99,4.01,0,0.494,0,"Examen clinique sans particularité, Paramètres biologiques dans les normes, aucune interaction détectée.",0,48,M,Polyarthrite,B,0.86,3,4.69,2024-04-09,0,1,46-60
+0abd58acb80f26f7,2024-04-11,Emergency,80.57,1.76,0,0.073,0,"Léger oedème persistant, envisagée si amélioration.",0,48,M,Polyarthrite,B,0.86,3,4.69,2024-04-09,2,2,46-60
+0abd58acb80f26f7,2024-04-22,Routine,57.29,4.76,0,0.255,0,"État général satisfaisant, constatée lors de l'examen.",0,48,M,Polyarthrite,B,0.86,3,4.69,2024-04-09,13,3,46-60
+0abd58acb80f26f7,2024-06-16,Routine,76.54,4.72,0,0.498,0,"Aucun signe de décompensation, contrôle dans trois mois prévu.",0,48,M,Polyarthrite,B,0.86,3,4.69,2024-04-09,68,4,46-60
+0abd58acb80f26f7,2024-06-20,FollowUp,5.09,3.39,0,0.689,0,"Paramètres vitaux stables, Bonne tolérance depuis l'initiation, traitement maintenu à l'identique.",0,48,M,Polyarthrite,B,0.86,3,4.69,2024-04-09,72,5,46-60
+0b3aa3d4c5465fef,2024-02-03,Routine,38.76,3.36,0,0.511,0,"Aucune plainte particulière, dosage à réévaluer prochainement.",0,58,F,Asthme,A,0.85,3,3.41,2024-02-03,0,1,46-60
+0b3aa3d4c5465fef,2024-03-28,Routine,61.24,3.45,0,0.652,1,"Aucun signe de décompensation, patient adhère bien au protocole.",0,58,F,Asthme,A,0.85,3,3.41,2024-02-03,54,2,46-60
+0be4d5bd3d84cb4e,2024-03-09,Routine,63.42,1.92,0,0.162,0,"Transit intestinal régulier, Paramètres vitaux stables, protocole bien suivi à domicile.",0,47,F,Asthme,A,0.88,4,1.24,2024-03-09,0,1,46-60
+0be4d5bd3d84cb4e,2024-07-08,Routine,40.27,3.15,0,0.426,0,"Douleurs articulaires atténuées, Pas de signe d'infection, ajustement thérapeutique discuté.",0,47,F,Asthme,A,0.88,4,1.24,2024-03-09,121,2,46-60
+0be4d5bd3d84cb4e,2024-08-01,Routine,17.74,1.86,0,0.45,0,"Résultats biologiques en amélioration, bon pronostic à court terme.",0,47,F,Asthme,A,0.88,4,1.24,2024-03-09,145,3,46-60
+0e4dc7f3b2972f67,2024-01-18,FollowUp,42.81,3.85,0,0.38,0,"Poids stable depuis dernière visite, imagerie complémentaire demandée.",0,51,F,Diabète,A,0.84,3,1.84,2024-01-18,0,1,46-60
+0e4dc7f3b2972f67,2024-11-06,FollowUp,39.65,2.73,0,0.428,0,"Mobilité articulaire conservée, patient rassuré sur l'évolution.",0,51,F,Diabète,A,0.84,3,1.84,2024-01-18,293,2,46-60
+0e82d6b201e4cf89,2024-08-27,Routine,47.93,4.86,0,0.488,0,"Transit intestinal régulier, moral bon du patient.",0,50,F,Diabète,A,0.88,5,0.91,2024-08-27,0,1,46-60
+0ef81b07637eba2b,2024-07-25,Routine,27.04,2.57,1,0.331,0,"Patient signale des céphalées occasionnelles, surveillance à poursuivre attentivement.",0,41,F,Oncologie,B,0.85,3,2.23,2024-07-25,0,1,31-45
+0fbeb57bfb02c9dd,2024-01-08,Routine,39.43,1.98,0,0.376,0,"Paramètres vitaux stables, réévaluation dans six semaines.",0,70,M,Asthme,A,0.9,3,3.58,2024-01-08,0,1,61-75
+0fbeb57bfb02c9dd,2024-03-18,FollowUp,24.6,0.83,0,0.371,0,"Amélioration notable de la capacité fonctionnelle, observance satisfaisante du patient.",0,70,M,Asthme,A,0.9,3,3.58,2024-01-08,70,2,61-75
+0fbeb57bfb02c9dd,2024-11-13,Routine,88.55,1.28,0,0.334,0,"Glycémie correcte dans les objectifs, ajustement thérapeutique discuté.",0,70,M,Asthme,A,0.9,3,3.58,2024-01-08,310,3,61-75
+0fbeb57bfb02c9dd,2024-11-14,Routine,41.48,1.92,0,0.256,0,"Bonne réponse au traitement, Léger oedème persistant, aucune interaction détectée.",0,70,M,Asthme,A,0.9,3,3.58,2024-01-08,311,4,61-75
+1085c785640f6e22,2024-02-21,Routine,40.47,2.59,0,0.687,1,"Moral du patient bon, Bonne tolérance depuis l'initiation, bon pronostic à court terme.",0,55,F,Asthme,B,0.92,4,1.46,2024-02-21,0,1,46-60
+10a1985a183f4d7d,2024-11-21,Routine,64.91,4.51,0,0.442,0,"Bonne adhérence au protocole, contrôle dans trois mois prévu.",0,43,M,Oncologie,B,1.0,5,6.16,2024-11-21,0,1,31-45
+10e89570503fb476,2024-04-01,FollowUp,45.47,0.12,0,0.198,0,"Résultats biologiques en amélioration, suivi téléphonique prévu.",0,40,F,HTA,C,0.88,1,1.38,2024-04-01,0,1,31-45
+1345c85405e92e2e,2024-01-06,Routine,44.84,3.76,0,0.379,0,"Sommeil de qualité rapporté, contrôle dans trois mois prévu et envisagée si amélioration.",0,57,M,Diabète,B,0.85,5,5.2,2024-01-06,0,1,46-60
+1345c85405e92e2e,2024-07-15,FollowUp,26.83,2.94,0,0.257,0,"Légère baisse de l'appétit signalée, aucune réaction allergique observée.",0,57,M,Diabète,B,0.85,5,5.2,2024-01-06,191,2,46-60
+14a6c7a8c9b6b035,2024-01-25,FollowUp,36.44,1.5,0,0.175,0,"Douleurs thoraciques absentes, Douleurs articulaires atténuées, patient bien informé des signes d'alerte.",0,48,M,Polyarthrite,C,0.99,3,4.58,2024-01-25,0,1,46-60
+14a6c7a8c9b6b035,2024-05-14,FollowUp,59.61,2.63,0,0.225,0,"Cicatrisation en bonne voie, conseils diététiques donnés et explications données au patient.",0,48,M,Polyarthrite,C,0.99,3,4.58,2024-01-25,110,2,46-60
+14a6c7a8c9b6b035,2024-07-26,FollowUp,38.04,2.28,0,0.368,0,"Compliance médicamenteuse satisfaisante, patient rassuré sur l'évolution.",0,48,M,Polyarthrite,C,0.99,3,4.58,2024-01-25,183,3,46-60
+164859acc3f33947,2024-04-18,FollowUp,63.82,2.23,0,0.242,0,"Moral du patient bon, poursuite du traitement actuel.",0,65,F,Diabète,A,0.97,4,3.23,2024-04-18,0,1,61-75
+164859acc3f33947,2024-07-07,Routine,66.27,3.8,0,0.346,0,"Réduction progressive de la posologie, contrôle dans trois mois prévu.",0,65,F,Diabète,A,0.97,4,3.23,2024-04-18,80,2,61-75
+164859acc3f33947,2024-08-05,Emergency,47.22,0.29,0,0.054,0,"Léger oedème persistant, aucune réaction allergique observée.",0,65,F,Diabète,A,0.97,4,3.23,2024-04-18,109,3,61-75
+164859acc3f33947,2024-10-03,Routine,66.14,3.05,0,0.184,0,"Surveillance biologique rapprochée, depuis la dernière visite et objectifs thérapeutiques atteints.",0,65,F,Diabète,A,0.97,4,3.23,2024-04-18,168,4,61-75
+171683140af3dead,2024-01-26,Routine,60.92,4.13,0,0.364,0,"Stabilité hémodynamique observée, bilan biologique prescrit.",0,65,M,Diabète,B,0.82,5,2.72,2024-01-26,0,1,61-75
+171683140af3dead,2024-06-03,FollowUp,64.51,3.5,0,0.136,0,"Diminution des symptômes inflammatoires, patient rassuré sur l'évolution et traitement maintenu à l'identique.",0,65,M,Diabète,B,0.82,5,2.72,2024-01-26,129,2,61-75
+171683140af3dead,2024-09-14,Routine,49.08,3.07,0,0.416,0,"Résultats biologiques en amélioration, imagerie complémentaire demandée.",0,65,M,Diabète,B,0.82,5,2.72,2024-01-26,232,3,61-75
+1722ce2b7d691369,2024-01-30,Routine,58.19,1.35,0,0.198,0,"Bonne adhérence au protocole, Douleurs thoraciques absentes, imagerie complémentaire demandée.",0,85,M,Oncologie,A,0.96,5,4.55,2024-01-30,0,1,76+
+1722ce2b7d691369,2024-03-19,Routine,59.2,5.27,0,0.103,0,"Examen clinique sans particularité, bilan biologique prescrit.",0,85,M,Oncologie,A,0.96,5,4.55,2024-01-30,49,2,76+
+1722ce2b7d691369,2024-05-21,FollowUp,34.69,1.93,0,0.283,0,"Moral du patient bon, explications données au patient et patient adhère bien au protocole.",0,85,M,Oncologie,A,0.96,5,4.55,2024-01-30,112,3,76+
+17455b48df8b5f09,2024-05-13,FollowUp,36.55,4.62,0,0.611,1,"Résultats biologiques en amélioration, traitement maintenu à l'identique.",0,62,F,Oncologie,C,0.68,5,2.67,2024-05-13,0,1,61-75
+17455b48df8b5f09,2024-06-19,Routine,40.23,2.17,0,0.215,0,"Bonne réponse au traitement, Patient satisfait de l'évolution, bon pronostic à court terme.",0,62,F,Oncologie,C,0.68,5,2.67,2024-05-13,37,2,61-75
+17455b48df8b5f09,2024-11-26,Routine,54.9,3.1,0,0.307,0,"Stabilité hémodynamique observée, Patient satisfait de l'évolution, surveillance nécessaire.",0,62,F,Oncologie,C,0.68,5,2.67,2024-05-13,197,3,61-75
+1778874fd3785339,2024-02-17,Routine,63.37,1.69,0,0.203,0,"Légère baisse de l'appétit signalée, aucune réaction allergique observée.",0,59,M,Diabète,A,0.72,1,3.73,2024-02-17,0,1,46-60
+1778874fd3785339,2024-07-13,FollowUp,38.51,1.85,0,0.2,0,"Moral du patient bon, pas de modification nécessaire.",0,59,M,Diabète,A,0.72,1,3.73,2024-02-17,147,2,46-60
+1778874fd3785339,2024-10-20,FollowUp,46.91,1.96,0,0.206,0,"Compliance médicamenteuse satisfaisante, Légère prise de poids notée, surveillance nécessaire.",0,59,M,Diabète,A,0.72,1,3.73,2024-02-17,246,3,46-60
+181bae0da4a31a2a,2024-03-16,Emergency,49.28,3.91,0,0.282,0,"Patient satisfait de l'évolution, dosage à réévaluer prochainement.",0,51,F,Diabète,B,0.98,5,2.84,2024-03-16,0,1,46-60
+19b980033638f1ad,2024-05-17,FollowUp,20.03,6.17,1,0.814,1,"Stabilité hémodynamique observée, ajustement thérapeutique discuté.",0,50,M,HTA,B,0.78,5,3.07,2024-05-17,0,1,46-60
+19c1d09e8c668591,2024-08-30,Routine,40.4,3.72,0,0.672,1,"Pas de signe d'infection, surveillance à poursuivre attentivement.",0,42,M,HTA,A,0.76,5,1.07,2024-08-30,0,1,31-45
+19e6a33599bc463b,2024-04-29,FollowUp,42.1,1.33,0,0.323,0,"Patient rapporte un meilleur sommeil, consultation de suivi programmée.",0,42,F,Diabète,A,0.91,3,4.43,2024-04-29,0,1,31-45
+19e6a33599bc463b,2024-09-26,Emergency,45.46,4.22,0,0.537,1,"Moral du patient bon, Amélioration notable de la capacité fonctionnelle, patient adhère bien au protocole.",0,42,F,Diabète,A,0.91,3,4.43,2024-04-29,150,2,31-45
+1a3564c7cfdbbd4c,2024-02-07,FollowUp,64.27,2.55,0,0.0,0,"Douleurs articulaires atténuées, objectifs thérapeutiques atteints et ajustement thérapeutique discuté.",0,77,F,HTA,C,0.94,5,2.41,2024-02-07,0,1,76+
+1a3564c7cfdbbd4c,2024-04-15,Routine,68.36,3.11,0,0.386,0,"État général satisfaisant, ajustement thérapeutique discuté.",0,77,F,HTA,C,0.94,5,2.41,2024-02-07,68,2,76+
+1a3564c7cfdbbd4c,2024-05-24,Routine,49.39,3.88,0,0.182,0,"Fonction rénale stable, dosage à réévaluer prochainement et patient bien informé des signes d'alerte.",0,77,F,HTA,C,0.94,5,2.41,2024-02-07,107,3,76+
+1a3564c7cfdbbd4c,2024-08-16,Routine,51.41,4.75,0,0.422,0,"Réduction progressive de la posologie, protocole bien suivi à domicile.",0,77,F,HTA,C,0.94,5,2.41,2024-02-07,191,4,76+
+1a5433299781255f,2024-01-06,FollowUp,75.54,4.49,0,0.184,0,"Aucune plainte particulière, consultation de suivi programmée.",0,49,F,Oncologie,B,0.86,3,1.78,2024-01-06,0,1,46-60
+1a75c2328bc7a4d2,2024-09-20,FollowUp,72.0,0.81,0,0.0,0,"Fatigue résiduelle mentionnée, imagerie complémentaire demandée et conseils diététiques donnés.",0,51,M,HTA,C,0.84,4,3.06,2024-09-20,0,1,46-60
+1a8df69d422d7c34,2024-04-17,Routine,62.94,2.21,0,0.026,0,"Cicatrisation en bonne voie, moral bon du patient.",0,50,F,Diabète,B,0.83,4,3.19,2024-04-17,0,1,46-60
+1b080140f1e67702,2024-01-31,Routine,69.19,1.13,0,0.238,0,"Résultats biologiques en amélioration, état général satisfaisant.",0,48,M,Diabète,C,0.73,3,6.09,2024-01-31,0,1,46-60
+1b080140f1e67702,2024-07-21,FollowUp,58.85,1.95,1,0.474,0,"Diminution des symptômes inflammatoires, poursuite du traitement actuel.",0,48,M,Diabète,C,0.73,3,6.09,2024-01-31,172,2,46-60
+1b080140f1e67702,2024-08-10,FollowUp,45.19,0.75,0,0.073,0,"Examen clinique sans particularité, État général satisfaisant, réévaluation dans six semaines.",0,48,M,Diabète,C,0.73,3,6.09,2024-01-31,192,3,46-60
+1c4539255567e0f4,2024-10-04,FollowUp,41.48,4.86,0,0.672,1,"Fatigue résiduelle mentionnée, adaptation autonome correcte.",0,36,M,Diabète,B,0.85,3,3.7,2024-10-04,0,1,31-45
+1c4539255567e0f4,2024-10-13,FollowUp,63.63,2.48,0,0.205,0,"Poids stable depuis dernière visite, explications données au patient.",0,36,M,Diabète,B,0.85,3,3.7,2024-10-04,9,2,31-45
+1c4539255567e0f4,2024-10-25,Emergency,30.04,0.18,0,0.0,0,"Transit intestinal régulier, conseils diététiques donnés.",0,36,M,Diabète,B,0.85,3,3.7,2024-10-04,21,3,31-45
+1c5589626dc4d920,2024-01-03,FollowUp,49.95,2.16,0,0.159,0,"Patient signale des céphalées occasionnelles, éducation thérapeutique renforcée et patient bien informé des signes d'alerte.",0,64,F,Polyarthrite,B,0.8,2,3.06,2024-01-03,0,1,61-75
+1c5589626dc4d920,2024-11-27,Routine,44.18,3.62,0,0.373,0,"Réduction progressive de la posologie, conseils diététiques donnés.",0,64,F,Polyarthrite,B,0.8,2,3.06,2024-01-03,329,2,61-75
+1c5e95f69bb22aef,2024-10-03,Routine,37.77,1.9,0,0.127,0,"Aucun signe de décompensation, consultation de suivi programmée.",0,45,M,HTA,C,0.88,3,1.11,2024-10-03,0,1,31-45
+1cb5203e7b7dd348,2024-05-23,Routine,68.54,1.17,0,0.239,0,"Sommeil de qualité rapporté, patient rassuré sur l'évolution.",0,90,F,Asthme,C,0.78,1,1.74,2024-05-23,0,1,76+
+1cb5203e7b7dd348,2024-05-29,Routine,40.57,1.0,0,0.139,0,"Patient satisfait de l'évolution, Bonne adhérence au protocole, effets secondaires mineurs tolérables.",0,90,F,Asthme,C,0.78,1,1.74,2024-05-23,6,2,76+
+1cb5203e7b7dd348,2024-08-13,Routine,55.03,2.56,0,0.325,0,"Résultats biologiques en amélioration, poursuite du traitement actuel.",0,90,F,Asthme,C,0.78,1,1.74,2024-05-23,82,3,76+
+1cd33b730c5b3e1d,2024-02-25,FollowUp,35.66,0.57,0,0.38,0,"Transit intestinal régulier, protocole bien suivi à domicile.",0,60,M,Asthme,A,0.86,5,1.25,2024-02-25,0,1,46-60
+1cd33b730c5b3e1d,2024-03-18,Routine,44.54,5.51,0,0.478,0,"Aucun signe de décompensation, surveillance nécessaire.",0,60,M,Asthme,A,0.86,5,1.25,2024-02-25,22,2,46-60
+1cd33b730c5b3e1d,2024-04-18,Routine,38.18,2.89,0,0.415,0,"Bonne réponse au traitement, Fonction rénale stable, adaptation autonome correcte.",0,60,M,Asthme,A,0.86,5,1.25,2024-02-25,53,3,46-60
+1cda1ac09c3ec35c,2024-02-08,Routine,46.49,7.04,0,0.66,1,"Patient rapporte un meilleur sommeil, ajustement thérapeutique discuté et traitement maintenu à l'identique.",0,53,F,HTA,A,0.77,5,0.98,2024-02-08,0,1,46-60
+1dd2619395c09fd6,2024-02-18,Routine,36.13,1.58,0,0.345,0,"Léger oedème persistant, effets secondaires mineurs tolérables.",0,57,F,Asthme,C,0.91,5,2.48,2024-02-18,0,1,46-60
+1dd2619395c09fd6,2024-10-31,Emergency,50.5,2.35,1,0.439,0,"Léger oedème persistant, ajustement thérapeutique discuté.",0,57,F,Asthme,C,0.91,5,2.48,2024-02-18,256,2,46-60
+1f2bbb46e19c18ed,2024-03-28,Emergency,53.95,4.98,0,0.39,0,"Bonne tolérance depuis l'initiation, explications données au patient.",0,69,M,Oncologie,B,0.73,4,3.43,2024-03-28,0,1,61-75
+1f505de8ac81ffea,2024-03-14,FollowUp,69.58,0.97,0,0.079,0,"Paramètres vitaux stables, Transit intestinal régulier, adaptation autonome correcte.",0,57,F,Oncologie,A,0.84,5,5.9,2024-03-14,0,1,46-60
+1f505de8ac81ffea,2024-08-31,Routine,69.58,2.35,0,0.078,0,"Aucune plainte particulière, effets secondaires mineurs tolérables.",1,57,F,Oncologie,A,0.84,5,5.9,2024-03-14,170,2,46-60
+1fdf5c1a3eb5601b,2024-03-23,FollowUp,32.85,4.01,0,0.553,0,"Fatigue résiduelle mentionnée, surveillance nécessaire.",0,18,F,Asthme,A,0.73,3,1.84,2024-03-23,0,1,18-30
+202cd36cca47be9f,2024-02-28,FollowUp,51.55,2.22,0,0.211,0,"Cicatrisation en bonne voie, patient rassuré sur l'évolution.",0,45,F,Diabète,C,0.83,3,5.05,2024-02-28,0,1,31-45
+202cd36cca47be9f,2024-05-12,Routine,72.6,3.48,0,0.301,0,"Transit intestinal régulier, patient rassuré sur l'évolution.",0,45,F,Diabète,C,0.83,3,5.05,2024-02-28,74,2,31-45
+202cd36cca47be9f,2024-07-08,FollowUp,35.91,1.52,0,0.167,0,"Aucun signe de décompensation, Réduction progressive de la posologie, depuis la dernière visite.",0,45,F,Diabète,C,0.83,3,5.05,2024-02-28,131,3,31-45
+202cd36cca47be9f,2024-08-19,Routine,56.08,1.57,0,0.128,0,"Patient signale des céphalées occasionnelles, consultation de suivi programmée.",0,45,F,Diabète,C,0.83,3,5.05,2024-02-28,173,4,31-45
+202cd36cca47be9f,2024-10-28,Routine,65.1,5.88,0,0.631,1,"Stabilité hémodynamique observée, suivi téléphonique prévu et constatée lors de l'examen.",0,45,F,Diabète,C,0.83,3,5.05,2024-02-28,243,5,31-45
+205a615e41011272,2024-02-18,Routine,41.58,5.2,0,0.239,0,"Moral du patient bon, contrôle dans trois mois prévu.",0,44,F,Diabète,A,0.83,3,2.56,2024-02-18,0,1,31-45
+205a615e41011272,2024-04-29,FollowUp,47.12,4.28,0,0.402,0,"Douleurs thoraciques absentes, observance satisfaisante du patient.",0,44,F,Diabète,A,0.83,3,2.56,2024-02-18,71,2,31-45
+205a615e41011272,2024-09-16,FollowUp,47.92,2.57,0,0.239,0,"Auscultation pulmonaire normale, Douleurs thoraciques absentes, bon pronostic à court terme.",0,44,F,Diabète,A,0.83,3,2.56,2024-02-18,211,3,31-45
+205a615e41011272,2024-10-16,Routine,46.49,1.35,0,0.13,0,"Tension artérielle bien contrôlée, observance satisfaisante du patient.",0,44,F,Diabète,A,0.83,3,2.56,2024-02-18,241,4,31-45
+205a615e41011272,2024-10-21,FollowUp,53.32,3.15,0,0.33,0,"Légère baisse de l'appétit signalée, réévaluation dans six semaines.",0,44,F,Diabète,A,0.83,3,2.56,2024-02-18,246,5,31-45
+20612578c08d4a0a,2024-05-09,FollowUp,49.28,3.36,0,0.435,0,"Hydratation correcte constatée, moral bon du patient.",0,34,M,Asthme,A,0.9,4,2.79,2024-05-09,0,1,31-45
+20612578c08d4a0a,2024-06-17,Routine,34.31,4.66,0,0.54,1,"Bonne adhérence au protocole, protocole bien suivi à domicile.",0,34,M,Asthme,A,0.9,4,2.79,2024-05-09,39,2,31-45
+20612578c08d4a0a,2024-07-23,Routine,54.34,1.07,0,0.057,0,"Auscultation pulmonaire normale, Patient satisfait de l'évolution, traitement maintenu à l'identique.",0,34,M,Asthme,A,0.9,4,2.79,2024-05-09,75,3,31-45
+20612578c08d4a0a,2024-08-01,Emergency,58.89,4.6,0,0.452,0,"Mobilité articulaire conservée, état général satisfaisant.",0,34,M,Asthme,A,0.9,4,2.79,2024-05-09,84,4,31-45
+20a58d307a2b1540,2024-06-21,Routine,19.6,2.56,0,0.374,0,"Résultats biologiques en amélioration, adaptation autonome correcte.",0,63,M,HTA,A,0.69,2,2.08,2024-06-21,0,1,61-75
+20b36f1679846f06,2024-03-23,Routine,51.85,2.62,0,0.126,0,"Glycémie correcte dans les objectifs, réévaluation dans six semaines.",0,44,M,HTA,A,0.9,5,5.39,2024-03-23,0,1,31-45
+20b36f1679846f06,2024-05-04,Routine,60.75,3.37,0,0.086,0,"Auscultation pulmonaire normale, suivi téléphonique prévu.",0,44,M,HTA,A,0.9,5,5.39,2024-03-23,42,2,31-45
+20b36f1679846f06,2024-07-17,Routine,67.59,4.02,0,0.468,1,"Tension artérielle bien contrôlée, envisagée si amélioration.",0,44,M,HTA,A,0.9,5,5.39,2024-03-23,116,3,31-45
+20b36f1679846f06,2024-10-02,Routine,60.34,2.34,0,0.217,0,"Pas de signe d'infection, surveillance nécessaire.",0,44,M,HTA,A,0.9,5,5.39,2024-03-23,193,4,31-45
+20b36f1679846f06,2024-10-20,Routine,63.11,5.04,0,0.298,0,"Poids stable depuis dernière visite, surveillance à poursuivre attentivement.",0,44,M,HTA,A,0.9,5,5.39,2024-03-23,211,5,31-45
+20ee82c37b7dc748,2024-03-07,FollowUp,25.97,2.35,0,0.343,0,"Mobilité articulaire conservée, patient bien informé des signes d'alerte.",0,45,M,Polyarthrite,A,0.95,5,4.01,2024-03-07,0,1,31-45
+20ee82c37b7dc748,2024-05-26,FollowUp,48.35,6.98,0,0.645,1,"Bonne réponse au traitement, constatée lors de l'examen.",0,45,M,Polyarthrite,A,0.95,5,4.01,2024-03-07,80,2,31-45
+21b8cc2688f2542f,2024-02-15,FollowUp,53.0,1.51,0,0.159,0,"Fatigue résiduelle mentionnée, Sommeil de qualité rapporté, contrôle dans trois mois prévu.",0,46,F,HTA,B,1.0,4,3.6,2024-02-15,0,1,46-60
+21b8cc2688f2542f,2024-04-12,Routine,67.9,1.04,0,0.0,0,"Examen clinique sans particularité, réévaluation dans six semaines.",0,46,F,HTA,B,1.0,4,3.6,2024-02-15,57,2,46-60
+21b8cc2688f2542f,2024-08-02,Routine,51.84,5.78,0,0.545,1,"Paramètres vitaux stables, patient bien informé des signes d'alerte.",0,46,F,HTA,B,1.0,4,3.6,2024-02-15,169,3,46-60
+21cd4bb8f0ee1172,2024-10-29,Routine,44.33,5.89,0,0.602,1,"Diminution des symptômes inflammatoires, contrôle dans trois mois prévu et patient bien informé des signes d'alerte.",0,44,F,Asthme,B,0.94,5,3.43,2024-10-29,0,1,31-45
+21fe8ec1436cf0a5,2024-04-20,Routine,51.55,3.83,0,0.565,0,"Diminution des symptômes inflammatoires, imagerie complémentaire demandée.",0,19,F,HTA,C,1.0,5,3.38,2024-04-20,0,1,18-30
+21fe8ec1436cf0a5,2024-10-06,Routine,35.77,3.38,0,0.14,0,"Sommeil de qualité rapporté, bon pronostic à court terme.",0,19,F,HTA,C,1.0,5,3.38,2024-04-20,169,2,18-30
+2227f88d7aebdb31,2024-01-10,Routine,68.81,1.29,0,0.0,0,"Poids stable depuis dernière visite, conseils diététiques donnés.",0,83,F,Polyarthrite,A,0.81,5,0.63,2024-01-10,0,1,76+
+2227f88d7aebdb31,2024-09-03,Emergency,66.89,0.96,0,0.134,0,"Aucun signe de décompensation, Bonne réponse au traitement, observance satisfaisante du patient.",0,83,F,Polyarthrite,A,0.81,5,0.63,2024-01-10,237,2,76+
+2227f88d7aebdb31,2024-09-29,FollowUp,47.53,3.9,0,0.133,0,"Compliance médicamenteuse satisfaisante, envisagée si amélioration.",0,83,F,Polyarthrite,A,0.81,5,0.63,2024-01-10,263,3,76+
+2227f88d7aebdb31,2024-11-03,FollowUp,75.65,3.16,0,0.0,0,"Légère prise de poids notée, moral bon du patient.",0,83,F,Polyarthrite,A,0.81,5,0.63,2024-01-10,298,4,76+
+244f7b0cc92eda37,2024-11-05,Routine,48.13,1.02,0,0.098,0,"Fonction rénale stable, Sommeil de qualité rapporté, adaptation autonome correcte.",0,60,M,Diabète,B,0.97,4,3.59,2024-11-05,0,1,46-60
+251e634122606220,2024-01-28,Routine,30.32,2.08,0,0.413,0,"Surveillance biologique rapprochée, patient adhère bien au protocole.",0,61,F,Asthme,C,0.84,4,2.24,2024-01-28,0,1,61-75
+251e634122606220,2024-08-30,Emergency,25.66,3.01,0,0.482,0,"Réduction progressive de la posologie, traitement maintenu à l'identique.",0,61,F,Asthme,C,0.84,4,2.24,2024-01-28,215,2,61-75
+251e634122606220,2024-09-08,Routine,39.56,1.88,0,0.344,0,"Moral du patient bon, Patient rapporte un meilleur sommeil, protocole bien suivi à domicile.",0,61,F,Asthme,C,0.84,4,2.24,2024-01-28,224,3,61-75
+251e634122606220,2024-10-30,Emergency,82.95,3.81,0,0.322,0,"Réduction progressive de la posologie, observance satisfaisante du patient.",0,61,F,Asthme,C,0.84,4,2.24,2024-01-28,276,4,61-75
+256fab7dc2683340,2024-05-20,Routine,19.48,2.89,1,0.339,0,"Patient signale des céphalées occasionnelles, envisagée si amélioration.",0,31,F,Polyarthrite,C,1.0,3,2.73,2024-05-20,0,1,31-45
+256fab7dc2683340,2024-09-21,FollowUp,51.62,0.38,0,0.191,0,"Moral du patient bon, bon pronostic à court terme et poursuite du traitement actuel.",0,31,F,Polyarthrite,C,1.0,3,2.73,2024-05-20,124,2,31-45
+25bfa7384b262d6d,2024-05-28,Routine,75.34,5.7,0,0.412,0,"Symptômes respiratoires améliorés, bilan biologique prescrit et traitement maintenu à l'identique.",0,57,M,HTA,A,0.89,4,0.77,2024-05-28,0,1,46-60
+263658e26137eb3d,2024-01-09,Routine,46.74,1.17,0,0.386,0,"Légère baisse de l'appétit signalée, Légère prise de poids notée, depuis la dernière visite.",0,59,F,HTA,B,0.64,3,5.82,2024-01-09,0,1,46-60
+263658e26137eb3d,2024-10-26,Routine,53.53,1.55,0,0.307,0,"Patient signale des céphalées occasionnelles, bon pronostic à court terme et patient adhère bien au protocole.",0,59,F,HTA,B,0.64,3,5.82,2024-01-09,291,2,46-60
+270177a77df887ea,2024-01-21,FollowUp,50.09,4.11,0,0.298,0,"Patient rapporte un meilleur sommeil, depuis la dernière visite.",0,40,M,HTA,B,0.94,5,0.98,2024-01-21,0,1,31-45
+270177a77df887ea,2024-04-13,Routine,47.12,7.73,0,1.0,1,"Résultats biologiques en amélioration, orientation vers spécialiste si besoin.",0,40,M,HTA,B,0.94,5,0.98,2024-01-21,83,2,31-45
+270177a77df887ea,2024-06-24,Routine,52.74,6.88,0,0.639,1,"Fatigue résiduelle mentionnée, surveillance nécessaire et protocole bien suivi à domicile.",0,40,M,HTA,B,0.94,5,0.98,2024-01-21,155,3,31-45
+270177a77df887ea,2024-09-21,FollowUp,31.14,4.9,0,0.183,0,"Poids stable depuis dernière visite, Légère baisse de l'appétit signalée, éducation thérapeutique renforcée.",0,40,M,HTA,B,0.94,5,0.98,2024-01-21,244,4,31-45
+2732657892a4d17a,2024-06-14,FollowUp,54.75,5.64,0,0.367,0,"Sommeil de qualité rapporté, pas d'effet indésirable signalé.",0,39,F,HTA,B,0.79,3,1.14,2024-06-14,0,1,31-45
+27fe48dbd46a3931,2024-08-10,Routine,73.69,3.58,0,0.344,0,"Surveillance biologique rapprochée, envisagée si amélioration.",0,77,F,HTA,C,0.72,5,1.19,2024-08-10,0,1,76+
+2842de9d43a98b53,2024-06-13,Routine,53.48,3.99,0,0.142,0,"Patient signale des céphalées occasionnelles, surveillance à poursuivre attentivement.",0,58,M,Oncologie,B,0.86,5,3.54,2024-06-13,0,1,46-60
+2842de9d43a98b53,2024-06-30,FollowUp,66.04,2.47,0,0.463,0,"Amélioration notable de la capacité fonctionnelle, Glycémie correcte dans les objectifs, surveillance nécessaire.",0,58,M,Oncologie,B,0.86,5,3.54,2024-06-13,17,2,46-60
+2848569276a4a6f0,2024-03-05,Routine,57.7,1.63,0,0.229,0,"Glycémie correcte dans les objectifs, effets secondaires mineurs tolérables.",0,38,F,HTA,C,0.86,4,1.25,2024-03-05,0,1,31-45
+2848569276a4a6f0,2024-03-10,Routine,49.44,3.24,0,0.141,0,"Réduction progressive de la posologie, Patient satisfait de l'évolution, pas de modification nécessaire.",0,38,F,HTA,C,0.86,4,1.25,2024-03-05,5,2,31-45
+2848569276a4a6f0,2024-07-21,Emergency,37.36,5.71,0,0.769,1,"Amélioration notable de la capacité fonctionnelle, depuis la dernière visite.",0,38,F,HTA,C,0.86,4,1.25,2024-03-05,138,3,31-45
+2848569276a4a6f0,2024-11-18,FollowUp,61.84,2.69,0,0.404,0,"Léger oedème persistant, adaptation autonome correcte.",0,38,F,HTA,C,0.86,4,1.25,2024-03-05,258,4,31-45
+2848569276a4a6f0,2024-11-24,Routine,75.43,1.74,0,0.288,0,"Diminution des symptômes inflammatoires, protocole bien suivi à domicile.",0,38,F,HTA,C,0.86,4,1.25,2024-03-05,264,5,31-45
+287a88e045afaf65,2024-02-23,Routine,35.48,2.42,1,0.172,0,"Paramètres vitaux stables, surveillance nécessaire.",0,51,F,Diabète,B,0.82,4,3.78,2024-02-23,0,1,46-60
+287a88e045afaf65,2024-04-25,Routine,46.63,2.63,0,0.127,0,"Stabilité hémodynamique observée, patient bien informé des signes d'alerte.",0,51,F,Diabète,B,0.82,4,3.78,2024-02-23,62,2,46-60
+287a88e045afaf65,2024-09-07,FollowUp,27.97,0.43,0,0.116,0,"Amélioration notable de la capacité fonctionnelle, éducation thérapeutique renforcée et adaptation autonome correcte.",0,51,F,Diabète,B,0.82,4,3.78,2024-02-23,197,3,46-60
+287a88e045afaf65,2024-10-07,Routine,64.24,3.42,0,0.146,0,"Hydratation correcte constatée, poursuite du traitement actuel.",0,51,F,Diabète,B,0.82,4,3.78,2024-02-23,227,4,46-60
+29218e3174b291d9,2024-06-28,Routine,72.06,2.82,0,0.422,1,"Léger oedème persistant, envisagée si amélioration.",0,61,M,Oncologie,B,0.87,5,1.15,2024-06-28,0,1,61-75
+29218e3174b291d9,2024-07-08,FollowUp,64.34,5.29,0,0.454,0,"Douleurs thoraciques absentes, explications données au patient.",0,61,M,Oncologie,B,0.87,5,1.15,2024-06-28,10,2,61-75
+29218e3174b291d9,2024-08-13,FollowUp,29.88,1.48,0,0.16,0,"Douleurs thoraciques absentes, Résultats biologiques en amélioration, recommandée par précaution.",0,61,M,Oncologie,B,0.87,5,1.15,2024-06-28,46,3,61-75
+29218e3174b291d9,2024-11-16,Routine,56.0,2.76,0,0.281,0,"État général satisfaisant, patient rassuré sur l'évolution.",0,61,M,Oncologie,B,0.87,5,1.15,2024-06-28,141,4,61-75
+292cd4ddf54dce56,2024-03-12,Routine,43.7,3.84,0,0.336,0,"État général satisfaisant, surveillance nécessaire.",0,71,M,Asthme,A,0.92,2,5.62,2024-03-12,0,1,61-75
+292cd4ddf54dce56,2024-07-04,Emergency,72.0,3.33,0,0.262,0,"Glycémie correcte dans les objectifs, objectifs thérapeutiques atteints.",0,71,M,Asthme,A,0.92,2,5.62,2024-03-12,114,2,61-75
+292cd4ddf54dce56,2024-10-12,Emergency,79.22,1.48,0,0.263,0,"Pas de signe d'infection, patient adhère bien au protocole.",0,71,M,Asthme,A,0.92,2,5.62,2024-03-12,214,3,61-75
+295343645dda0667,2024-09-07,Routine,44.31,1.42,0,0.0,0,"Patient signale des céphalées occasionnelles, traitement maintenu à l'identique.",0,52,M,Polyarthrite,B,0.81,3,2.75,2024-09-07,0,1,46-60
+2b1ca6a4b9eddfbb,2024-02-11,Routine,41.76,4.21,0,0.369,0,"Paramètres vitaux stables, Fatigue résiduelle mentionnée, orientation vers spécialiste si besoin.",0,35,F,Oncologie,A,0.92,3,4.23,2024-02-11,0,1,31-45
+2b1ca6a4b9eddfbb,2024-03-23,FollowUp,47.105,3.03,0,0.385,0,"Moral du patient bon, éducation thérapeutique renforcée.",1,35,F,Oncologie,A,0.92,3,4.23,2024-02-11,41,2,31-45
+2b1ca6a4b9eddfbb,2024-04-29,Routine,52.45,2.29,0,0.208,0,"Patient rapporte un meilleur sommeil, Légère prise de poids notée, moral bon du patient.",0,35,F,Oncologie,A,0.92,3,4.23,2024-02-11,78,3,31-45
+2be6c939e56239c4,2024-01-16,Routine,46.73,4.67,0,0.27,1,"Compliance médicamenteuse satisfaisante, observance satisfaisante du patient.",0,47,M,Asthme,B,0.67,4,2.63,2024-01-16,0,1,46-60
+2be6c939e56239c4,2024-05-21,Routine,56.82,3.3,0,0.274,0,"Compliance médicamenteuse satisfaisante, objectifs thérapeutiques atteints.",0,47,M,Asthme,B,0.67,4,2.63,2024-01-16,126,2,46-60
+2be6c939e56239c4,2024-11-13,Routine,63.8,3.58,0,0.514,0,"État général satisfaisant, protocole bien suivi à domicile.",0,47,M,Asthme,B,0.67,4,2.63,2024-01-16,302,3,46-60
+2cb9306009bb91da,2024-07-20,Routine,44.05,2.6,0,0.087,0,"Moral du patient bon, suivi téléphonique prévu et dosage à réévaluer prochainement.",0,59,M,Diabète,A,0.83,1,5.07,2024-07-20,0,1,46-60
+2cb9306009bb91da,2024-08-22,Routine,47.19,3.18,0,0.212,0,"Bonne tolérance depuis l'initiation, protocole bien suivi à domicile.",0,59,M,Diabète,A,0.83,1,5.07,2024-07-20,33,2,46-60
+2cb9306009bb91da,2024-11-30,Routine,50.55,2.52,0,0.411,0,"Transit intestinal régulier, ajustement thérapeutique discuté.",0,59,M,Diabète,A,0.83,1,5.07,2024-07-20,133,3,46-60
+2cf579d56a4c19aa,2024-06-15,FollowUp,43.6,6.78,0,0.589,0,"Douleurs articulaires atténuées, Amélioration notable de la capacité fonctionnelle, imagerie complémentaire demandée.",0,63,M,Oncologie,B,0.91,4,4.61,2024-06-15,0,1,61-75
+2cf579d56a4c19aa,2024-08-01,Routine,73.74,4.24,0,0.31,0,"Diminution des symptômes inflammatoires, Moral du patient bon, observance satisfaisante du patient.",0,63,M,Oncologie,B,0.91,4,4.61,2024-06-15,47,2,61-75
+2df924db89ea5343,2024-04-13,Routine,59.85,3.24,0,0.128,0,"Poids stable depuis dernière visite, imagerie complémentaire demandée.",0,59,F,Diabète,A,0.88,4,2.21,2024-04-13,0,1,46-60
+2df924db89ea5343,2024-05-17,Routine,20.36,1.68,0,0.375,0,"Cicatrisation en bonne voie, traitement maintenu à l'identique.",0,59,F,Diabète,A,0.88,4,2.21,2024-04-13,34,2,46-60
+2df924db89ea5343,2024-05-21,FollowUp,61.9,2.45,0,0.115,0,"Glycémie correcte dans les objectifs, pas d'effet indésirable signalé.",0,59,F,Diabète,A,0.88,4,2.21,2024-04-13,38,3,46-60
+2eac5279493e9134,2024-01-12,Routine,25.54,2.08,0,0.0,0,"Patient satisfait de l'évolution, Cicatrisation en bonne voie, patient bien informé des signes d'alerte.",0,54,F,Diabète,C,0.82,4,3.58,2024-01-12,0,1,46-60
+2eac5279493e9134,2024-04-16,Routine,61.38,3.25,0,0.314,0,"Douleurs articulaires atténuées, éducation thérapeutique renforcée.",0,54,F,Diabète,C,0.82,4,3.58,2024-01-12,95,2,46-60
+2f1bb266b75e3fae,2024-06-02,FollowUp,46.72,1.12,0,0.163,0,"Moral du patient bon, envisagée si amélioration.",0,53,M,Oncologie,A,0.8,3,2.2,2024-06-02,0,1,46-60
+2f1bb266b75e3fae,2024-11-22,Routine,38.03,5.02,0,0.445,1,"Léger oedème persistant, dosage à réévaluer prochainement.",0,53,M,Oncologie,A,0.8,3,2.2,2024-06-02,173,2,46-60
+2f6cd7e4e9d75729,2024-10-17,Routine,40.74,3.52,0,0.2,0,"Résultats biologiques en amélioration, Surveillance biologique rapprochée, adaptation autonome correcte.",0,34,M,Polyarthrite,A,1.0,5,6.52,2024-10-17,0,1,31-45
+2fe363f90cccb652,2024-01-12,FollowUp,28.87,2.22,0,0.21,0,"Douleurs thoraciques absentes, adaptation autonome correcte.",0,58,F,HTA,C,0.64,5,2.87,2024-01-12,0,1,46-60
+3007175eb6a3df30,2024-04-01,FollowUp,79.97,5.57,0,0.292,0,"Examen clinique sans particularité, observance satisfaisante du patient.",0,69,M,Oncologie,C,0.68,4,0.97,2024-04-01,0,1,61-75
+3007175eb6a3df30,2024-04-24,Emergency,22.33,1.8,0,0.403,0,"Patient satisfait de l'évolution, constatée lors de l'examen et éducation thérapeutique renforcée.",0,69,M,Oncologie,C,0.68,4,0.97,2024-04-01,23,2,61-75
+3007175eb6a3df30,2024-08-14,Emergency,63.53,4.66,0,0.391,0,"Poids stable depuis dernière visite, bon pronostic à court terme.",0,69,M,Oncologie,C,0.68,4,0.97,2024-04-01,135,3,61-75
+33d2a3586d1dee8c,2024-03-19,Routine,64.95,3.75,1,0.251,0,"Mobilité articulaire conservée, orientation vers spécialiste si besoin.",0,42,M,Diabète,A,1.0,4,1.85,2024-03-19,0,1,31-45
+33d2a3586d1dee8c,2024-03-22,FollowUp,52.89,4.59,0,0.564,0,"Fatigue résiduelle mentionnée, Bonne réponse au traitement, éducation thérapeutique renforcée.",0,42,M,Diabète,A,1.0,4,1.85,2024-03-19,3,2,31-45
+33d2a3586d1dee8c,2024-04-23,FollowUp,43.66,3.82,0,0.335,0,"Fatigue résiduelle mentionnée, adaptation autonome correcte.",0,42,M,Diabète,A,1.0,4,1.85,2024-03-19,35,3,31-45
+34157bd01e595c5b,2024-01-31,FollowUp,41.32,0.96,0,0.32,0,"Patient satisfait de l'évolution, Paramètres biologiques dans les normes, conseils diététiques donnés.",0,49,F,Oncologie,B,0.78,4,3.2,2024-01-31,0,1,46-60
+34157bd01e595c5b,2024-02-25,Routine,55.44,2.22,0,0.148,0,"Transit intestinal régulier, protocole bien suivi à domicile.",0,49,F,Oncologie,B,0.78,4,3.2,2024-01-31,25,2,46-60
+34157bd01e595c5b,2024-03-17,FollowUp,38.41,0.17,0,0.218,0,"Fonction rénale stable, suivi téléphonique prévu.",0,49,F,Oncologie,B,0.78,4,3.2,2024-01-31,46,3,46-60
+34157bd01e595c5b,2024-06-09,Emergency,69.36,2.82,0,0.335,0,"Surveillance biologique rapprochée, patient rassuré sur l'évolution.",0,49,F,Oncologie,B,0.78,4,3.2,2024-01-31,130,4,46-60
+34157bd01e595c5b,2024-07-23,FollowUp,73.89,4.97,0,0.272,0,"Moral du patient bon, Surveillance biologique rapprochée, conseils diététiques donnés.",0,49,F,Oncologie,B,0.78,4,3.2,2024-01-31,174,5,46-60
+35231d6552f5ecb0,2024-05-10,Routine,53.45,1.36,0,0.139,0,"Amélioration notable de la capacité fonctionnelle, pas de modification nécessaire.",0,62,F,Asthme,B,0.85,3,1.97,2024-05-10,0,1,61-75
+35b2a548d3843463,2024-01-24,Routine,35.8,2.92,0,0.187,0,"Patient rapporte un meilleur sommeil, Légère prise de poids notée, éducation thérapeutique renforcée.",0,26,F,Polyarthrite,A,0.87,4,1.89,2024-01-24,0,1,18-30
+35b2a548d3843463,2024-05-12,Emergency,40.37,4.59,0,0.502,1,"Amélioration du souffle, objectifs thérapeutiques atteints.",0,26,F,Polyarthrite,A,0.87,4,1.89,2024-01-24,109,2,18-30
+35b2a548d3843463,2024-07-10,FollowUp,42.76,1.22,0,0.239,0,"Fatigue résiduelle mentionnée, patient rassuré sur l'évolution.",0,26,F,Polyarthrite,A,0.87,4,1.89,2024-01-24,168,3,18-30
+35b2a548d3843463,2024-10-20,FollowUp,44.02,3.14,0,0.316,0,"Bonne tolérance depuis l'initiation, moral bon du patient.",0,26,F,Polyarthrite,A,0.87,4,1.89,2024-01-24,270,4,18-30
+362a3abd1529c782,2024-02-11,Routine,29.16,5.2,0,0.287,0,"Auscultation pulmonaire normale, Résultats biologiques en amélioration, recommandée par précaution.",0,72,F,Diabète,B,0.77,3,1.2,2024-02-11,0,1,61-75
+362a3abd1529c782,2024-07-29,Routine,59.0,2.34,0,0.348,0,"Fonction rénale stable, objectifs thérapeutiques atteints.",0,72,F,Diabète,B,0.77,3,1.2,2024-02-11,169,2,61-75
+36c730ff966dd3ad,2024-03-16,Routine,74.31,7.3,0,0.343,0,"Aucun signe de décompensation, Résultats biologiques en amélioration, état général satisfaisant.",0,87,M,Polyarthrite,B,0.99,3,1.33,2024-03-16,0,1,76+
+36c730ff966dd3ad,2024-11-02,Routine,46.62,3.67,0,0.542,0,"Patient satisfait de l'évolution, éducation thérapeutique renforcée.",0,87,M,Polyarthrite,B,0.99,3,1.33,2024-03-16,231,2,76+
+37f6446f77680d89,2024-04-20,Routine,34.5,1.7,0,0.08,0,"Poids stable depuis dernière visite, aucune interaction détectée.",0,48,M,Diabète,C,0.79,2,2.05,2024-04-20,0,1,46-60
+37f6446f77680d89,2024-06-13,Emergency,68.14,2.59,1,0.286,0,"Examen clinique sans particularité, surveillance nécessaire.",0,48,M,Diabète,C,0.79,2,2.05,2024-04-20,54,2,46-60
+37f6446f77680d89,2024-07-06,Routine,66.5,3.64,0,0.0,0,"Poids stable depuis dernière visite, envisagée si amélioration.",0,48,M,Diabète,C,0.79,2,2.05,2024-04-20,77,3,46-60
+37fd219baffd5e30,2024-07-24,FollowUp,53.66,2.39,0,0.39,0,"Hydratation correcte constatée, explications données au patient.",0,54,F,HTA,B,0.83,4,7.24,2024-07-24,0,1,46-60
+37fd219baffd5e30,2024-08-08,Routine,54.35,2.6,0,0.242,0,"Amélioration du souffle, état général satisfaisant.",0,54,F,HTA,B,0.83,4,7.24,2024-07-24,15,2,46-60
+37fd219baffd5e30,2024-10-28,Routine,85.88,0.66,0,0.0,0,"Sommeil de qualité rapporté, conseils diététiques donnés.",0,54,F,HTA,B,0.83,4,7.24,2024-07-24,96,3,46-60
+384510d475131cbf,2024-03-11,Routine,56.54,5.05,0,0.398,0,"Patient satisfait de l'évolution, consultation de suivi programmée.",0,54,F,HTA,B,0.93,2,1.76,2024-03-11,0,1,46-60
+3861f8f9ba583365,2024-03-11,FollowUp,51.16,6.22,0,0.278,0,"Transit intestinal régulier, pas de modification nécessaire et depuis la dernière visite.",0,56,F,Polyarthrite,B,0.85,5,4.2,2024-03-11,0,1,46-60
+3861f8f9ba583365,2024-08-19,Routine,51.13,4.22,0,0.22,0,"État général satisfaisant, imagerie complémentaire demandée.",0,56,F,Polyarthrite,B,0.85,5,4.2,2024-03-11,161,2,46-60
+3861f8f9ba583365,2024-09-17,Emergency,40.54,5.76,0,0.013,0,"Poids stable depuis dernière visite, Patient rapporte un meilleur sommeil, objectifs thérapeutiques atteints.",0,56,F,Polyarthrite,B,0.85,5,4.2,2024-03-11,190,3,46-60
+396fa059405ca5d1,2024-02-21,Routine,56.76,2.46,0,0.171,0,"Aucune plainte particulière, Bonne tolérance depuis l'initiation, pas d'effet indésirable signalé.",0,81,M,Diabète,B,1.0,5,6.46,2024-02-21,0,1,76+
+396fa059405ca5d1,2024-02-25,Routine,86.18,0.69,0,0.212,0,"Fatigue résiduelle mentionnée, Patient signale des céphalées occasionnelles, surveillance nécessaire.",0,81,M,Diabète,B,1.0,5,6.46,2024-02-21,4,2,76+
+396fa059405ca5d1,2024-07-23,Routine,54.77,3.3,0,0.34,0,"Légère baisse de l'appétit signalée, conseils diététiques donnés.",0,81,M,Diabète,B,1.0,5,6.46,2024-02-21,153,3,76+
+396fa059405ca5d1,2024-07-26,Routine,56.76,4.29,0,0.339,0,"Sommeil de qualité rapporté, poursuite du traitement actuel.",1,81,M,Diabète,B,1.0,5,6.46,2024-02-21,156,4,76+
+39ad645ebcb6c9a8,2024-02-04,Routine,58.84,2.99,0,0.423,1,"État général satisfaisant, bilan biologique prescrit.",0,58,F,HTA,B,0.95,5,1.69,2024-02-04,0,1,46-60
+3c15b0c265556382,2024-04-15,FollowUp,33.38,1.43,0,0.347,0,"Amélioration du souffle, bon pronostic à court terme.",0,85,F,Asthme,B,0.83,4,3.46,2024-04-15,0,1,76+
+3c15b0c265556382,2024-04-16,Routine,50.55,1.7,0,0.294,0,"Amélioration notable de la capacité fonctionnelle, Aucune plainte particulière, patient bien informé des signes d'alerte.",0,85,F,Asthme,B,0.83,4,3.46,2024-04-15,1,2,76+
+3c15b0c265556382,2024-08-29,Routine,31.1,0.91,0,0.167,0,"Patient satisfait de l'évolution, pas de modification nécessaire.",0,85,F,Asthme,B,0.83,4,3.46,2024-04-15,136,3,76+
+3c15b0c265556382,2024-10-07,Routine,76.73,3.74,0,0.402,0,"Bonne adhérence au protocole, constatée lors de l'examen.",0,85,F,Asthme,B,0.83,4,3.46,2024-04-15,175,4,76+
+3c4023f991ad239c,2024-01-13,Routine,51.25,0.64,0,0.167,0,"Sommeil de qualité rapporté, objectifs thérapeutiques atteints.",0,64,M,Oncologie,A,0.92,5,5.79,2024-01-13,0,1,61-75
+3c925a742aa2513a,2024-06-10,Routine,43.66,4.89,0,0.553,0,"Sommeil de qualité rapporté, explications données au patient.",0,48,F,HTA,A,0.86,5,3.07,2024-06-10,0,1,46-60
+3d19e2aa3e7817dc,2024-03-24,FollowUp,48.15,1.86,0,0.163,0,"Légère prise de poids notée, dosage à réévaluer prochainement.",0,76,F,HTA,B,0.73,1,2.24,2024-03-24,0,1,76+
+3d19e2aa3e7817dc,2024-03-25,FollowUp,33.52,0.55,0,0.194,0,"Bonne réponse au traitement, patient adhère bien au protocole.",0,76,F,HTA,B,0.73,1,2.24,2024-03-24,1,2,76+
+3d19e2aa3e7817dc,2024-08-29,Routine,70.36,6.89,0,0.662,1,"Paramètres vitaux stables, constatée lors de l'examen.",0,76,F,HTA,B,0.73,1,2.24,2024-03-24,158,3,76+
+3d7069228eb2657a,2024-01-16,Routine,38.05,3.87,0,0.578,0,"Patient rapporte un meilleur sommeil, Auscultation pulmonaire normale, envisagée si amélioration.",0,57,F,Asthme,B,0.71,4,3.23,2024-01-16,0,1,46-60
+3d7069228eb2657a,2024-04-06,FollowUp,63.51,1.68,0,0.342,0,"Fatigue résiduelle mentionnée, aucune interaction détectée.",0,57,F,Asthme,B,0.71,4,3.23,2024-01-16,81,2,46-60
+3d7069228eb2657a,2024-05-01,FollowUp,43.7,1.54,0,0.353,0,"Léger oedème persistant, aucune interaction détectée.",0,57,F,Asthme,B,0.71,4,3.23,2024-01-16,106,3,46-60
+3d7069228eb2657a,2024-07-10,Routine,47.28,4.28,0,0.712,1,"Poids stable depuis dernière visite, Patient rapporte un meilleur sommeil, adaptation autonome correcte.",0,57,F,Asthme,B,0.71,4,3.23,2024-01-16,176,4,46-60
+3d7069228eb2657a,2024-10-16,Routine,37.69,5.07,0,0.71,0,"Surveillance biologique rapprochée, effets secondaires mineurs tolérables.",0,57,F,Asthme,B,0.71,4,3.23,2024-01-16,274,5,46-60
+3d82a50a7ceb1358,2024-01-12,Routine,70.23,5.64,0,0.05,0,"Bonne réponse au traitement, consultation de suivi programmée.",0,66,F,Oncologie,A,0.91,4,4.86,2024-01-12,0,1,61-75
+3d82a50a7ceb1358,2024-03-11,FollowUp,58.93,1.9,0,0.125,0,"Amélioration notable de la capacité fonctionnelle, contrôle dans trois mois prévu.",0,66,F,Oncologie,A,0.91,4,4.86,2024-01-12,59,2,61-75
+3d82a50a7ceb1358,2024-10-18,Emergency,68.18,2.07,0,0.233,0,"Patient rapporte un meilleur sommeil, Cicatrisation en bonne voie, patient rassuré sur l'évolution.",0,66,F,Oncologie,A,0.91,4,4.86,2024-01-12,280,3,61-75
+3e48070f02ebbd0e,2024-06-11,Routine,47.03,5.29,0,0.546,0,"Glycémie correcte dans les objectifs, pas de modification nécessaire.",0,55,M,Diabète,B,0.65,4,0.49,2024-06-11,0,1,46-60
+3e6b32515ad0aaf5,2024-04-12,FollowUp,56.33,4.25,0,0.527,1,"Auscultation pulmonaire normale, orientation vers spécialiste si besoin et patient bien informé des signes d'alerte.",0,37,F,Asthme,B,0.9,4,2.59,2024-04-12,0,1,31-45
+3e6b32515ad0aaf5,2024-09-24,Routine,49.74,3.25,0,0.538,1,"Pas de signe d'infection, ajustement thérapeutique discuté.",0,37,F,Asthme,B,0.9,4,2.59,2024-04-12,165,2,31-45
+3f2c192ad7da2306,2024-01-13,Routine,37.5,5.47,0,0.715,1,"Aucune plainte particulière, moral bon du patient et constatée lors de l'examen.",0,46,M,Asthme,B,0.93,3,3.07,2024-01-13,0,1,46-60
+3f2c192ad7da2306,2024-10-24,FollowUp,80.75,2.02,0,0.305,0,"Patient satisfait de l'évolution, conseils diététiques donnés et poursuite du traitement actuel.",0,46,M,Asthme,B,0.93,3,3.07,2024-01-13,285,2,46-60
+4022a3e8220f04c7,2024-11-01,Routine,61.19,1.63,0,0.113,0,"Paramètres vitaux stables, conseils diététiques donnés et aucune réaction allergique observée.",0,52,M,Polyarthrite,B,0.96,4,2.24,2024-11-01,0,1,46-60
+4146979e882cd273,2024-06-21,Routine,28.4,0.28,0,0.0,0,"État général satisfaisant, recommandée par précaution.",0,39,M,HTA,A,0.76,4,0.68,2024-06-21,0,1,31-45
+43788d6d869a651a,2024-01-08,Routine,14.11,2.69,0,0.552,0,"Réduction progressive de la posologie, contrôle dans trois mois prévu.",0,43,F,Asthme,A,0.76,5,2.18,2024-01-08,0,1,31-45
+43788d6d869a651a,2024-08-08,Routine,41.92,0.63,0,0.323,0,"Cicatrisation en bonne voie, explications données au patient.",0,43,F,Asthme,A,0.76,5,2.18,2024-01-08,213,2,31-45
+43788d6d869a651a,2024-11-12,Routine,54.27,3.65,0,0.458,0,"Transit intestinal régulier, Mobilité articulaire conservée, constatée lors de l'examen.",0,43,F,Asthme,A,0.76,5,2.18,2024-01-08,309,3,31-45
+44e57b1694210272,2024-03-17,Routine,54.93,3.97,0,0.462,0,"Glycémie correcte dans les objectifs, observance satisfaisante du patient.",0,35,M,Oncologie,B,0.81,4,2.11,2024-03-17,0,1,31-45
+44e57b1694210272,2024-03-29,Routine,44.13,3.11,0,0.467,0,"Léger oedème persistant, bilan biologique prescrit.",0,35,M,Oncologie,B,0.81,4,2.11,2024-03-17,12,2,31-45
+44e57b1694210272,2024-05-21,Routine,52.12,1.38,0,0.161,0,"Amélioration du souffle, Fatigue résiduelle mentionnée, observance satisfaisante du patient.",0,35,M,Oncologie,B,0.81,4,2.11,2024-03-17,65,3,31-45
+44e57b1694210272,2024-09-23,FollowUp,83.69,2.84,0,0.0,0,"Fatigue résiduelle mentionnée, imagerie complémentaire demandée.",0,35,M,Oncologie,B,0.81,4,2.11,2024-03-17,190,4,31-45
+45d0d78a036327a0,2024-02-08,Emergency,36.49,0.98,1,0.287,0,"Auscultation pulmonaire normale, État général satisfaisant, protocole bien suivi à domicile.",0,55,F,Polyarthrite,B,0.93,4,1.86,2024-02-08,0,1,46-60
+45d0d78a036327a0,2024-05-02,FollowUp,52.010000000000005,1.5,0,0.321,0,"Aucun signe de décompensation, Léger oedème persistant, suivi téléphonique prévu.",1,55,F,Polyarthrite,B,0.93,4,1.86,2024-02-08,84,2,46-60
+45d0d78a036327a0,2024-05-07,Routine,67.53,1.72,1,0.0,0,"Léger oedème persistant, ajustement thérapeutique discuté.",0,55,F,Polyarthrite,B,0.93,4,1.86,2024-02-08,89,3,46-60
+469aeabf3b762a73,2024-10-06,Routine,54.27,2.75,0,0.151,0,"Douleurs articulaires atténuées, suivi téléphonique prévu.",0,61,M,HTA,C,0.75,4,1.34,2024-10-06,0,1,61-75
+48a2e13d3d07ada5,2024-03-05,Routine,54.07,6.87,0,0.638,1,"Mobilité articulaire conservée, aucune interaction détectée.",0,37,M,Diabète,B,0.83,4,3.05,2024-03-05,0,1,31-45
+48a2e13d3d07ada5,2024-10-09,Routine,34.71,3.35,0,0.585,1,"Hydratation correcte constatée, dosage à réévaluer prochainement.",0,37,M,Diabète,B,0.83,4,3.05,2024-03-05,218,2,31-45
+48a2e13d3d07ada5,2024-10-27,Routine,69.5,3.94,0,0.378,0,"Fonction rénale stable, bon pronostic à court terme.",0,37,M,Diabète,B,0.83,4,3.05,2024-03-05,236,3,31-45
+49304e61174944c4,2024-02-08,Emergency,34.39,2.64,0,0.354,0,"État général satisfaisant, orientation vers spécialiste si besoin et envisagée si amélioration.",0,61,M,HTA,B,0.8,5,2.58,2024-02-08,0,1,61-75
+494f72fdf6da4dbb,2024-04-27,Routine,35.41,1.87,0,0.301,0,"Résultats biologiques en amélioration, constatée lors de l'examen.",0,45,F,HTA,B,0.81,4,1.39,2024-04-27,0,1,31-45
+494f72fdf6da4dbb,2024-08-01,Emergency,67.5,4.4,0,0.351,0,"Stabilité hémodynamique observée, explications données au patient.",0,45,F,HTA,B,0.81,4,1.39,2024-04-27,96,2,31-45
+4a7dfbed7899ef65,2024-01-02,FollowUp,37.56,2.45,0,0.414,1,"Paramètres vitaux stables, observance satisfaisante du patient.",0,86,F,HTA,A,0.82,5,1.64,2024-01-02,0,1,76+
+4a7dfbed7899ef65,2024-04-08,Routine,39.66,1.39,0,0.216,0,"Amélioration du souffle, Stabilité hémodynamique observée, objectifs thérapeutiques atteints.",0,86,F,HTA,A,0.82,5,1.64,2024-01-02,97,2,76+
+4a7dfbed7899ef65,2024-05-31,Routine,47.54,2.65,0,0.258,0,"Légère baisse de l'appétit signalée, objectifs thérapeutiques atteints.",0,86,F,HTA,A,0.82,5,1.64,2024-01-02,150,3,76+
+4a7dfbed7899ef65,2024-08-05,Routine,31.19,1.57,0,0.12,0,"Symptômes respiratoires améliorés, contrôle dans trois mois prévu.",0,86,F,HTA,A,0.82,5,1.64,2024-01-02,216,4,76+
+4afc2402f8d6084d,2024-09-30,Routine,38.56,2.61,0,0.13,0,"Sommeil de qualité rapporté, consultation de suivi programmée.",0,49,F,Diabète,A,0.93,2,6.01,2024-09-30,0,1,46-60
+4b47269810ff68dd,2024-05-19,Emergency,61.71,1.61,0,0.338,0,"État général satisfaisant, bon pronostic à court terme.",0,42,F,HTA,A,0.99,5,3.2,2024-05-19,0,1,31-45
+4b47269810ff68dd,2024-07-25,Routine,23.83,3.56,0,0.268,0,"Cicatrisation en bonne voie, poursuite du traitement actuel.",0,42,F,HTA,A,0.99,5,3.2,2024-05-19,67,2,31-45
+4b47269810ff68dd,2024-11-23,FollowUp,60.21,4.39,0,0.705,1,"Patient rapporte un meilleur sommeil, objectifs thérapeutiques atteints.",0,42,F,HTA,A,0.99,5,3.2,2024-05-19,188,3,31-45
+4c75ba706fa83fa4,2024-04-12,FollowUp,54.6,3.95,0,0.326,0,"Patient signale des céphalées occasionnelles, contrôle dans trois mois prévu.",0,81,F,Asthme,A,0.66,2,5.14,2024-04-12,0,1,76+
+4c75ba706fa83fa4,2024-06-03,Routine,66.83,2.55,0,0.262,0,"Glycémie correcte dans les objectifs, observance satisfaisante du patient.",0,81,F,Asthme,A,0.66,2,5.14,2024-04-12,52,2,76+
+4c75ba706fa83fa4,2024-06-14,Routine,65.63,1.84,0,0.097,0,"Hydratation correcte constatée, Douleurs thoraciques absentes, moral bon du patient.",0,81,F,Asthme,A,0.66,2,5.14,2024-04-12,63,3,76+
+4d63d87c0d73bc5a,2024-06-04,FollowUp,70.66,1.81,0,0.121,0,"Douleurs articulaires atténuées, observance satisfaisante du patient.",0,59,F,Asthme,A,0.92,5,1.96,2024-06-04,0,1,46-60
+4d63d87c0d73bc5a,2024-07-19,Routine,67.08,5.94,0,0.391,0,"Paramètres biologiques dans les normes, surveillance nécessaire.",0,59,F,Asthme,A,0.92,5,1.96,2024-06-04,45,2,46-60
+4d85ed60c77d6fa4,2024-05-07,FollowUp,38.12,2.94,1,0.528,0,"Stabilité hémodynamique observée, patient adhère bien au protocole et poursuite du traitement actuel.",0,26,M,Asthme,B,0.76,1,2.61,2024-05-07,0,1,18-30
+4d85ed60c77d6fa4,2024-05-17,FollowUp,41.18,0.95,0,0.308,0,"Hydratation correcte constatée, explications données au patient.",0,26,M,Asthme,B,0.76,1,2.61,2024-05-07,10,2,18-30
+4d85ed60c77d6fa4,2024-07-22,Routine,42.79,5.49,0,0.505,0,"Résultats biologiques en amélioration, protocole bien suivi à domicile.",0,26,M,Asthme,B,0.76,1,2.61,2024-05-07,76,3,18-30
+4d85ed60c77d6fa4,2024-10-06,Routine,52.24,3.11,0,0.327,0,"Sommeil de qualité rapporté, pas de modification nécessaire.",0,26,M,Asthme,B,0.76,1,2.61,2024-05-07,152,4,18-30
+4e35671e62961755,2024-05-07,FollowUp,54.87,3.28,0,0.162,0,"Symptômes respiratoires améliorés, traitement maintenu à l'identique et effets secondaires mineurs tolérables.",0,62,F,HTA,C,0.71,4,2.31,2024-05-07,0,1,61-75
+4e35671e62961755,2024-06-01,Routine,33.06,8.13,0,0.78,0,"Cicatrisation en bonne voie, ajustement thérapeutique discuté et constatée lors de l'examen.",0,62,F,HTA,C,0.71,4,2.31,2024-05-07,25,2,61-75
+4e35671e62961755,2024-08-04,FollowUp,88.55,1.07,0,0.122,0,"Résultats biologiques en amélioration, adaptation autonome correcte.",0,62,F,HTA,C,0.71,4,2.31,2024-05-07,89,3,61-75
+5008f959f6826673,2024-03-02,Routine,40.64,1.88,0,0.198,0,"Aucun signe de décompensation, envisagée si amélioration.",0,63,F,Diabète,C,0.96,3,5.14,2024-03-02,0,1,61-75
+5008f959f6826673,2024-08-23,FollowUp,80.9,2.41,0,0.0,0,"Paramètres biologiques dans les normes, imagerie complémentaire demandée.",0,63,F,Diabète,C,0.96,3,5.14,2024-03-02,174,2,61-75
+5008f959f6826673,2024-10-01,Routine,38.4,4.39,0,0.334,0,"Aucune plainte particulière, surveillance nécessaire.",0,63,F,Diabète,C,0.96,3,5.14,2024-03-02,213,3,61-75
+502d1002ee91cd5c,2024-03-27,Routine,47.83,1.26,0,0.328,0,"Stabilité hémodynamique observée, surveillance à poursuivre attentivement.",0,39,M,HTA,A,0.85,3,1.65,2024-03-27,0,1,31-45
+502d1002ee91cd5c,2024-04-27,FollowUp,54.735,5.05,0,0.724,0,"Légère prise de poids notée, moral bon du patient et traitement maintenu à l'identique.",1,39,M,HTA,A,0.85,3,1.65,2024-03-27,31,2,31-45
+502d1002ee91cd5c,2024-05-28,FollowUp,54.735,6.05,0,0.374,0,"Symptômes respiratoires améliorés, effets secondaires mineurs tolérables.",1,39,M,HTA,A,0.85,3,1.65,2024-03-27,62,3,31-45
+502d1002ee91cd5c,2024-10-20,FollowUp,61.64,6.75,0,0.435,1,"Légère baisse de l'appétit signalée, protocole bien suivi à domicile.",0,39,M,HTA,A,0.85,3,1.65,2024-03-27,207,4,31-45
+503c2becface4f4c,2024-05-27,FollowUp,27.66,5.14,1,0.498,0,"Aucun signe de décompensation, surveillance à poursuivre attentivement et dosage à réévaluer prochainement.",0,45,F,Polyarthrite,C,0.96,4,1.08,2024-05-27,0,1,31-45
+503c2becface4f4c,2024-06-27,Routine,44.46,3.97,0,0.213,0,"Patient satisfait de l'évolution, Fatigue résiduelle mentionnée, adaptation autonome correcte.",0,45,F,Polyarthrite,C,0.96,4,1.08,2024-05-27,31,2,31-45
+507ef4a2f15d2293,2024-07-22,Emergency,61.55,4.32,1,0.199,0,"Résultats biologiques en amélioration, pas de modification nécessaire.",0,71,F,Diabète,B,0.86,5,4.04,2024-07-22,0,1,61-75
+507ef4a2f15d2293,2024-10-19,Routine,71.63,3.68,0,0.189,0,"Surveillance biologique rapprochée, dosage à réévaluer prochainement.",0,71,F,Diabète,B,0.86,5,4.04,2024-07-22,89,2,61-75
+50b9bfbdb666f5e9,2024-06-14,Routine,20.07,2.04,1,0.393,0,"Résultats biologiques en amélioration, observance satisfaisante du patient.",0,62,M,HTA,A,0.76,4,3.69,2024-06-14,0,1,61-75
+50b9bfbdb666f5e9,2024-07-19,Routine,36.47,2.62,0,0.42,0,"Compliance médicamenteuse satisfaisante, imagerie complémentaire demandée.",0,62,M,HTA,A,0.76,4,3.69,2024-06-14,35,2,61-75
+5111129eab17b9e0,2024-02-10,FollowUp,46.77,2.74,0,0.491,0,"Cicatrisation en bonne voie, traitement maintenu à l'identique et bilan biologique prescrit.",0,56,M,Asthme,C,0.89,3,2.36,2024-02-10,0,1,46-60
+5111129eab17b9e0,2024-11-11,Routine,71.73,3.89,0,0.454,0,"Bonne tolérance depuis l'initiation, réévaluation dans six semaines.",0,56,M,Asthme,C,0.89,3,2.36,2024-02-10,275,2,46-60
+5111129eab17b9e0,2024-11-13,Routine,41.04,5.36,0,0.637,0,"Résultats biologiques en amélioration, explications données au patient.",0,56,M,Asthme,C,0.89,3,2.36,2024-02-10,277,3,46-60
+51b94b0c61559cfe,2024-02-01,Routine,63.16,3.06,0,0.448,0,"Patient satisfait de l'évolution, patient adhère bien au protocole.",0,67,M,Diabète,B,1.0,4,2.92,2024-02-01,0,1,61-75
+544b0aabcc317070,2024-05-06,FollowUp,36.63,3.83,0,0.573,1,"Moral du patient bon, aucune réaction allergique observée.",0,50,F,Polyarthrite,C,0.91,3,2.92,2024-05-06,0,1,46-60
+544b0aabcc317070,2024-07-20,Routine,37.81,2.47,0,0.365,0,"Patient signale des céphalées occasionnelles, observance satisfaisante du patient et depuis la dernière visite.",0,50,F,Polyarthrite,C,0.91,3,2.92,2024-05-06,75,2,46-60
+55b40d692a85e68a,2024-09-09,Emergency,52.66,4.19,0,0.426,0,"Fatigue résiduelle mentionnée, envisagée si amélioration.",0,45,F,HTA,C,0.88,2,4.32,2024-09-09,0,1,31-45
+562cc9d3e3721105,2024-02-01,Routine,63.7,1.74,0,0.036,0,"Paramètres vitaux stables, dosage à réévaluer prochainement.",0,59,F,Asthme,C,0.72,5,0.96,2024-02-01,0,1,46-60
+563801e2aef88e3e,2024-01-21,Routine,23.56,1.21,0,0.283,0,"Patient satisfait de l'évolution, état général satisfaisant.",0,53,F,Diabète,B,0.78,5,2.24,2024-01-21,0,1,46-60
+563801e2aef88e3e,2024-02-19,Routine,60.77,4.64,0,0.388,0,"Tension artérielle bien contrôlée, pas de modification nécessaire.",0,53,F,Diabète,B,0.78,5,2.24,2024-01-21,29,2,46-60
+563801e2aef88e3e,2024-03-09,FollowUp,57.7,2.87,0,0.232,0,"Stabilité hémodynamique observée, bon pronostic à court terme.",0,53,F,Diabète,B,0.78,5,2.24,2024-01-21,48,3,46-60
+563801e2aef88e3e,2024-08-07,FollowUp,49.0,3.51,0,0.409,1,"Douleurs articulaires atténuées, ajustement thérapeutique discuté.",0,53,F,Diabète,B,0.78,5,2.24,2024-01-21,199,4,46-60
+563801e2aef88e3e,2024-11-08,Routine,45.89,1.45,0,0.165,0,"Paramètres vitaux stables, état général satisfaisant.",0,53,F,Diabète,B,0.78,5,2.24,2024-01-21,292,5,46-60
+570571929e894e4d,2024-01-31,Routine,39.2,2.32,0,0.155,0,"Léger oedème persistant, contrôle dans trois mois prévu.",0,69,M,HTA,B,0.86,3,2.78,2024-01-31,0,1,61-75
+570571929e894e4d,2024-10-02,FollowUp,47.15,4.48,0,0.459,1,"Réduction progressive de la posologie, adaptation autonome correcte et éducation thérapeutique renforcée.",0,69,M,HTA,B,0.86,3,2.78,2024-01-31,245,2,61-75
+58e69f2964d90abf,2024-07-19,Routine,36.53,2.65,0,0.183,0,"Amélioration notable de la capacité fonctionnelle, patient rassuré sur l'évolution.",0,48,F,Diabète,B,0.93,4,2.67,2024-07-19,0,1,46-60
+58e69f2964d90abf,2024-07-23,FollowUp,61.36,2.61,0,0.34,0,"Patient satisfait de l'évolution, Bonne tolérance depuis l'initiation, patient bien informé des signes d'alerte.",0,48,F,Diabète,B,0.93,4,2.67,2024-07-19,4,2,46-60
+58e69f2964d90abf,2024-10-15,Routine,78.06,3.23,0,0.103,0,"Fatigue résiduelle mentionnée, envisagée si amélioration.",0,48,F,Diabète,B,0.93,4,2.67,2024-07-19,88,3,46-60
+58fe4f21b93612fc,2024-05-29,Routine,65.41,1.28,0,0.0,0,"Auscultation pulmonaire normale, objectifs thérapeutiques atteints.",0,67,M,Polyarthrite,B,0.92,4,6.0,2024-05-29,0,1,61-75
+58fe4f21b93612fc,2024-06-18,FollowUp,32.91,2.42,0,0.523,0,"Légère prise de poids notée, Mobilité articulaire conservée, patient rassuré sur l'évolution.",0,67,M,Polyarthrite,B,0.92,4,6.0,2024-05-29,20,2,61-75
+58fe4f21b93612fc,2024-11-02,Routine,46.03,4.6,0,0.584,0,"Fatigue résiduelle mentionnée, dosage à réévaluer prochainement.",0,67,M,Polyarthrite,B,0.92,4,6.0,2024-05-29,157,3,61-75
+5991dfa6f4e56a5b,2024-07-25,Routine,57.05,2.28,0,0.07,0,"Surveillance biologique rapprochée, aucune interaction détectée.",0,58,M,Diabète,A,0.83,5,2.94,2024-07-25,0,1,46-60
+5991dfa6f4e56a5b,2024-09-27,Routine,45.91,3.42,0,0.402,0,"Légère baisse de l'appétit signalée, Pas de signe d'infection, surveillance à poursuivre attentivement.",0,58,M,Diabète,A,0.83,5,2.94,2024-07-25,64,2,46-60
+5abb22b96f5d9a20,2024-01-29,FollowUp,56.56,3.56,0,0.319,0,"Cicatrisation en bonne voie, orientation vers spécialiste si besoin.",0,43,F,Asthme,C,1.0,4,1.75,2024-01-29,0,1,31-45
+5abb22b96f5d9a20,2024-03-10,Routine,37.45,3.55,0,0.498,0,"Sommeil de qualité rapporté, aucune interaction détectée.",0,43,F,Asthme,C,1.0,4,1.75,2024-01-29,41,2,31-45
+5abb22b96f5d9a20,2024-04-04,FollowUp,32.95,1.64,0,0.25,0,"Pas de signe d'infection, poursuite du traitement actuel.",0,43,F,Asthme,C,1.0,4,1.75,2024-01-29,66,3,31-45
+5abb22b96f5d9a20,2024-07-07,Routine,21.92,1.11,0,0.404,0,"Fonction rénale stable, Symptômes respiratoires améliorés, contrôle dans trois mois prévu.",0,43,F,Asthme,C,1.0,4,1.75,2024-01-29,160,4,31-45
+5ae93b0ac5009d5c,2024-02-23,Routine,50.51,3.75,0,0.341,0,"Paramètres biologiques dans les normes, recommandée par précaution.",0,73,F,HTA,B,0.74,3,3.08,2024-02-23,0,1,61-75
+5ae93b0ac5009d5c,2024-05-01,Routine,64.82,3.34,0,0.133,0,"Moral du patient bon, surveillance à poursuivre attentivement.",0,73,F,HTA,B,0.74,3,3.08,2024-02-23,68,2,61-75
+5ae93b0ac5009d5c,2024-05-16,Routine,66.55,5.97,0,0.535,1,"Compliance médicamenteuse satisfaisante, patient bien informé des signes d'alerte.",0,73,F,HTA,B,0.74,3,3.08,2024-02-23,83,3,61-75
+5ae93b0ac5009d5c,2024-08-14,Routine,77.77,2.49,0,0.2,0,"Aucune plainte particulière, Mobilité articulaire conservée, aucune interaction détectée.",0,73,F,HTA,B,0.74,3,3.08,2024-02-23,173,4,61-75
+5ae93b0ac5009d5c,2024-10-28,Routine,29.99,2.95,0,0.215,0,"Patient signale des céphalées occasionnelles, patient bien informé des signes d'alerte.",0,73,F,HTA,B,0.74,3,3.08,2024-02-23,248,5,61-75
+5b65ba9cba1dc485,2024-09-14,FollowUp,58.88,2.03,0,0.06,0,"Amélioration du souffle, Paramètres vitaux stables, orientation vers spécialiste si besoin.",0,46,F,HTA,A,0.81,3,2.09,2024-09-14,0,1,46-60
+5b65ba9cba1dc485,2024-10-30,Routine,53.59,3.33,1,0.178,0,"État général satisfaisant, pas de modification nécessaire.",0,46,F,HTA,A,0.81,3,2.09,2024-09-14,46,2,46-60
+5c13dc65b52d224b,2024-11-19,FollowUp,63.04,6.77,0,0.522,0,"Examen clinique sans particularité, orientation vers spécialiste si besoin.",0,55,F,Diabète,B,0.99,3,5.43,2024-11-19,0,1,46-60
+5d034966b2482464,2024-01-06,Routine,56.72,5.24,0,0.521,1,"Paramètres vitaux stables, conseils diététiques donnés.",0,65,M,Diabète,A,1.0,4,4.6,2024-01-06,0,1,61-75
+5d034966b2482464,2024-06-02,Routine,58.03,4.81,1,0.644,1,"Légère baisse de l'appétit signalée, Paramètres vitaux stables, imagerie complémentaire demandée.",0,65,M,Diabète,A,1.0,4,4.6,2024-01-06,148,2,61-75
+5d034966b2482464,2024-08-13,Routine,80.35,1.99,0,0.069,0,"Fatigue résiduelle mentionnée, bilan biologique prescrit.",0,65,M,Diabète,A,1.0,4,4.6,2024-01-06,220,3,61-75
+5ddac2cccff4acaf,2024-04-02,FollowUp,57.52,1.54,0,0.382,0,"Transit intestinal régulier, suivi téléphonique prévu.",0,70,F,Oncologie,B,0.73,4,2.26,2024-04-02,0,1,61-75
+5ddac2cccff4acaf,2024-05-27,Routine,50.77,3.31,0,0.395,0,"Réduction progressive de la posologie, envisagée si amélioration.",0,70,F,Oncologie,B,0.73,4,2.26,2024-04-02,55,2,61-75
+5ddac2cccff4acaf,2024-06-20,FollowUp,67.66,0.53,0,0.156,0,"Compliance médicamenteuse satisfaisante, traitement maintenu à l'identique.",0,70,F,Oncologie,B,0.73,4,2.26,2024-04-02,79,3,61-75
+5ddac2cccff4acaf,2024-07-31,Routine,76.81,1.24,0,0.257,0,"Résultats biologiques en amélioration, imagerie complémentaire demandée.",0,70,F,Oncologie,B,0.73,4,2.26,2024-04-02,120,4,61-75
+5ddac2cccff4acaf,2024-11-07,Routine,65.88,3.99,0,0.595,1,"Hydratation correcte constatée, éducation thérapeutique renforcée.",0,70,F,Oncologie,B,0.73,4,2.26,2024-04-02,219,5,61-75
+5ddb01e66e059748,2024-09-16,Emergency,56.55,3.9,0,0.693,0,"Douleurs thoraciques absentes, suivi téléphonique prévu.",0,50,F,Oncologie,A,0.86,4,2.36,2024-09-16,0,1,46-60
+5f52f9066b555cb4,2024-01-06,Routine,45.21,0.91,0,0.105,0,"Douleurs thoraciques absentes, recommandée par précaution.",0,51,M,Oncologie,C,0.9,3,4.66,2024-01-06,0,1,46-60
+5f52f9066b555cb4,2024-11-01,FollowUp,49.81,0.93,0,0.0,0,"Patient rapporte un meilleur sommeil, ajustement thérapeutique discuté.",0,51,M,Oncologie,C,0.9,3,4.66,2024-01-06,300,2,46-60
+5fa7e637e2ec578a,2024-01-24,FollowUp,71.18,2.57,0,0.111,0,"Compliance médicamenteuse satisfaisante, imagerie complémentaire demandée.",0,65,F,Asthme,A,1.0,3,2.49,2024-01-24,0,1,61-75
+5fa7e637e2ec578a,2024-02-22,Routine,27.12,1.23,0,0.093,0,"Paramètres vitaux stables, poursuite du traitement actuel.",0,65,F,Asthme,A,1.0,3,2.49,2024-01-24,29,2,61-75
+5fa7e637e2ec578a,2024-06-10,Routine,52.07,2.88,0,0.307,0,"Compliance médicamenteuse satisfaisante, Bonne tolérance depuis l'initiation, poursuite du traitement actuel.",0,65,F,Asthme,A,1.0,3,2.49,2024-01-24,138,3,61-75
+60c8588899c51293,2024-04-15,Routine,68.61,1.89,0,0.426,0,"Surveillance biologique rapprochée, bilan biologique prescrit.",0,27,M,Diabète,A,0.69,2,3.15,2024-04-15,0,1,18-30
+60c8588899c51293,2024-05-27,FollowUp,44.37,5.39,0,0.723,1,"Pas de signe d'infection, consultation de suivi programmée et explications données au patient.",0,27,M,Diabète,A,0.69,2,3.15,2024-04-15,42,2,18-30
+60e2d049d8d9af07,2024-09-24,Routine,56.98,3.4,0,0.53,1,"Mobilité articulaire conservée, bilan biologique prescrit et explications données au patient.",0,83,F,HTA,C,0.71,3,4.52,2024-09-24,0,1,76+
+625888de6b46d703,2024-03-22,FollowUp,56.26,5.68,0,0.741,1,"Bonne réponse au traitement, Surveillance biologique rapprochée, bilan biologique prescrit.",0,77,M,Asthme,C,0.89,5,0.55,2024-03-22,0,1,76+
+625888de6b46d703,2024-04-03,Routine,39.87,5.84,0,0.563,1,"Tension artérielle bien contrôlée, Paramètres biologiques dans les normes, consultation de suivi programmée.",0,77,M,Asthme,C,0.89,5,0.55,2024-03-22,12,2,76+
+625888de6b46d703,2024-07-21,Routine,29.37,3.44,0,0.302,0,"Patient signale des céphalées occasionnelles, objectifs thérapeutiques atteints.",0,77,M,Asthme,C,0.89,5,0.55,2024-03-22,121,3,76+
+625888de6b46d703,2024-11-09,Routine,51.3,6.85,0,0.64,1,"Amélioration notable de la capacité fonctionnelle, effets secondaires mineurs tolérables.",0,77,M,Asthme,C,0.89,5,0.55,2024-03-22,232,4,76+
+628c84dd3a66a65c,2024-03-24,Routine,66.9,4.12,0,0.248,0,"État général satisfaisant, Aucune plainte particulière, patient bien informé des signes d'alerte.",0,51,M,Polyarthrite,A,0.81,4,0.85,2024-03-24,0,1,46-60
+628c84dd3a66a65c,2024-09-07,Routine,37.72,4.13,0,0.709,1,"Légère prise de poids notée, objectifs thérapeutiques atteints.",0,51,M,Polyarthrite,A,0.81,4,0.85,2024-03-24,167,2,46-60
+628c84dd3a66a65c,2024-10-22,FollowUp,69.53,2.11,0,0.069,0,"Fatigue résiduelle mentionnée, depuis la dernière visite.",0,51,M,Polyarthrite,A,0.81,4,0.85,2024-03-24,212,3,46-60
+628c84dd3a66a65c,2024-10-28,FollowUp,15.13,2.62,0,0.316,0,"Douleurs articulaires atténuées, patient bien informé des signes d'alerte.",0,51,M,Polyarthrite,A,0.81,4,0.85,2024-03-24,218,4,46-60
+628c84dd3a66a65c,2024-11-04,Routine,39.06,2.58,0,0.511,0,"Sommeil de qualité rapporté, surveillance nécessaire.",0,51,M,Polyarthrite,A,0.81,4,0.85,2024-03-24,225,5,46-60
+6393fcf093686781,2024-07-06,Routine,44.45,1.28,0,0.161,1,"Amélioration du souffle, état général satisfaisant.",0,47,M,Diabète,C,0.7,4,2.03,2024-07-06,0,1,46-60
+6393fcf093686781,2024-09-18,Routine,44.33,3.99,1,0.281,0,"Légère prise de poids notée, objectifs thérapeutiques atteints.",0,47,M,Diabète,C,0.7,4,2.03,2024-07-06,74,2,46-60
+6393fcf093686781,2024-10-10,Routine,49.75,3.23,0,0.392,0,"Patient rapporte un meilleur sommeil, poursuite du traitement actuel.",0,47,M,Diabète,C,0.7,4,2.03,2024-07-06,96,3,46-60
+63dddffdee18efac,2024-03-07,FollowUp,55.8,5.07,0,0.439,0,"Aucune plainte particulière, Fonction rénale stable, pas de modification nécessaire.",0,64,F,HTA,A,0.75,5,1.98,2024-03-07,0,1,61-75
+63dddffdee18efac,2024-07-27,FollowUp,53.43,2.71,0,0.461,0,"Mobilité articulaire conservée, aucune réaction allergique observée.",0,64,F,HTA,A,0.75,5,1.98,2024-03-07,142,2,61-75
+63dddffdee18efac,2024-09-04,FollowUp,51.26,3.04,0,0.404,0,"Bonne tolérance depuis l'initiation, surveillance nécessaire.",0,64,F,HTA,A,0.75,5,1.98,2024-03-07,181,3,61-75
+64831b68491214da,2024-10-07,Routine,31.16,0.87,0,0.0,0,"Cicatrisation en bonne voie, objectifs thérapeutiques atteints.",0,67,M,Oncologie,C,0.88,5,3.5,2024-10-07,0,1,61-75
+65718f4e5f695b1f,2024-06-19,FollowUp,53.81,3.77,0,0.256,0,"Aucun signe de décompensation, poursuite du traitement actuel.",0,56,M,HTA,C,0.92,1,4.09,2024-06-19,0,1,46-60
+65718f4e5f695b1f,2024-08-26,Routine,43.14,3.15,0,0.222,0,"Pas de signe d'infection, traitement maintenu à l'identique.",0,56,M,HTA,C,0.92,1,4.09,2024-06-19,68,2,46-60
+65718f4e5f695b1f,2024-09-27,FollowUp,53.38,2.41,0,0.137,0,"Mobilité articulaire conservée, Auscultation pulmonaire normale, explications données au patient.",0,56,M,HTA,C,0.92,1,4.09,2024-06-19,100,3,46-60
+65718f4e5f695b1f,2024-11-18,FollowUp,65.04,5.16,0,0.292,0,"Fonction rénale stable, bon pronostic à court terme.",0,56,M,HTA,C,0.92,1,4.09,2024-06-19,152,4,46-60
+66eb1ad05508485b,2024-01-15,Routine,54.21,3.44,0,0.101,0,"Stabilité hémodynamique observée, Léger oedème persistant, observance satisfaisante du patient.",0,26,M,Diabète,A,0.77,3,2.78,2024-01-15,0,1,18-30
+6748dabb431f749f,2024-03-15,Routine,29.32,6.75,0,0.577,1,"Mobilité articulaire conservée, Léger oedème persistant, contrôle dans trois mois prévu.",0,58,M,HTA,B,0.84,5,3.42,2024-03-15,0,1,46-60
+6748dabb431f749f,2024-04-08,Routine,44.97,4.18,0,0.689,1,"Examen clinique sans particularité, patient adhère bien au protocole.",0,58,M,HTA,B,0.84,5,3.42,2024-03-15,24,2,46-60
+67b34cae9926d6c5,2024-05-11,Routine,17.88,7.69,0,0.79,1,"Poids stable depuis dernière visite, Patient signale des céphalées occasionnelles, patient bien informé des signes d'alerte.",0,52,M,Oncologie,A,0.84,4,3.08,2024-05-11,0,1,46-60
+67b34cae9926d6c5,2024-07-07,Routine,69.02,3.45,0,0.087,0,"Résultats biologiques en amélioration, Douleurs thoraciques absentes, traitement maintenu à l'identique.",0,52,M,Oncologie,A,0.84,4,3.08,2024-05-11,57,2,46-60
+68a38e8d2b9d8a06,2024-03-03,Routine,60.05,4.56,0,0.323,0,"Douleurs articulaires atténuées, bilan biologique prescrit.",0,36,M,Diabète,A,0.99,4,5.47,2024-03-03,0,1,31-45
+68a38e8d2b9d8a06,2024-04-14,Routine,44.16,0.65,0,0.0,0,"Glycémie correcte dans les objectifs, Aucun signe de décompensation, contrôle dans trois mois prévu.",0,36,M,Diabète,A,0.99,4,5.47,2024-03-03,42,2,31-45
+68a38e8d2b9d8a06,2024-09-11,Routine,35.68,3.52,0,0.35,0,"Légère baisse de l'appétit signalée, recommandée par précaution.",0,36,M,Diabète,A,0.99,4,5.47,2024-03-03,192,3,31-45
+68a38e8d2b9d8a06,2024-11-14,Emergency,65.46,3.65,0,0.188,0,"Paramètres biologiques dans les normes, explications données au patient.",0,36,M,Diabète,A,0.99,4,5.47,2024-03-03,256,4,31-45
+68a38e8d2b9d8a06,2024-11-26,Routine,54.35,0.16,0,0.0,0,"Pas de signe d'infection, effets secondaires mineurs tolérables.",0,36,M,Diabète,A,0.99,4,5.47,2024-03-03,268,5,31-45
+6953da3da7b35cf3,2024-11-12,Routine,33.41,2.71,0,0.337,0,"Légère baisse de l'appétit signalée, Douleurs articulaires atténuées, envisagée si amélioration.",0,72,M,Polyarthrite,A,0.94,5,2.75,2024-11-12,0,1,61-75
+6bab07b96a39e3ca,2024-01-14,Routine,57.53,4.02,0,0.509,0,"Amélioration du souffle, Stabilité hémodynamique observée, moral bon du patient.",0,64,M,HTA,A,1.0,4,6.04,2024-01-14,0,1,61-75
+6bab07b96a39e3ca,2024-01-16,Emergency,47.05,2.58,0,0.559,1,"Fonction rénale stable, pas de modification nécessaire.",0,64,M,HTA,A,1.0,4,6.04,2024-01-14,2,2,61-75
+6bab07b96a39e3ca,2024-02-01,FollowUp,71.21,4.17,0,0.674,1,"Fonction rénale stable, pas d'effet indésirable signalé.",0,64,M,HTA,A,1.0,4,6.04,2024-01-14,18,3,61-75
+6bab07b96a39e3ca,2024-08-25,Routine,54.44,1.8,0,0.368,0,"Symptômes respiratoires améliorés, suivi téléphonique prévu et recommandée par précaution.",0,64,M,HTA,A,1.0,4,6.04,2024-01-14,224,4,61-75
+6bab07b96a39e3ca,2024-10-27,Routine,55.985,5.66,0,0.697,0,"Patient rapporte un meilleur sommeil, pas d'effet indésirable signalé.",1,64,M,HTA,A,1.0,4,6.04,2024-01-14,287,5,61-75
+6c97debfa37d6000,2024-02-26,FollowUp,49.36,2.98,1,0.51,1,"Glycémie correcte dans les objectifs, protocole bien suivi à domicile.",0,57,M,Oncologie,A,0.78,5,3.26,2024-02-26,0,1,46-60
+6c97debfa37d6000,2024-02-29,FollowUp,69.34,3.44,0,0.199,0,"Fatigue résiduelle mentionnée, Mobilité articulaire conservée, pas de modification nécessaire.",0,57,M,Oncologie,A,0.78,5,3.26,2024-02-26,3,2,46-60
+6c97debfa37d6000,2024-06-21,Routine,54.39,3.42,0,0.384,0,"Aucun signe de décompensation, consultation de suivi programmée.",0,57,M,Oncologie,A,0.78,5,3.26,2024-02-26,116,3,46-60
+6d5b545284daaf13,2024-09-07,Routine,54.8,4.55,0,0.422,0,"Paramètres vitaux stables, Tension artérielle bien contrôlée, éducation thérapeutique renforcée.",0,48,F,Diabète,B,0.94,5,2.39,2024-09-07,0,1,46-60
+6d5b545284daaf13,2024-12-01,Routine,76.38,2.66,0,0.129,0,"Résultats biologiques en amélioration, patient adhère bien au protocole.",0,48,F,Diabète,B,0.94,5,2.39,2024-09-07,85,2,46-60
+6d6a177a3c6206a0,2024-03-12,Routine,45.85,3.03,0,0.0,0,"Patient signale des céphalées occasionnelles, Paramètres vitaux stables, explications données au patient.",0,37,M,Asthme,B,0.84,3,1.86,2024-03-12,0,1,31-45
+6d6a177a3c6206a0,2024-06-29,Emergency,74.57,6.76,0,0.551,1,"Pas de signe d'infection, surveillance à poursuivre attentivement.",0,37,M,Asthme,B,0.84,3,1.86,2024-03-12,109,2,31-45
+6e98173958b2b0ff,2024-02-20,Routine,82.16,3.55,0,0.252,0,"Bonne tolérance depuis l'initiation, Douleurs thoraciques absentes, dosage à réévaluer prochainement.",0,44,F,Polyarthrite,C,0.83,5,1.28,2024-02-20,0,1,31-45
+703b74b9c96d4e5c,2024-03-13,Routine,77.18,2.4,0,0.281,0,"Tension artérielle bien contrôlée, Fatigue résiduelle mentionnée, suivi téléphonique prévu.",0,72,F,Asthme,C,0.75,4,1.0,2024-03-13,0,1,61-75
+703b74b9c96d4e5c,2024-04-25,Routine,59.48,1.25,0,0.118,0,"Patient satisfait de l'évolution, constatée lors de l'examen.",0,72,F,Asthme,C,0.75,4,1.0,2024-03-13,43,2,61-75
+703b74b9c96d4e5c,2024-11-09,FollowUp,41.3,1.49,0,0.158,0,"Sommeil de qualité rapporté, contrôle dans trois mois prévu.",0,72,F,Asthme,C,0.75,4,1.0,2024-03-13,241,3,61-75
+706d74424f77b69e,2024-09-11,FollowUp,77.49,5.06,0,0.299,0,"Résultats biologiques en amélioration, moral bon du patient.",0,67,F,HTA,A,0.98,3,6.1,2024-09-11,0,1,61-75
+706d74424f77b69e,2024-10-23,Emergency,43.72,3.24,0,0.38,0,"Bonne adhérence au protocole, patient bien informé des signes d'alerte.",0,67,F,HTA,A,0.98,3,6.1,2024-09-11,42,2,61-75
+726922322fc939ab,2024-05-17,FollowUp,60.16,0.64,0,0.134,0,"Fatigue résiduelle mentionnée, consultation de suivi programmée.",0,51,F,Asthme,C,0.94,3,0.17,2024-05-17,0,1,46-60
+726922322fc939ab,2024-06-06,Routine,66.37,3.07,0,0.122,0,"Stabilité hémodynamique observée, consultation de suivi programmée.",0,51,F,Asthme,C,0.94,3,0.17,2024-05-17,20,2,46-60
+726922322fc939ab,2024-07-12,Routine,32.0,2.67,0,0.147,0,"Résultats biologiques en amélioration, consultation de suivi programmée.",0,51,F,Asthme,C,0.94,3,0.17,2024-05-17,56,3,46-60
+73b86226e28272d5,2024-04-14,Routine,44.65,1.87,0,0.412,0,"Pas de signe d'infection, moral bon du patient.",0,51,M,HTA,B,0.92,3,5.03,2024-04-14,0,1,46-60
+73b86226e28272d5,2024-06-12,Routine,58.5,2.84,0,0.124,0,"Auscultation pulmonaire normale, surveillance à poursuivre attentivement.",0,51,M,HTA,B,0.92,3,5.03,2024-04-14,59,2,46-60
+73b86226e28272d5,2024-08-06,Routine,59.66,3.19,0,0.317,0,"Examen clinique sans particularité, bilan biologique prescrit.",0,51,M,HTA,B,0.92,3,5.03,2024-04-14,114,3,46-60
+740bb5026e2b3799,2024-06-12,Routine,61.6,3.51,0,0.406,0,"Transit intestinal régulier, constatée lors de l'examen.",0,75,M,HTA,A,0.92,5,4.11,2024-06-12,0,1,61-75
+740bb5026e2b3799,2024-06-16,Routine,28.46,2.84,0,0.339,0,"Patient satisfait de l'évolution, poursuite du traitement actuel.",0,75,M,HTA,A,0.92,5,4.11,2024-06-12,4,2,61-75
+740bb5026e2b3799,2024-08-22,FollowUp,33.22,3.37,0,0.505,1,"Mobilité articulaire conservée, traitement maintenu à l'identique.",0,75,M,HTA,A,0.92,5,4.11,2024-06-12,71,3,61-75
+740bb5026e2b3799,2024-10-06,Routine,34.16,3.51,0,0.567,0,"Stabilité hémodynamique observée, réévaluation dans six semaines.",0,75,M,HTA,A,0.92,5,4.11,2024-06-12,116,4,61-75
+76180209667d8543,2024-02-21,Routine,39.89,3.99,0,0.245,0,"Léger oedème persistant, explications données au patient.",0,54,M,Diabète,B,0.78,3,1.4,2024-02-21,0,1,46-60
+76180209667d8543,2024-04-11,Routine,63.56,1.69,0,0.053,0,"Diminution des symptômes inflammatoires, suivi téléphonique prévu.",0,54,M,Diabète,B,0.78,3,1.4,2024-02-21,50,2,46-60
+76180209667d8543,2024-11-21,FollowUp,49.99,1.43,0,0.0,0,"Douleurs thoraciques absentes, patient bien informé des signes d'alerte.",0,54,M,Diabète,B,0.78,3,1.4,2024-02-21,274,3,46-60
+7656da62f3cb6b5e,2024-02-11,FollowUp,32.03,0.92,0,0.0,0,"Aucun signe de décompensation, patient rassuré sur l'évolution.",0,56,F,Polyarthrite,B,0.79,2,6.01,2024-02-11,0,1,46-60
+7656da62f3cb6b5e,2024-03-27,Routine,66.87,4.68,1,0.537,0,"Pas de signe d'infection, Stabilité hémodynamique observée, objectifs thérapeutiques atteints.",0,56,F,Polyarthrite,B,0.79,2,6.01,2024-02-11,45,2,46-60
+7656da62f3cb6b5e,2024-04-14,Routine,53.91,1.78,0,0.563,0,"Fatigue résiduelle mentionnée, adaptation autonome correcte.",0,56,F,Polyarthrite,B,0.79,2,6.01,2024-02-11,63,3,46-60
+7656da62f3cb6b5e,2024-09-06,FollowUp,29.94,3.52,0,0.449,0,"Paramètres vitaux stables, ajustement thérapeutique discuté.",0,56,F,Polyarthrite,B,0.79,2,6.01,2024-02-11,208,4,46-60
+7656da62f3cb6b5e,2024-10-18,FollowUp,40.75,1.63,0,0.176,0,"Stabilité hémodynamique observée, Aucune plainte particulière, patient rassuré sur l'évolution.",0,56,F,Polyarthrite,B,0.79,2,6.01,2024-02-11,250,5,46-60
+76aaf0221cab6829,2024-05-05,Routine,38.07,6.3,1,0.701,1,"Auscultation pulmonaire normale, adaptation autonome correcte.",0,55,F,HTA,B,0.85,4,1.59,2024-05-05,0,1,46-60
+76aaf0221cab6829,2024-06-21,Routine,70.52,2.48,0,0.033,0,"Poids stable depuis dernière visite, bilan biologique prescrit.",0,55,F,HTA,B,0.85,4,1.59,2024-05-05,47,2,46-60
+771da04c14bc8462,2024-03-18,Routine,53.21,5.16,0,0.518,0,"Tension artérielle bien contrôlée, protocole bien suivi à domicile.",1,46,F,Asthme,A,0.9,3,5.1,2024-03-18,0,1,46-60
+771da04c14bc8462,2024-04-16,Emergency,53.21,2.66,0,0.218,0,"Réduction progressive de la posologie, traitement maintenu à l'identique.",0,46,F,Asthme,A,0.9,3,5.1,2024-03-18,29,2,46-60
+77b047a40cd479b2,2024-10-06,FollowUp,67.73,6.0,0,0.637,1,"Stabilité hémodynamique observée, Poids stable depuis dernière visite, pas d'effet indésirable signalé.",0,52,F,HTA,C,0.77,4,1.54,2024-10-06,0,1,46-60
+780608dd40d5ac31,2024-09-05,FollowUp,69.11,3.81,0,0.169,0,"Résultats biologiques en amélioration, ajustement thérapeutique discuté.",0,62,M,Diabète,A,0.82,4,1.85,2024-09-05,0,1,61-75
+780608dd40d5ac31,2024-11-29,Routine,60.9,2.4,0,0.406,0,"Hydratation correcte constatée, Transit intestinal régulier, patient adhère bien au protocole.",0,62,M,Diabète,A,0.82,4,1.85,2024-09-05,85,2,61-75
+782f4ee9a1f6d313,2024-04-18,Routine,68.06,2.68,0,0.135,0,"Diminution des symptômes inflammatoires, dosage à réévaluer prochainement.",0,55,F,Oncologie,B,0.78,4,0.69,2024-04-18,0,1,46-60
+782f4ee9a1f6d313,2024-09-14,Routine,88.7,4.13,0,0.346,0,"Douleurs thoraciques absentes, objectifs thérapeutiques atteints et dosage à réévaluer prochainement.",0,55,F,Oncologie,B,0.78,4,0.69,2024-04-18,149,2,46-60
+7833fe633be65787,2024-10-02,FollowUp,37.7,0.78,0,0.018,0,"Réduction progressive de la posologie, éducation thérapeutique renforcée.",0,73,M,Oncologie,B,0.65,4,1.87,2024-10-02,0,1,61-75
+79b19a4be07311b3,2024-04-06,Routine,62.44,2.07,0,0.411,0,"Examen clinique sans particularité, constatée lors de l'examen.",0,53,M,Polyarthrite,A,0.8,3,3.05,2024-04-06,0,1,46-60
+79b19a4be07311b3,2024-05-23,Routine,30.83,5.17,0,0.548,0,"Aucune plainte particulière, Douleurs thoraciques absentes, réévaluation dans six semaines.",0,53,M,Polyarthrite,A,0.8,3,3.05,2024-04-06,47,2,46-60
+79b19a4be07311b3,2024-08-10,Routine,41.72,1.12,0,0.354,0,"Patient rapporte un meilleur sommeil, conseils diététiques donnés.",0,53,M,Polyarthrite,A,0.8,3,3.05,2024-04-06,126,3,46-60
+79b19a4be07311b3,2024-08-31,Routine,44.22,3.25,0,0.765,0,"Symptômes respiratoires améliorés, surveillance à poursuivre attentivement.",0,53,M,Polyarthrite,A,0.8,3,3.05,2024-04-06,147,4,46-60
+79b19a4be07311b3,2024-11-13,Routine,71.32,1.79,0,0.182,0,"Paramètres vitaux stables, Auscultation pulmonaire normale, depuis la dernière visite.",0,53,M,Polyarthrite,A,0.8,3,3.05,2024-04-06,221,5,46-60
+79fd0191719840b9,2024-01-22,Routine,39.57,6.15,0,0.725,1,"Amélioration notable de la capacité fonctionnelle, Patient rapporte un meilleur sommeil, observance satisfaisante du patient.",0,58,M,HTA,C,0.85,2,1.59,2024-01-22,0,1,46-60
+7b4f4113ff80acf0,2024-07-14,Emergency,49.28,2.4,1,0.402,0,"Compliance médicamenteuse satisfaisante, Léger oedème persistant, patient rassuré sur l'évolution.",0,46,F,Polyarthrite,B,0.95,4,2.06,2024-07-14,0,1,46-60
+7b75df2a6a653762,2024-04-23,Routine,45.85,1.44,0,0.0,0,"Tension artérielle bien contrôlée, Patient rapporte un meilleur sommeil, depuis la dernière visite.",0,71,F,HTA,A,0.8,5,3.73,2024-04-23,0,1,61-75
+7b75df2a6a653762,2024-07-18,Routine,60.72,1.86,0,0.366,0,"Aucun signe de décompensation, poursuite du traitement actuel.",0,71,F,HTA,A,0.8,5,3.73,2024-04-23,86,2,61-75
+7b75df2a6a653762,2024-08-17,Routine,21.01,1.5,0,0.195,0,"Poids stable depuis dernière visite, imagerie complémentaire demandée.",0,71,F,HTA,A,0.8,5,3.73,2024-04-23,116,3,61-75
+7b75df2a6a653762,2024-08-19,FollowUp,58.32,4.11,0,0.142,0,"Patient signale des céphalées occasionnelles, envisagée si amélioration.",0,71,F,HTA,A,0.8,5,3.73,2024-04-23,118,4,61-75
+7bdd7145e01a7e25,2024-01-27,FollowUp,30.64,1.11,0,0.217,0,"Compliance médicamenteuse satisfaisante, éducation thérapeutique renforcée.",0,52,F,Diabète,B,0.71,4,4.51,2024-01-27,0,1,46-60
+7bdd7145e01a7e25,2024-03-02,Routine,60.85,7.21,1,0.299,0,"Patient satisfait de l'évolution, Auscultation pulmonaire normale, pas de modification nécessaire.",0,52,F,Diabète,B,0.71,4,4.51,2024-01-27,35,2,46-60
+7bdd7145e01a7e25,2024-09-04,Emergency,53.45,1.09,0,0.257,0,"Fatigue résiduelle mentionnée, Cicatrisation en bonne voie, conseils diététiques donnés.",0,52,F,Diabète,B,0.71,4,4.51,2024-01-27,221,3,46-60
+7cea518f97f4636d,2024-04-06,Routine,50.97,0.64,0,0.371,0,"Pas de signe d'infection, envisagée si amélioration.",0,52,M,HTA,C,0.8,5,2.91,2024-04-06,0,1,46-60
+7cea518f97f4636d,2024-06-30,FollowUp,47.01,0.44,0,0.387,0,"Cicatrisation en bonne voie, Douleurs thoraciques absentes, patient bien informé des signes d'alerte.",0,52,M,HTA,C,0.8,5,2.91,2024-04-06,85,2,46-60
+7cea518f97f4636d,2024-08-18,FollowUp,48.29,2.19,0,0.263,0,"Patient signale des céphalées occasionnelles, patient adhère bien au protocole.",0,52,M,HTA,C,0.8,5,2.91,2024-04-06,134,3,46-60
+7d05e618a12e7d60,2024-05-04,Routine,50.64,2.56,0,0.397,0,"Sommeil de qualité rapporté, imagerie complémentaire demandée.",0,45,M,HTA,A,0.8,4,0.56,2024-05-04,0,1,31-45
+7d05e618a12e7d60,2024-05-13,FollowUp,60.82,1.7,0,0.003,0,"Fatigue résiduelle mentionnée, bon pronostic à court terme.",0,45,M,HTA,A,0.8,4,0.56,2024-05-04,9,2,31-45
+7d05e618a12e7d60,2024-11-07,FollowUp,86.39,7.21,0,0.387,0,"Tension artérielle bien contrôlée, État général satisfaisant, bon pronostic à court terme.",0,45,M,HTA,A,0.8,4,0.56,2024-05-04,187,3,31-45
+7d65816f4e9c0954,2024-01-02,Emergency,51.22,1.36,0,0.121,0,"Patient signale des céphalées occasionnelles, dosage à réévaluer prochainement.",0,51,M,Asthme,C,0.85,4,4.42,2024-01-02,0,1,46-60
+7d65816f4e9c0954,2024-11-05,FollowUp,48.26,4.07,0,0.241,0,"Patient satisfait de l'évolution, moral bon du patient.",0,51,M,Asthme,C,0.85,4,4.42,2024-01-02,308,2,46-60
+7e56ab8bc5152ad5,2024-01-30,Routine,52.9,3.11,0,0.069,0,"Paramètres vitaux stables, ajustement thérapeutique discuté.",0,60,F,Diabète,B,0.95,4,1.36,2024-01-30,0,1,46-60
+7e56ab8bc5152ad5,2024-06-15,Routine,21.41,6.09,1,0.66,1,"Douleurs articulaires atténuées, Aucun signe de décompensation, bilan biologique prescrit.",0,60,F,Diabète,B,0.95,4,1.36,2024-01-30,137,2,46-60
+7f1cb73db8dee3bb,2024-01-25,FollowUp,37.01,1.04,0,0.079,0,"Amélioration du souffle, bon pronostic à court terme et effets secondaires mineurs tolérables.",0,68,M,HTA,A,0.73,4,0.69,2024-01-25,0,1,61-75
+7f1cb73db8dee3bb,2024-05-13,Routine,29.7,1.84,0,0.569,0,"Patient signale des céphalées occasionnelles, protocole bien suivi à domicile.",0,68,M,HTA,A,0.73,4,0.69,2024-01-25,109,2,61-75
+7f1cb73db8dee3bb,2024-08-03,FollowUp,62.73,1.6,1,0.0,0,"Examen clinique sans particularité, poursuite du traitement actuel.",0,68,M,HTA,A,0.73,4,0.69,2024-01-25,191,3,61-75
+7f1cb73db8dee3bb,2024-08-05,Routine,25.35,5.22,0,0.673,1,"Surveillance biologique rapprochée, Poids stable depuis dernière visite, pas d'effet indésirable signalé.",0,68,M,HTA,A,0.73,4,0.69,2024-01-25,193,4,61-75
+7f1cb73db8dee3bb,2024-08-15,FollowUp,77.56,3.0,0,0.262,0,"Aucune plainte particulière, effets secondaires mineurs tolérables.",0,68,M,HTA,A,0.73,4,0.69,2024-01-25,203,5,61-75
+7f826e0519250ff2,2024-09-10,Routine,29.61,1.96,0,0.556,0,"Examen clinique sans particularité, Sommeil de qualité rapporté, traitement maintenu à l'identique.",0,90,F,Diabète,B,0.95,5,0.68,2024-09-10,0,1,76+
+825b60857541c393,2024-01-16,Routine,51.4,0.99,0,0.369,1,"Hydratation correcte constatée, réévaluation dans six semaines et poursuite du traitement actuel.",0,55,M,Diabète,B,1.0,5,5.24,2024-01-16,0,1,46-60
+825b60857541c393,2024-09-21,Emergency,52.44,3.2,0,0.324,0,"Diminution des symptômes inflammatoires, Poids stable depuis dernière visite, ajustement thérapeutique discuté.",0,55,M,Diabète,B,1.0,5,5.24,2024-01-16,249,2,46-60
+825b60857541c393,2024-10-14,FollowUp,42.83,1.78,0,0.335,0,"Paramètres vitaux stables, état général satisfaisant.",0,55,M,Diabète,B,1.0,5,5.24,2024-01-16,272,3,46-60
+825b60857541c393,2024-11-27,FollowUp,42.29,3.34,0,0.489,0,"Douleurs thoraciques absentes, bilan biologique prescrit.",0,55,M,Diabète,B,1.0,5,5.24,2024-01-16,316,4,46-60
+8345cc283b6d7fcf,2024-07-24,Routine,40.86,4.47,0,0.572,0,"Examen clinique sans particularité, explications données au patient et adaptation autonome correcte.",0,63,M,Diabète,B,0.77,3,3.94,2024-07-24,0,1,61-75
+8412a3ad0574f71d,2024-01-17,Routine,50.7,2.15,0,0.193,0,"Cicatrisation en bonne voie, Transit intestinal régulier, recommandée par précaution.",0,36,F,Diabète,C,0.75,2,1.84,2024-01-17,0,1,31-45
+8412a3ad0574f71d,2024-10-04,Emergency,66.61,1.85,0,0.0,0,"Diminution des symptômes inflammatoires, moral bon du patient.",0,36,F,Diabète,C,0.75,2,1.84,2024-01-17,261,2,31-45
+8412a3ad0574f71d,2024-11-01,Emergency,64.48,0.91,0,0.273,0,"Cicatrisation en bonne voie, effets secondaires mineurs tolérables.",0,36,F,Diabète,C,0.75,2,1.84,2024-01-17,289,3,31-45
+84e09c5fbc4c0aaf,2024-01-15,Routine,22.42,2.71,0,0.175,0,"Symptômes respiratoires améliorés, contrôle dans trois mois prévu.",1,59,M,Diabète,A,0.82,4,2.53,2024-01-15,0,1,46-60
+84e09c5fbc4c0aaf,2024-09-15,Routine,22.42,1.74,0,0.255,0,"Compliance médicamenteuse satisfaisante, constatée lors de l'examen.",0,59,M,Diabète,A,0.82,4,2.53,2024-01-15,244,2,46-60
+85a7f91e7dd219c0,2024-01-03,Emergency,52.09,4.49,0,0.635,1,"Léger oedème persistant, réévaluation dans six semaines.",0,41,F,Asthme,A,0.85,2,1.42,2024-01-03,0,1,31-45
+85a7f91e7dd219c0,2024-07-21,Routine,28.48,1.62,0,0.356,0,"Examen clinique sans particularité, Fatigue résiduelle mentionnée, envisagée si amélioration.",0,41,F,Asthme,A,0.85,2,1.42,2024-01-03,200,2,31-45
+85a7f91e7dd219c0,2024-08-01,FollowUp,43.63,3.82,0,0.631,1,"Bonne réponse au traitement, effets secondaires mineurs tolérables.",0,41,F,Asthme,A,0.85,2,1.42,2024-01-03,211,3,31-45
+872b96955ff7a2ab,2024-04-04,Routine,44.68,2.79,0,0.54,0,"Léger oedème persistant, aucune interaction détectée.",0,35,F,Oncologie,A,0.8,3,1.94,2024-04-04,0,1,31-45
+872b96955ff7a2ab,2024-04-09,Routine,65.81,3.53,0,0.455,0,"Transit intestinal régulier, moral bon du patient.",0,35,F,Oncologie,A,0.8,3,1.94,2024-04-04,5,2,31-45
+87b2b4d4aa0ce373,2024-04-13,Routine,38.63,1.65,0,0.414,0,"Bonne réponse au traitement, consultation de suivi programmée.",0,68,F,HTA,C,0.83,2,3.86,2024-04-13,0,1,61-75
+87b2b4d4aa0ce373,2024-10-05,FollowUp,40.13,3.83,0,0.435,0,"Douleurs thoraciques absentes, protocole bien suivi à domicile.",0,68,F,HTA,C,0.83,2,3.86,2024-04-13,175,2,61-75
+8982ceacc41f9b8f,2024-04-23,Routine,30.21,3.05,0,0.428,0,"Auscultation pulmonaire normale, surveillance à poursuivre attentivement et observance satisfaisante du patient.",0,63,F,Diabète,B,0.94,3,1.55,2024-04-23,0,1,61-75
+8982ceacc41f9b8f,2024-07-05,Routine,57.79,4.9,0,0.22,0,"Surveillance biologique rapprochée, constatée lors de l'examen.",0,63,F,Diabète,B,0.94,3,1.55,2024-04-23,73,2,61-75
+89cafd299d3b9fc2,2024-01-08,Routine,74.89,3.45,0,0.349,0,"Bonne tolérance depuis l'initiation, Aucune plainte particulière, contrôle dans trois mois prévu.",0,51,F,Diabète,B,1.0,4,3.84,2024-01-08,0,1,46-60
+89cafd299d3b9fc2,2024-07-19,FollowUp,81.81,3.35,0,0.187,0,"Résultats biologiques en amélioration, ajustement thérapeutique discuté.",0,51,F,Diabète,B,1.0,4,3.84,2024-01-08,193,2,46-60
+89cafd299d3b9fc2,2024-08-01,Routine,11.27,0.74,0,0.274,0,"Fatigue résiduelle mentionnée, patient rassuré sur l'évolution.",0,51,F,Diabète,B,1.0,4,3.84,2024-01-08,206,3,46-60
+89cafd299d3b9fc2,2024-09-29,Routine,48.74,5.93,0,0.502,0,"Hydratation correcte constatée, bon pronostic à court terme.",0,51,F,Diabète,B,1.0,4,3.84,2024-01-08,265,4,46-60
+8a23f1ad5c61f7c4,2024-02-03,Routine,46.82,7.55,0,0.614,0,"Douleurs articulaires atténuées, Cicatrisation en bonne voie, envisagée si amélioration.",0,60,M,Oncologie,A,0.95,4,0.6,2024-02-03,0,1,46-60
+8a23f1ad5c61f7c4,2024-10-23,Routine,34.74,3.09,0,0.625,1,"Bonne adhérence au protocole, Résultats biologiques en amélioration, conseils diététiques donnés.",0,60,M,Oncologie,A,0.95,4,0.6,2024-02-03,263,2,46-60
+8b0e7ee614edf06a,2024-03-14,Routine,49.82,1.25,0,0.094,0,"Aucun signe de décompensation, depuis la dernière visite.",0,51,F,Asthme,A,1.0,3,2.8,2024-03-14,0,1,46-60
+8b0e7ee614edf06a,2024-03-18,Routine,43.15,4.35,1,0.529,1,"Léger oedème persistant, Aucun signe de décompensation, bilan biologique prescrit.",0,51,F,Asthme,A,1.0,3,2.8,2024-03-14,4,2,46-60
+8b0e7ee614edf06a,2024-04-17,Routine,50.34,4.23,0,0.523,1,"Poids stable depuis dernière visite, Douleurs thoraciques absentes, pas d'effet indésirable signalé.",0,51,F,Asthme,A,1.0,3,2.8,2024-03-14,34,3,46-60
+8b0e7ee614edf06a,2024-08-30,Routine,49.78,4.68,0,0.261,0,"Compliance médicamenteuse satisfaisante, protocole bien suivi à domicile.",0,51,F,Asthme,A,1.0,3,2.8,2024-03-14,169,4,46-60
+8b0e7ee614edf06a,2024-10-26,Routine,41.04,3.56,0,0.086,0,"Fonction rénale stable, depuis la dernière visite.",0,51,F,Asthme,A,1.0,3,2.8,2024-03-14,226,5,46-60
+8c75ae142165ad74,2024-02-04,FollowUp,37.43,5.69,0,0.418,1,"État général satisfaisant, protocole bien suivi à domicile.",0,24,F,Oncologie,C,0.7,3,4.23,2024-02-04,0,1,18-30
+8c75ae142165ad74,2024-06-13,Routine,32.25,4.31,0,0.395,0,"Bonne tolérance depuis l'initiation, conseils diététiques donnés.",0,24,F,Oncologie,C,0.7,3,4.23,2024-02-04,130,2,18-30
+8c75ae142165ad74,2024-07-22,Routine,55.41,4.36,0,0.359,0,"Tension artérielle bien contrôlée, Aucun signe de décompensation, éducation thérapeutique renforcée.",0,24,F,Oncologie,C,0.7,3,4.23,2024-02-04,169,3,18-30
+8c75ae142165ad74,2024-08-16,FollowUp,55.4,4.17,0,0.248,0,"Transit intestinal régulier, contrôle dans trois mois prévu.",0,24,F,Oncologie,C,0.7,3,4.23,2024-02-04,194,4,18-30
+8c75ae142165ad74,2024-08-19,Emergency,49.35,1.74,0,0.051,0,"Fonction rénale stable, Douleurs thoraciques absentes, éducation thérapeutique renforcée.",0,24,F,Oncologie,C,0.7,3,4.23,2024-02-04,197,5,18-30
+8ca1b2fca3a969d8,2024-03-06,Routine,57.1,1.66,0,0.329,0,"Bonne tolérance depuis l'initiation, patient adhère bien au protocole.",0,66,M,Diabète,B,0.82,5,1.16,2024-03-06,0,1,61-75
+8ca1b2fca3a969d8,2024-03-22,Routine,72.87,3.05,0,0.412,0,"Sommeil de qualité rapporté, protocole bien suivi à domicile et pas de modification nécessaire.",0,66,M,Diabète,B,0.82,5,1.16,2024-03-06,16,2,61-75
+8ca1b2fca3a969d8,2024-04-26,Routine,55.88,1.36,0,0.171,0,"Patient rapporte un meilleur sommeil, Stabilité hémodynamique observée, conseils diététiques donnés.",0,66,M,Diabète,B,0.82,5,1.16,2024-03-06,51,3,61-75
+8ca1b2fca3a969d8,2024-04-30,Emergency,67.95,1.95,0,0.352,0,"Patient rapporte un meilleur sommeil, pas d'effet indésirable signalé.",0,66,M,Diabète,B,0.82,5,1.16,2024-03-06,55,4,61-75
+8cfd4dcf7a640bb1,2024-03-15,Routine,36.63,5.4,0,0.633,1,"Fatigue résiduelle mentionnée, réévaluation dans six semaines.",0,63,M,Diabète,C,0.79,5,0.6,2024-03-15,0,1,61-75
+8cfd4dcf7a640bb1,2024-03-28,FollowUp,73.92,2.7,0,0.254,0,"Fonction rénale stable, Amélioration notable de la capacité fonctionnelle, dosage à réévaluer prochainement.",0,63,M,Diabète,C,0.79,5,0.6,2024-03-15,13,2,61-75
+8cfd4dcf7a640bb1,2024-04-21,Routine,76.68,2.54,0,0.228,0,"Auscultation pulmonaire normale, conseils diététiques donnés.",0,63,M,Diabète,C,0.79,5,0.6,2024-03-15,37,3,61-75
+8cfd4dcf7a640bb1,2024-05-05,Routine,53.37,2.6,0,0.155,0,"Pas de signe d'infection, observance satisfaisante du patient.",0,63,M,Diabète,C,0.79,5,0.6,2024-03-15,51,4,61-75
+8d050a5bad8de696,2024-07-25,Routine,72.08,3.71,0,0.435,0,"Patient signale des céphalées occasionnelles, Compliance médicamenteuse satisfaisante, pas de modification nécessaire.",0,52,F,HTA,A,0.73,4,3.22,2024-07-25,0,1,46-60
+8d67c5cf92341aea,2024-02-12,Routine,46.93,5.12,0,0.453,1,"Légère baisse de l'appétit signalée, patient bien informé des signes d'alerte.",0,57,M,Polyarthrite,B,0.86,3,3.67,2024-02-12,0,1,46-60
+8d67c5cf92341aea,2024-02-20,Routine,37.27,4.0,0,0.497,0,"Bonne réponse au traitement, Poids stable depuis dernière visite, recommandée par précaution.",0,57,M,Polyarthrite,B,0.86,3,3.67,2024-02-12,8,2,46-60
+8d67c5cf92341aea,2024-09-08,FollowUp,61.48,4.89,0,0.283,0,"Glycémie correcte dans les objectifs, pas de modification nécessaire.",0,57,M,Polyarthrite,B,0.86,3,3.67,2024-02-12,209,3,46-60
+8faf659d24f32a46,2024-02-19,FollowUp,62.44,2.26,0,0.208,0,"Hydratation correcte constatée, orientation vers spécialiste si besoin et patient adhère bien au protocole.",0,84,M,Diabète,A,0.87,1,4.11,2024-02-19,0,1,76+
+8faf659d24f32a46,2024-06-23,Routine,54.89,4.95,0,0.626,0,"Amélioration notable de la capacité fonctionnelle, Patient signale des céphalées occasionnelles, effets secondaires mineurs tolérables.",0,84,M,Diabète,A,0.87,1,4.11,2024-02-19,125,2,76+
+8faf659d24f32a46,2024-07-30,Routine,47.95,2.05,0,0.129,0,"Léger oedème persistant, pas de modification nécessaire.",0,84,M,Diabète,A,0.87,1,4.11,2024-02-19,162,3,76+
+8fd65e29c4981b0d,2024-04-27,Emergency,38.6,3.06,0,0.414,0,"Stabilité hémodynamique observée, bilan biologique prescrit.",0,44,M,HTA,A,0.84,4,2.56,2024-04-27,0,1,31-45
+8fd65e29c4981b0d,2024-06-29,Routine,70.06,0.46,0,0.13,0,"Sommeil de qualité rapporté, bilan biologique prescrit.",0,44,M,HTA,A,0.84,4,2.56,2024-04-27,63,2,31-45
+8fd65e29c4981b0d,2024-08-08,FollowUp,79.72,1.68,1,0.155,0,"Résultats biologiques en amélioration, Examen clinique sans particularité, pas d'effet indésirable signalé.",0,44,M,HTA,A,0.84,4,2.56,2024-04-27,103,3,31-45
+90cf93b5dd6185d8,2024-03-09,Routine,48.44,2.99,0,0.167,0,"Légère prise de poids notée, adaptation autonome correcte.",0,59,F,Oncologie,B,0.86,3,2.34,2024-03-09,0,1,46-60
+93eefe331c6a3775,2024-03-07,Emergency,50.45,4.37,0,0.307,0,"Moral du patient bon, ajustement thérapeutique discuté.",0,85,F,Diabète,B,0.94,4,2.85,2024-03-07,0,1,76+
+93eefe331c6a3775,2024-08-11,Emergency,56.84,3.21,0,0.275,0,"Auscultation pulmonaire normale, surveillance à poursuivre attentivement.",0,85,F,Diabète,B,0.94,4,2.85,2024-03-07,157,2,76+
+943cff779e9b2b88,2024-01-19,Routine,25.82,3.8,0,0.568,1,"Fonction rénale stable, Tension artérielle bien contrôlée, patient rassuré sur l'évolution.",0,36,M,HTA,B,0.73,3,2.18,2024-01-19,0,1,31-45
+943cff779e9b2b88,2024-11-20,Routine,68.36,2.44,0,0.273,0,"Fatigue résiduelle mentionnée, patient rassuré sur l'évolution.",0,36,M,HTA,B,0.73,3,2.18,2024-01-19,306,2,31-45
+94b57b508d28e9fd,2024-07-11,Emergency,53.41,0.27,0,0.321,0,"Légère baisse de l'appétit signalée, Léger oedème persistant, explications données au patient.",0,61,F,Polyarthrite,B,1.0,5,1.7,2024-07-11,0,1,61-75
+94bc25ac8c964069,2024-05-04,Routine,66.01,2.86,0,0.244,0,"Surveillance biologique rapprochée, bilan biologique prescrit.",0,70,M,Asthme,A,0.78,4,3.2,2024-05-04,0,1,61-75
+94bc25ac8c964069,2024-08-24,Routine,57.81,1.51,0,0.0,0,"Symptômes respiratoires améliorés, Réduction progressive de la posologie, constatée lors de l'examen.",0,70,M,Asthme,A,0.78,4,3.2,2024-05-04,112,2,61-75
+94c82e53d409dbe3,2024-01-21,Emergency,32.8,1.24,0,0.126,0,"Légère prise de poids notée, Sommeil de qualité rapporté, éducation thérapeutique renforcée.",0,64,F,HTA,C,0.85,1,2.02,2024-01-21,0,1,61-75
+94c82e53d409dbe3,2024-09-30,FollowUp,59.6,3.43,0,0.402,0,"Amélioration du souffle, ajustement thérapeutique discuté.",0,64,F,HTA,C,0.85,1,2.02,2024-01-21,253,2,61-75
+9595116e4d071d8d,2024-01-31,FollowUp,80.54,3.82,1,0.186,0,"Bonne tolérance depuis l'initiation, consultation de suivi programmée.",0,63,F,Oncologie,C,0.89,4,8.01,2024-01-31,0,1,61-75
+9595116e4d071d8d,2024-02-11,FollowUp,32.3,1.16,0,0.207,0,"Patient satisfait de l'évolution, depuis la dernière visite.",0,63,F,Oncologie,C,0.89,4,8.01,2024-01-31,11,2,61-75
+9595116e4d071d8d,2024-08-21,Routine,48.36,1.75,0,0.0,0,"Patient satisfait de l'évolution, traitement maintenu à l'identique.",0,63,F,Oncologie,C,0.89,4,8.01,2024-01-31,203,3,61-75
+9595116e4d071d8d,2024-09-30,FollowUp,28.2,2.12,0,0.29,0,"Bonne tolérance depuis l'initiation, Aucun signe de décompensation, pas de modification nécessaire.",0,63,F,Oncologie,C,0.89,4,8.01,2024-01-31,243,4,61-75
+96c8069f21fc4d25,2024-03-09,Routine,46.31,3.23,0,0.161,0,"Patient signale des céphalées occasionnelles, Aucun signe de décompensation, objectifs thérapeutiques atteints.",0,38,M,Diabète,B,0.77,4,4.04,2024-03-09,0,1,31-45
+96c8069f21fc4d25,2024-03-13,Routine,41.05,3.26,0,0.333,0,"Moral du patient bon, ajustement thérapeutique discuté.",0,38,M,Diabète,B,0.77,4,4.04,2024-03-09,4,2,31-45
+96c8069f21fc4d25,2024-05-06,FollowUp,51.14,2.5,0,0.379,0,"Hydratation correcte constatée, bon pronostic à court terme.",0,38,M,Diabète,B,0.77,4,4.04,2024-03-09,58,3,31-45
+96c8069f21fc4d25,2024-09-29,Routine,68.29,3.16,0,0.357,1,"Moral du patient bon, surveillance nécessaire.",0,38,M,Diabète,B,0.77,4,4.04,2024-03-09,204,4,31-45
+9702d3b40db161f3,2024-03-20,Routine,65.26,4.89,0,0.133,0,"Examen clinique sans particularité, explications données au patient.",0,56,F,Diabète,C,0.85,5,4.7,2024-03-20,0,1,46-60
+97868a46f07c1e6f,2024-04-18,Routine,76.04,1.88,0,0.264,0,"Bonne adhérence au protocole, Surveillance biologique rapprochée, contrôle dans trois mois prévu.",0,49,M,Asthme,A,1.0,3,2.41,2024-04-18,0,1,46-60
+97868a46f07c1e6f,2024-11-16,Routine,72.97,3.32,0,0.452,0,"Glycémie correcte dans les objectifs, conseils diététiques donnés.",0,49,M,Asthme,A,1.0,3,2.41,2024-04-18,212,2,46-60
+984a6c04f11bcf7e,2024-04-09,FollowUp,25.85,3.65,0,0.44,0,"Amélioration du souffle, pas de modification nécessaire.",0,69,M,Diabète,B,0.84,3,5.03,2024-04-09,0,1,61-75
+984a6c04f11bcf7e,2024-07-16,FollowUp,28.53,0.47,0,0.182,0,"Cicatrisation en bonne voie, bilan biologique prescrit.",0,69,M,Diabète,B,0.84,3,5.03,2024-04-09,98,2,61-75
+984a6c04f11bcf7e,2024-10-09,FollowUp,56.92,1.87,0,0.454,0,"Examen clinique sans particularité, observance satisfaisante du patient.",0,69,M,Diabète,B,0.84,3,5.03,2024-04-09,183,3,61-75
+9a7213213ef103b0,2024-03-11,FollowUp,68.22,1.04,0,0.51,0,"Patient satisfait de l'évolution, objectifs thérapeutiques atteints.",0,42,F,HTA,B,0.83,4,6.05,2024-03-11,0,1,31-45
+9a7213213ef103b0,2024-07-19,FollowUp,38.2,1.89,0,0.191,0,"Patient signale des céphalées occasionnelles, patient bien informé des signes d'alerte et objectifs thérapeutiques atteints.",0,42,F,HTA,B,0.83,4,6.05,2024-03-11,130,2,31-45
+9b40e760c2c8120f,2024-04-22,Emergency,39.96,6.3,0,0.564,0,"État général satisfaisant, état général satisfaisant.",0,90,M,HTA,B,0.85,4,1.53,2024-04-22,0,1,76+
+9b40e760c2c8120f,2024-07-21,Routine,35.77,0.32,0,0.333,0,"Hydratation correcte constatée, envisagée si amélioration.",0,90,M,HTA,B,0.85,4,1.53,2024-04-22,90,2,76+
+9b7648c0a17808f1,2024-08-15,FollowUp,17.91,2.36,0,0.256,0,"Fatigue résiduelle mentionnée, réévaluation dans six semaines.",0,58,F,Polyarthrite,B,0.74,2,2.38,2024-08-15,0,1,46-60
+9ba898dd84ec0512,2024-04-03,Emergency,68.99,2.67,0,0.274,0,"Cicatrisation en bonne voie, depuis la dernière visite.",0,49,F,Diabète,B,0.75,5,3.14,2024-04-03,0,1,46-60
+9ba898dd84ec0512,2024-06-16,Routine,65.15,0.98,0,0.162,0,"Stabilité hémodynamique observée, Légère prise de poids notée, patient adhère bien au protocole.",0,49,F,Diabète,B,0.75,5,3.14,2024-04-03,74,2,46-60
+9ba898dd84ec0512,2024-11-11,Routine,53.96,2.39,0,0.342,0,"Sommeil de qualité rapporté, constatée lors de l'examen.",0,49,F,Diabète,B,0.75,5,3.14,2024-04-03,222,3,46-60
+9bc7239d07ca2cd9,2024-06-08,FollowUp,32.29,1.71,0,0.348,0,"Symptômes respiratoires améliorés, éducation thérapeutique renforcée.",0,60,M,HTA,A,0.82,5,2.73,2024-06-08,0,1,46-60
+9bc7239d07ca2cd9,2024-10-19,FollowUp,46.3,1.37,1,0.123,0,"Légère baisse de l'appétit signalée, imagerie complémentaire demandée.",0,60,M,HTA,A,0.82,5,2.73,2024-06-08,133,2,46-60
+9cdb4b32aed0da24,2024-05-16,FollowUp,50.03,1.85,0,0.21,0,"Examen clinique sans particularité, protocole bien suivi à domicile.",0,41,M,Polyarthrite,A,0.81,4,4.17,2024-05-16,0,1,31-45
+9cdb4b32aed0da24,2024-07-19,Routine,57.28,4.15,0,0.245,0,"Aucune plainte particulière, pas d'effet indésirable signalé.",0,41,M,Polyarthrite,A,0.81,4,4.17,2024-05-16,64,2,31-45
+9ce096232ba7e13e,2024-02-26,Routine,68.94,4.42,0,0.507,1,"Compliance médicamenteuse satisfaisante, observance satisfaisante du patient.",0,60,F,Oncologie,B,0.95,4,2.98,2024-02-26,0,1,46-60
+9ce096232ba7e13e,2024-06-06,FollowUp,35.1,4.47,0,0.655,1,"Patient satisfait de l'évolution, Patient signale des céphalées occasionnelles, réévaluation dans six semaines.",0,60,F,Oncologie,B,0.95,4,2.98,2024-02-26,101,2,46-60
+9ce096232ba7e13e,2024-07-10,Routine,40.26,1.57,0,0.381,0,"Aucune plainte particulière, surveillance nécessaire.",0,60,F,Oncologie,B,0.95,4,2.98,2024-02-26,135,3,46-60
+9ce096232ba7e13e,2024-07-16,FollowUp,63.23,1.93,0,0.501,0,"Stabilité hémodynamique observée, pas d'effet indésirable signalé.",0,60,F,Oncologie,B,0.95,4,2.98,2024-02-26,141,4,46-60
+9da67fd785af9730,2024-06-17,Routine,42.53,1.91,0,0.463,1,"Paramètres biologiques dans les normes, contrôle dans trois mois prévu.",0,54,M,Polyarthrite,A,0.86,5,5.3,2024-06-17,0,1,46-60
+9da67fd785af9730,2024-11-02,Routine,50.77,1.21,0,0.281,0,"Amélioration du souffle, Surveillance biologique rapprochée, orientation vers spécialiste si besoin.",0,54,M,Polyarthrite,A,0.86,5,5.3,2024-06-17,138,2,46-60
+9da67fd785af9730,2024-11-15,Routine,55.08,4.7,0,0.329,0,"Fonction rénale stable, conseils diététiques donnés.",0,54,M,Polyarthrite,A,0.86,5,5.3,2024-06-17,151,3,46-60
+9e2d0c3313f6f197,2024-09-22,Routine,43.5,1.52,0,0.236,0,"Bonne tolérance depuis l'initiation, Réduction progressive de la posologie, dosage à réévaluer prochainement.",0,46,M,Diabète,A,0.91,4,3.98,2024-09-22,0,1,46-60
+9e52b78e22ab5ebb,2024-04-11,Routine,16.37,2.7,0,0.141,0,"Examen clinique sans particularité, poursuite du traitement actuel.",0,49,F,Asthme,B,0.77,3,1.23,2024-04-11,0,1,46-60
+9e52b78e22ab5ebb,2024-04-16,Emergency,73.98,4.56,1,0.216,0,"Amélioration notable de la capacité fonctionnelle, conseils diététiques donnés.",0,49,F,Asthme,B,0.77,3,1.23,2024-04-11,5,2,46-60
+9e74549729da44f2,2024-01-15,Routine,74.08,5.14,0,0.521,1,"Moral du patient bon, Douleurs thoraciques absentes, depuis la dernière visite.",0,60,M,HTA,C,0.77,3,2.15,2024-01-15,0,1,46-60
+9e74549729da44f2,2024-06-04,Routine,53.48,2.68,0,0.373,0,"Patient rapporte un meilleur sommeil, ajustement thérapeutique discuté.",0,60,M,HTA,C,0.77,3,2.15,2024-01-15,141,2,46-60
+9e74549729da44f2,2024-06-22,Routine,24.17,1.53,0,0.339,0,"Auscultation pulmonaire normale, Bonne adhérence au protocole, adaptation autonome correcte.",0,60,M,HTA,C,0.77,3,2.15,2024-01-15,159,3,46-60
+9e74549729da44f2,2024-11-04,FollowUp,44.1,1.54,0,0.149,0,"Patient rapporte un meilleur sommeil, dosage à réévaluer prochainement.",0,60,M,HTA,C,0.77,3,2.15,2024-01-15,294,4,46-60
+9eae5fd58125f94c,2024-11-25,Routine,80.93,3.67,0,0.386,0,"Examen clinique sans particularité, éducation thérapeutique renforcée.",0,43,M,Polyarthrite,C,1.0,4,4.64,2024-11-25,0,1,31-45
+9f1ea9fa44e6c0bc,2024-08-08,FollowUp,28.48,1.72,0,0.266,0,"Auscultation pulmonaire normale, conseils diététiques donnés.",0,47,M,HTA,B,0.85,3,2.63,2024-08-08,0,1,46-60
+9f1ea9fa44e6c0bc,2024-08-24,Routine,27.24,2.66,0,0.289,0,"Aucun signe de décompensation, Résultats biologiques en amélioration, surveillance nécessaire.",0,47,M,HTA,B,0.85,3,2.63,2024-08-08,16,2,46-60
+9f9853b3f1344419,2024-03-06,FollowUp,53.5,2.44,0,0.371,0,"Amélioration notable de la capacité fonctionnelle, aucune réaction allergique observée.",0,39,F,Diabète,A,0.75,4,1.6,2024-03-06,0,1,31-45
+9f9853b3f1344419,2024-11-30,Routine,64.72,5.33,1,0.366,0,"Légère prise de poids notée, poursuite du traitement actuel.",0,39,F,Diabète,A,0.75,4,1.6,2024-03-06,269,2,31-45
+a057b58d6b93d7ab,2024-01-10,FollowUp,77.7,4.28,0,0.389,0,"Pas de signe d'infection, imagerie complémentaire demandée.",0,39,F,Diabète,C,0.69,5,4.51,2024-01-10,0,1,31-45
+a057b58d6b93d7ab,2024-03-21,Routine,54.31,4.31,0,0.087,0,"Hydratation correcte constatée, suivi téléphonique prévu.",0,39,F,Diabète,C,0.69,5,4.51,2024-01-10,71,2,31-45
+a057b58d6b93d7ab,2024-06-15,FollowUp,53.51,4.53,0,0.459,0,"Bonne adhérence au protocole, depuis la dernière visite.",0,39,F,Diabète,C,0.69,5,4.51,2024-01-10,157,3,31-45
+a19e6a2d6190fb78,2024-02-22,Routine,33.09,3.23,0,0.348,0,"Bonne adhérence au protocole, surveillance à poursuivre attentivement.",0,63,M,Diabète,C,0.74,4,3.02,2024-02-22,0,1,61-75
+a19e6a2d6190fb78,2024-04-20,Emergency,52.72,0.81,0,0.397,0,"Bonne tolérance depuis l'initiation, Fatigue résiduelle mentionnée, aucune interaction détectée.",0,63,M,Diabète,C,0.74,4,3.02,2024-02-22,58,2,61-75
+a19e6a2d6190fb78,2024-08-08,FollowUp,28.98,5.9,0,0.659,1,"Léger oedème persistant, Surveillance biologique rapprochée, surveillance à poursuivre attentivement.",0,63,M,Diabète,C,0.74,4,3.02,2024-02-22,168,3,61-75
+a1f13a92230f5efd,2024-06-06,Emergency,66.69,4.55,0,0.329,0,"Poids stable depuis dernière visite, Douleurs thoraciques absentes, ajustement thérapeutique discuté.",0,51,M,Diabète,B,0.78,3,5.76,2024-06-06,0,1,46-60
+a1f13a92230f5efd,2024-06-10,Routine,42.29,4.02,0,0.295,0,"Douleurs thoraciques absentes, imagerie complémentaire demandée.",0,51,M,Diabète,B,0.78,3,5.76,2024-06-06,4,2,46-60
+a1f13a92230f5efd,2024-09-17,Routine,72.64,0.97,0,0.178,0,"Aucun signe de décompensation, Glycémie correcte dans les objectifs, pas de modification nécessaire.",0,51,M,Diabète,B,0.78,3,5.76,2024-06-06,103,3,46-60
+a1f13a92230f5efd,2024-09-18,FollowUp,36.04,2.42,0,0.166,0,"Auscultation pulmonaire normale, dosage à réévaluer prochainement.",0,51,M,Diabète,B,0.78,3,5.76,2024-06-06,104,4,46-60
+a26df7250b23633e,2024-07-12,Routine,60.92,3.2,0,0.363,0,"Aucun signe de décompensation, contrôle dans trois mois prévu et patient bien informé des signes d'alerte.",0,42,F,Polyarthrite,A,0.73,5,2.67,2024-07-12,0,1,31-45
+a2c74792daf8561a,2024-07-06,Routine,50.62,4.52,0,0.523,0,"Tension artérielle bien contrôlée, patient bien informé des signes d'alerte.",0,58,F,Diabète,C,0.78,5,4.81,2024-07-06,0,1,46-60
+a321d917bdde5b54,2024-01-23,Routine,42.53,1.06,0,0.1,0,"Examen clinique sans particularité, contrôle dans trois mois prévu et dosage à réévaluer prochainement.",0,65,M,HTA,B,0.83,4,4.37,2024-01-23,0,1,61-75
+a321d917bdde5b54,2024-03-13,Routine,38.82,0.32,0,0.197,0,"Stabilité hémodynamique observée, bilan biologique prescrit.",0,65,M,HTA,B,0.83,4,4.37,2024-01-23,50,2,61-75
+a33a66052db52b9f,2024-08-13,Routine,57.03,3.31,0,0.061,0,"Moral du patient bon, aucune réaction allergique observée.",0,49,F,HTA,B,0.91,3,1.54,2024-08-13,0,1,46-60
+a3915ea345663b9e,2024-10-14,Routine,37.8,0.59,0,0.132,0,"Hydratation correcte constatée, état général satisfaisant et protocole bien suivi à domicile.",0,66,M,HTA,B,0.76,3,0.71,2024-10-14,0,1,61-75
+a40137d4e2e1027d,2024-08-03,FollowUp,50.9,1.34,0,0.077,1,"Symptômes respiratoires améliorés, envisagée si amélioration et contrôle dans trois mois prévu.",0,77,F,Polyarthrite,C,0.88,2,2.61,2024-08-03,0,1,76+
+a40137d4e2e1027d,2024-09-04,Emergency,49.89,1.85,0,0.189,0,"Bonne adhérence au protocole, pas de modification nécessaire.",0,77,F,Polyarthrite,C,0.88,2,2.61,2024-08-03,32,2,76+
+a44c77f9483dfbd3,2024-01-17,Routine,58.74,3.56,0,0.17,0,"Poids stable depuis dernière visite, bon pronostic à court terme.",0,46,F,Polyarthrite,C,0.78,4,1.45,2024-01-17,0,1,46-60
+a44c77f9483dfbd3,2024-11-22,Routine,57.81,1.48,0,0.197,0,"Transit intestinal régulier, depuis la dernière visite.",0,46,F,Polyarthrite,C,0.78,4,1.45,2024-01-17,310,2,46-60
+a49197dc49647a06,2024-05-03,Routine,26.81,4.22,0,0.464,1,"Patient satisfait de l'évolution, explications données au patient.",0,51,M,Polyarthrite,A,0.8,2,0.39,2024-05-03,0,1,46-60
+a49197dc49647a06,2024-05-13,FollowUp,47.41,0.82,0,0.054,0,"Résultats biologiques en amélioration, observance satisfaisante du patient.",0,51,M,Polyarthrite,A,0.8,2,0.39,2024-05-03,10,2,46-60
+a49739687b93b8e9,2024-01-17,Routine,45.96,1.62,0,0.209,0,"Poids stable depuis dernière visite, surveillance nécessaire.",0,62,M,Polyarthrite,C,1.0,3,4.5,2024-01-17,0,1,61-75
+a49739687b93b8e9,2024-01-27,Emergency,51.64,4.75,0,0.457,0,"Paramètres biologiques dans les normes, suivi téléphonique prévu.",0,62,M,Polyarthrite,C,1.0,3,4.5,2024-01-17,10,2,61-75
+a49739687b93b8e9,2024-02-03,Routine,44.18,0.68,0,0.06,0,"Paramètres vitaux stables, recommandée par précaution.",0,62,M,Polyarthrite,C,1.0,3,4.5,2024-01-17,17,3,61-75
+a49739687b93b8e9,2024-09-26,FollowUp,42.44,3.28,0,0.147,0,"Hydratation correcte constatée, Réduction progressive de la posologie, protocole bien suivi à domicile.",0,62,M,Polyarthrite,C,1.0,3,4.5,2024-01-17,253,4,61-75
+a555073d12e7ec74,2024-08-08,FollowUp,43.95,2.84,0,0.123,0,"Aucun signe de décompensation, Pas de signe d'infection, observance satisfaisante du patient.",0,64,M,Diabète,A,0.97,1,4.82,2024-08-08,0,1,61-75
+a555073d12e7ec74,2024-12-01,Routine,54.45,2.58,0,0.008,0,"Amélioration du souffle, Mobilité articulaire conservée, patient adhère bien au protocole.",0,64,M,Diabète,A,0.97,1,4.82,2024-08-08,115,2,61-75
+a5acfd43c7c41445,2024-02-05,Emergency,50.31,2.03,0,0.209,0,"Diminution des symptômes inflammatoires, Légère baisse de l'appétit signalée, dosage à réévaluer prochainement.",0,66,M,Diabète,B,0.93,3,4.0,2024-02-05,0,1,61-75
+a5acfd43c7c41445,2024-02-16,Routine,62.53,5.34,0,0.384,0,"Légère prise de poids notée, ajustement thérapeutique discuté et bilan biologique prescrit.",0,66,M,Diabète,B,0.93,3,4.0,2024-02-05,11,2,61-75
+a5acfd43c7c41445,2024-03-04,Routine,45.29,4.05,0,0.445,0,"État général satisfaisant, Patient satisfait de l'évolution, pas de modification nécessaire.",0,66,M,Diabète,B,0.93,3,4.0,2024-02-05,28,3,61-75
+a617ae18cc89ee28,2024-08-12,Emergency,27.52,3.79,0,0.37,0,"Léger oedème persistant, Glycémie correcte dans les objectifs, état général satisfaisant.",0,61,M,Polyarthrite,B,0.92,4,2.27,2024-08-12,0,1,61-75
+a71bb7b7dd1dab53,2024-03-05,Routine,44.24,2.34,0,0.098,0,"Symptômes respiratoires améliorés, dosage à réévaluer prochainement.",0,52,F,Asthme,B,0.74,4,3.13,2024-03-05,0,1,46-60
+a71bb7b7dd1dab53,2024-04-01,Routine,32.43,3.17,0,0.576,0,"Auscultation pulmonaire normale, consultation de suivi programmée.",0,52,F,Asthme,B,0.74,4,3.13,2024-03-05,27,2,46-60
+a71bb7b7dd1dab53,2024-09-12,Routine,38.57,1.08,0,0.023,0,"Légère prise de poids notée, Amélioration du souffle, protocole bien suivi à domicile.",0,52,F,Asthme,B,0.74,4,3.13,2024-03-05,191,3,46-60
+a779b00793d480fa,2024-04-01,Routine,80.73,0.96,0,0.049,0,"Examen clinique sans particularité, patient adhère bien au protocole.",0,36,M,Asthme,A,0.68,2,1.44,2024-04-01,0,1,31-45
+a779b00793d480fa,2024-05-28,FollowUp,49.18,1.82,0,0.365,0,"Auscultation pulmonaire normale, Tension artérielle bien contrôlée, observance satisfaisante du patient.",0,36,M,Asthme,A,0.68,2,1.44,2024-04-01,57,2,31-45
+a779b00793d480fa,2024-07-14,Routine,52.45,1.86,0,0.274,0,"Tension artérielle bien contrôlée, constatée lors de l'examen.",0,36,M,Asthme,A,0.68,2,1.44,2024-04-01,104,3,31-45
+a779b00793d480fa,2024-07-14,Routine,47.77,4.62,0,0.488,0,"Mobilité articulaire conservée, traitement maintenu à l'identique.",0,36,M,Asthme,A,0.68,2,1.44,2024-04-01,104,4,31-45
+a86fc4de5130f609,2024-07-02,Routine,51.51,3.66,1,0.403,0,"Léger oedème persistant, pas d'effet indésirable signalé.",0,44,F,Oncologie,B,0.88,4,1.56,2024-07-02,0,1,31-45
+a86fc4de5130f609,2024-10-02,Routine,60.33,2.16,0,0.385,0,"Légère baisse de l'appétit signalée, suivi téléphonique prévu.",0,44,F,Oncologie,B,0.88,4,1.56,2024-07-02,92,2,31-45
+a86fc4de5130f609,2024-11-13,Emergency,48.14,2.62,1,0.339,0,"Patient satisfait de l'évolution, éducation thérapeutique renforcée.",0,44,F,Oncologie,B,0.88,4,1.56,2024-07-02,134,3,31-45
+a86fc4de5130f609,2024-11-13,Routine,52.74,1.63,0,0.464,0,"Patient signale des céphalées occasionnelles, traitement maintenu à l'identique.",0,44,F,Oncologie,B,0.88,4,1.56,2024-07-02,134,4,31-45
+a877b160d61527ec,2024-10-27,Routine,34.88,2.15,0,0.174,0,"Hydratation correcte constatée, Bonne adhérence au protocole, patient bien informé des signes d'alerte.",0,58,M,Oncologie,A,0.89,4,3.3,2024-10-27,0,1,46-60
+a877b160d61527ec,2024-11-23,Routine,50.49,0.67,0,0.03,0,"Patient signale des céphalées occasionnelles, bilan biologique prescrit.",0,58,M,Oncologie,A,0.89,4,3.3,2024-10-27,27,2,46-60
+a89b97ef7a0eca29,2024-03-12,FollowUp,48.8,2.91,0,0.308,0,"Stabilité hémodynamique observée, recommandée par précaution.",0,42,M,Asthme,A,0.77,4,3.66,2024-03-12,0,1,31-45
+a89b97ef7a0eca29,2024-06-09,FollowUp,52.26,1.89,0,0.144,0,"Résultats biologiques en amélioration, poursuite du traitement actuel.",0,42,M,Asthme,A,0.77,4,3.66,2024-03-12,89,2,31-45
+a89b97ef7a0eca29,2024-11-16,Routine,83.74,2.55,0,0.359,0,"Cicatrisation en bonne voie, dosage à réévaluer prochainement.",0,42,M,Asthme,A,0.77,4,3.66,2024-03-12,249,3,31-45
+a984a9c5b38c8539,2024-02-09,FollowUp,65.27,0.08,0,0.139,0,"Légère prise de poids notée, recommandée par précaution et constatée lors de l'examen.",0,50,F,Diabète,B,0.79,5,1.27,2024-02-09,0,1,46-60
+a9a06ad2b23ff105,2024-01-11,FollowUp,54.33,2.28,1,0.194,0,"Symptômes respiratoires améliorés, surveillance à poursuivre attentivement.",1,63,F,HTA,A,0.7,5,1.16,2024-01-11,0,1,61-75
+a9a06ad2b23ff105,2024-10-19,FollowUp,54.33,3.27,0,0.286,0,"Résultats biologiques en amélioration, éducation thérapeutique renforcée et surveillance à poursuivre attentivement.",0,63,F,HTA,A,0.7,5,1.16,2024-01-11,282,2,61-75
+a9f78684efbbd3d6,2024-02-05,Routine,47.72,1.68,0,0.057,0,"Aucune plainte particulière, conseils diététiques donnés.",0,45,F,Polyarthrite,C,0.86,4,2.75,2024-02-05,0,1,31-45
+a9f78684efbbd3d6,2024-05-02,FollowUp,37.86,4.64,0,0.517,0,"Aucune plainte particulière, éducation thérapeutique renforcée.",0,45,F,Polyarthrite,C,0.86,4,2.75,2024-02-05,87,2,31-45
+a9f78684efbbd3d6,2024-10-24,Routine,65.08,3.76,1,0.313,0,"Bonne réponse au traitement, Douleurs articulaires atténuées, imagerie complémentaire demandée.",0,45,F,Polyarthrite,C,0.86,4,2.75,2024-02-05,262,3,31-45
+aa0840ead21359c1,2024-07-01,Routine,55.03,7.27,0,0.743,1,"Bonne adhérence au protocole, Bonne tolérance depuis l'initiation, réévaluation dans six semaines.",0,42,F,HTA,C,0.68,5,0.34,2024-07-01,0,1,31-45
+aa0860bb20c9aec2,2024-09-19,Routine,38.06,4.37,0,0.545,1,"Poids stable depuis dernière visite, patient bien informé des signes d'alerte et orientation vers spécialiste si besoin.",0,66,F,HTA,B,0.93,5,0.72,2024-09-19,0,1,61-75
+aa0860bb20c9aec2,2024-11-16,Routine,74.64,1.32,0,0.0,0,"Surveillance biologique rapprochée, Patient satisfait de l'évolution, protocole bien suivi à domicile.",0,66,F,HTA,B,0.93,5,0.72,2024-09-19,58,2,61-75
+aa6c8882a0213070,2024-01-15,Routine,47.83,3.18,0,0.292,0,"Amélioration du souffle, consultation de suivi programmée et ajustement thérapeutique discuté.",0,58,M,Oncologie,A,0.75,4,1.14,2024-01-15,0,1,46-60
+aa6c8882a0213070,2024-03-17,Routine,62.82,2.36,0,0.277,0,"Symptômes respiratoires améliorés, dosage à réévaluer prochainement.",0,58,M,Oncologie,A,0.75,4,1.14,2024-01-15,62,2,46-60
+aa6c8882a0213070,2024-08-22,Routine,58.02,0.89,0,0.324,1,"Douleurs articulaires atténuées, contrôle dans trois mois prévu.",0,58,M,Oncologie,A,0.75,4,1.14,2024-01-15,220,3,46-60
+aa8727e2c68aa515,2024-06-15,FollowUp,43.1,0.89,1,0.224,0,"Compliance médicamenteuse satisfaisante, Sommeil de qualité rapporté, recommandée par précaution.",0,65,M,Oncologie,C,0.95,2,1.59,2024-06-15,0,1,61-75
+aa8727e2c68aa515,2024-08-24,Routine,41.16,2.01,0,0.401,1,"Tension artérielle bien contrôlée, poursuite du traitement actuel.",0,65,M,Oncologie,C,0.95,2,1.59,2024-06-15,70,2,61-75
+aaab71e49743c58e,2024-01-21,Routine,38.49,2.0,0,0.0,0,"Compliance médicamenteuse satisfaisante, moral bon du patient.",0,52,F,HTA,A,0.86,4,5.62,2024-01-21,0,1,46-60
+aaab71e49743c58e,2024-09-26,FollowUp,69.2,2.17,0,0.062,0,"Patient signale des céphalées occasionnelles, Examen clinique sans particularité, pas de modification nécessaire.",0,52,F,HTA,A,0.86,4,5.62,2024-01-21,249,2,46-60
+aaab71e49743c58e,2024-10-08,Routine,40.52,0.43,0,0.246,0,"Mobilité articulaire conservée, dosage à réévaluer prochainement et moral bon du patient.",0,52,F,HTA,A,0.86,4,5.62,2024-01-21,261,3,46-60
+ac124ef5ced519a7,2024-02-28,Routine,41.17,1.95,0,0.319,0,"Glycémie correcte dans les objectifs, observance satisfaisante du patient.",0,82,M,Oncologie,B,0.75,5,1.25,2024-02-28,0,1,76+
+ac124ef5ced519a7,2024-05-30,Routine,66.62,1.1,0,0.048,0,"Réduction progressive de la posologie, surveillance à poursuivre attentivement.",0,82,M,Oncologie,B,0.75,5,1.25,2024-02-28,92,2,76+
+ac124ef5ced519a7,2024-06-19,Emergency,38.87,2.0,0,0.449,0,"Transit intestinal régulier, patient rassuré sur l'évolution.",0,82,M,Oncologie,B,0.75,5,1.25,2024-02-28,112,3,76+
+ac124ef5ced519a7,2024-07-25,Routine,42.25,3.01,0,0.281,0,"Patient signale des céphalées occasionnelles, surveillance nécessaire.",0,82,M,Oncologie,B,0.75,5,1.25,2024-02-28,148,4,76+
+ac124ef5ced519a7,2024-11-06,Emergency,48.46,2.43,0,0.309,0,"Stabilité hémodynamique observée, aucune interaction détectée et surveillance nécessaire.",0,82,M,Oncologie,B,0.75,5,1.25,2024-02-28,252,5,76+
+ac3d85f8c63cb34e,2024-01-20,Routine,54.53,3.95,0,0.356,0,"Sommeil de qualité rapporté, aucune réaction allergique observée et traitement maintenu à l'identique.",0,79,F,HTA,B,0.85,2,0.62,2024-01-20,0,1,76+
+ac3d85f8c63cb34e,2024-01-25,FollowUp,54.53,3.67,0,0.308,0,"Moral du patient bon, traitement maintenu à l'identique et dosage à réévaluer prochainement.",0,79,F,HTA,B,0.85,2,0.62,2024-01-20,5,2,76+
+ac3d85f8c63cb34e,2024-03-13,Routine,64.88,3.59,0,0.188,0,"Patient satisfait de l'évolution, Hydratation correcte constatée, observance satisfaisante du patient.",0,79,F,HTA,B,0.85,2,0.62,2024-01-20,53,3,76+
+ac3d85f8c63cb34e,2024-09-09,FollowUp,72.36,3.56,0,0.201,0,"Patient satisfait de l'évolution, depuis la dernière visite.",0,79,F,HTA,B,0.85,2,0.62,2024-01-20,233,4,76+
+ac3f9e9d87ff324b,2024-05-10,FollowUp,12.67,1.11,0,0.204,0,"Auscultation pulmonaire normale, aucune interaction détectée et traitement maintenu à l'identique.",0,60,F,Polyarthrite,A,0.93,3,2.65,2024-05-10,0,1,46-60
+acbbb742c7524cec,2024-03-23,Routine,50.7,1.27,0,0.299,0,"Sommeil de qualité rapporté, pas de modification nécessaire.",0,34,F,Oncologie,C,0.95,3,4.16,2024-03-23,0,1,31-45
+acbbb742c7524cec,2024-06-02,Routine,73.12,4.67,1,0.26,0,"Glycémie correcte dans les objectifs, Compliance médicamenteuse satisfaisante, patient rassuré sur l'évolution.",0,34,F,Oncologie,C,0.95,3,4.16,2024-03-23,71,2,31-45
+acbbb742c7524cec,2024-06-25,FollowUp,44.37,0.27,0,0.096,0,"Compliance médicamenteuse satisfaisante, surveillance à poursuivre attentivement et consultation de suivi programmée.",0,34,F,Oncologie,C,0.95,3,4.16,2024-03-23,94,3,31-45
+accbd0955de7208b,2024-01-04,Routine,57.7,0.63,0,0.0,0,"Patient rapporte un meilleur sommeil, effets secondaires mineurs tolérables.",0,64,M,Diabète,B,0.56,4,2.91,2024-01-04,0,1,61-75
+accbd0955de7208b,2024-07-18,FollowUp,31.55,2.97,0,0.41,0,"Fatigue résiduelle mentionnée, Léger oedème persistant, objectifs thérapeutiques atteints.",0,64,M,Diabète,B,0.56,4,2.91,2024-01-04,196,2,61-75
+ad095c1430616e7a,2024-01-10,Routine,37.16,1.85,0,0.312,0,"Examen clinique sans particularité, depuis la dernière visite.",0,37,F,HTA,A,0.94,5,3.76,2024-01-10,0,1,31-45
+ad095c1430616e7a,2024-04-20,FollowUp,36.79,4.01,0,0.579,1,"Amélioration notable de la capacité fonctionnelle, objectifs thérapeutiques atteints.",0,37,F,HTA,A,0.94,5,3.76,2024-01-10,101,2,31-45
+ad095c1430616e7a,2024-08-12,Routine,50.24,1.55,0,0.417,0,"Diminution des symptômes inflammatoires, protocole bien suivi à domicile.",0,37,F,HTA,A,0.94,5,3.76,2024-01-10,215,3,31-45
+ae3eb57fb4c508a7,2024-01-15,Routine,30.95,3.38,0,0.536,1,"Patient rapporte un meilleur sommeil, Douleurs thoraciques absentes, surveillance à poursuivre attentivement.",0,54,F,HTA,A,0.75,3,1.71,2024-01-15,0,1,46-60
+ae3eb57fb4c508a7,2024-02-03,Routine,46.02,2.86,0,0.241,0,"Patient rapporte un meilleur sommeil, aucune interaction détectée.",0,54,F,HTA,A,0.75,3,1.71,2024-01-15,19,2,46-60
+ae3eb57fb4c508a7,2024-03-17,FollowUp,43.35,1.89,0,0.269,0,"Bonne réponse au traitement, suivi téléphonique prévu.",0,54,F,HTA,A,0.75,3,1.71,2024-01-15,62,3,46-60
+ae3eb57fb4c508a7,2024-05-30,FollowUp,38.46,5.84,0,0.495,0,"Amélioration notable de la capacité fonctionnelle, Stabilité hémodynamique observée, aucune réaction allergique observée.",0,54,F,HTA,A,0.75,3,1.71,2024-01-15,136,4,46-60
+aebf8ec133e867b7,2024-05-15,Routine,51.23,2.18,0,0.155,0,"Réduction progressive de la posologie, éducation thérapeutique renforcée.",0,34,F,Asthme,C,0.77,3,4.43,2024-05-15,0,1,31-45
+aebf8ec133e867b7,2024-08-02,FollowUp,72.6,5.26,0,0.33,0,"Hydratation correcte constatée, pas de modification nécessaire.",0,34,F,Asthme,C,0.77,3,4.43,2024-05-15,79,2,31-45
+afc4cad1580d73c8,2024-06-24,Routine,67.82,0.29,0,0.0,0,"Léger oedème persistant, conseils diététiques donnés.",0,55,F,HTA,A,1.0,5,4.44,2024-06-24,0,1,46-60
+afc4cad1580d73c8,2024-11-27,FollowUp,77.4,2.2,0,0.392,0,"Bonne adhérence au protocole, surveillance à poursuivre attentivement.",0,55,F,HTA,A,1.0,5,4.44,2024-06-24,156,2,46-60
+afc8d98a10dcbbf8,2024-04-25,Routine,24.37,0.42,0,0.138,0,"Réduction progressive de la posologie, éducation thérapeutique renforcée et protocole bien suivi à domicile.",0,59,M,Polyarthrite,A,0.7,2,1.54,2024-04-25,0,1,46-60
+afc8d98a10dcbbf8,2024-09-24,Routine,32.69,0.39,0,0.167,0,"Auscultation pulmonaire normale, orientation vers spécialiste si besoin.",0,59,M,Polyarthrite,A,0.7,2,1.54,2024-04-25,152,2,46-60
+b05f6d7ee12f34eb,2024-01-21,Routine,40.99,4.2,1,0.38,0,"Surveillance biologique rapprochée, Fonction rénale stable, effets secondaires mineurs tolérables.",0,59,F,HTA,A,0.81,3,2.24,2024-01-21,0,1,46-60
+b05f6d7ee12f34eb,2024-01-29,Routine,64.64,1.16,0,0.176,0,"Patient satisfait de l'évolution, Aucun signe de décompensation, traitement maintenu à l'identique.",0,59,F,HTA,A,0.81,3,2.24,2024-01-21,8,2,46-60
+b05f6d7ee12f34eb,2024-07-30,FollowUp,34.56,3.18,0,0.326,0,"Transit intestinal régulier, Bonne adhérence au protocole, imagerie complémentaire demandée.",0,59,F,HTA,A,0.81,3,2.24,2024-01-21,191,3,46-60
+b05f6d7ee12f34eb,2024-08-15,Routine,52.41,3.56,0,0.362,0,"Bonne tolérance depuis l'initiation, Aucun signe de décompensation, orientation vers spécialiste si besoin.",0,59,F,HTA,A,0.81,3,2.24,2024-01-21,207,4,46-60
+b0e8fca1f2e9b746,2024-02-22,Routine,69.98,0.89,0,0.2,0,"Amélioration notable de la capacité fonctionnelle, depuis la dernière visite et patient bien informé des signes d'alerte.",0,29,M,Asthme,C,0.79,2,3.12,2024-02-22,0,1,18-30
+b0e8fca1f2e9b746,2024-04-09,FollowUp,43.52,4.42,0,0.352,0,"Transit intestinal régulier, imagerie complémentaire demandée.",0,29,M,Asthme,C,0.79,2,3.12,2024-02-22,47,2,18-30
+b0e8fca1f2e9b746,2024-10-16,Routine,55.49,3.15,0,0.216,0,"Auscultation pulmonaire normale, envisagée si amélioration.",0,29,M,Asthme,C,0.79,2,3.12,2024-02-22,237,3,18-30
+b0e8fca1f2e9b746,2024-12-01,Routine,53.58,3.13,0,0.554,1,"Réduction progressive de la posologie, conseils diététiques donnés.",0,29,M,Asthme,C,0.79,2,3.12,2024-02-22,283,4,18-30
+b0eb1f6a66df6919,2024-03-02,Routine,47.23,3.47,0,0.418,0,"Surveillance biologique rapprochée, consultation de suivi programmée et patient adhère bien au protocole.",0,67,F,HTA,B,0.94,5,4.42,2024-03-02,0,1,61-75
+b0eb1f6a66df6919,2024-03-08,Routine,52.99,0.18,1,0.0,0,"Auscultation pulmonaire normale, contrôle dans trois mois prévu.",0,67,F,HTA,B,0.94,5,4.42,2024-03-02,6,2,61-75
+b0eb1f6a66df6919,2024-09-21,Routine,36.24,0.15,0,0.0,0,"Auscultation pulmonaire normale, patient rassuré sur l'évolution.",0,67,F,HTA,B,0.94,5,4.42,2024-03-02,203,3,61-75
+b0eb1f6a66df6919,2024-11-05,Routine,24.24,3.42,0,0.407,0,"Amélioration du souffle, constatée lors de l'examen et surveillance à poursuivre attentivement.",0,67,F,HTA,B,0.94,5,4.42,2024-03-02,248,4,61-75
+b0f15b8f92f5f813,2024-11-24,Routine,33.03,4.78,1,0.594,1,"Paramètres biologiques dans les normes, patient adhère bien au protocole.",0,55,F,Oncologie,A,0.82,4,3.16,2024-11-24,0,1,46-60
+b115a96c4d023253,2024-06-19,Routine,31.56,1.9,0,0.391,0,"Glycémie correcte dans les objectifs, dosage à réévaluer prochainement.",0,49,F,Diabète,A,0.85,4,1.69,2024-06-19,0,1,46-60
+b115a96c4d023253,2024-10-27,Routine,58.48,2.75,0,0.371,0,"Diminution des symptômes inflammatoires, pas de modification nécessaire.",0,49,F,Diabète,A,0.85,4,1.69,2024-06-19,130,2,46-60
+b15e6a755a8f732f,2024-06-22,FollowUp,34.3,2.36,1,0.347,0,"Légère baisse de l'appétit signalée, dosage à réévaluer prochainement.",0,46,M,HTA,A,0.75,3,3.29,2024-06-22,0,1,46-60
+b15e6a755a8f732f,2024-07-28,Routine,53.88,3.55,1,0.397,0,"Stabilité hémodynamique observée, poursuite du traitement actuel.",0,46,M,HTA,A,0.75,3,3.29,2024-06-22,36,2,46-60
+b22c805b9cb0258f,2024-02-21,Routine,74.75,2.75,1,0.0,0,"Patient rapporte un meilleur sommeil, moral bon du patient.",0,49,F,Asthme,C,0.84,5,0.59,2024-02-21,0,1,46-60
+b22c805b9cb0258f,2024-03-18,FollowUp,43.55,2.95,0,0.297,0,"Cicatrisation en bonne voie, Amélioration du souffle, patient bien informé des signes d'alerte.",0,49,F,Asthme,C,0.84,5,0.59,2024-02-21,26,2,46-60
+b22c805b9cb0258f,2024-06-16,FollowUp,30.0,1.37,0,0.179,0,"Stabilité hémodynamique observée, suivi téléphonique prévu.",0,49,F,Asthme,C,0.84,5,0.59,2024-02-21,116,3,46-60
+b22c805b9cb0258f,2024-09-14,Routine,24.18,1.88,0,0.429,0,"Aucun signe de décompensation, Moral du patient bon, patient rassuré sur l'évolution.",0,49,F,Asthme,C,0.84,5,0.59,2024-02-21,206,4,46-60
+b23c8e45412de126,2024-07-11,Routine,61.12,2.58,0,0.361,0,"Pas de signe d'infection, adaptation autonome correcte.",0,43,F,Diabète,C,0.78,5,2.05,2024-07-11,0,1,31-45
+b23c8e45412de126,2024-09-20,Routine,41.34,1.81,0,0.398,0,"Stabilité hémodynamique observée, Bonne réponse au traitement, orientation vers spécialiste si besoin.",0,43,F,Diabète,C,0.78,5,2.05,2024-07-11,71,2,31-45
+b23c8e45412de126,2024-10-08,Routine,36.09,0.98,0,0.05,0,"Bonne réponse au traitement, envisagée si amélioration.",0,43,F,Diabète,C,0.78,5,2.05,2024-07-11,89,3,31-45
+b23c8e45412de126,2024-10-26,Routine,31.82,2.16,0,0.447,0,"Patient rapporte un meilleur sommeil, Amélioration du souffle, éducation thérapeutique renforcée.",0,43,F,Diabète,C,0.78,5,2.05,2024-07-11,107,4,31-45
+b2965f84ec2fb18f,2024-01-16,Routine,64.51,3.35,0,0.208,0,"Bonne adhérence au protocole, envisagée si amélioration.",0,48,M,Asthme,A,0.99,5,2.31,2024-01-16,0,1,46-60
+b2965f84ec2fb18f,2024-01-31,Routine,62.57,0.86,0,0.249,0,"Auscultation pulmonaire normale, Léger oedème persistant, état général satisfaisant.",0,48,M,Asthme,A,0.99,5,2.31,2024-01-16,15,2,46-60
+b39af233e0cda43f,2024-03-15,Routine,79.44,4.14,0,0.408,0,"Amélioration notable de la capacité fonctionnelle, poursuite du traitement actuel.",0,72,M,Diabète,C,0.86,5,2.27,2024-03-15,0,1,61-75
+b3d8970c93ad90b8,2024-01-28,Routine,33.97,3.48,0,0.444,0,"Compliance médicamenteuse satisfaisante, bilan biologique prescrit.",0,39,F,Diabète,A,0.89,5,6.48,2024-01-28,0,1,31-45
+b3d8970c93ad90b8,2024-06-05,Routine,49.89,2.45,0,0.273,0,"Aucune plainte particulière, pas d'effet indésirable signalé.",0,39,F,Diabète,A,0.89,5,6.48,2024-01-28,129,2,31-45
+b3d8970c93ad90b8,2024-09-03,FollowUp,53.74,5.01,0,0.797,1,"Paramètres biologiques dans les normes, constatée lors de l'examen.",0,39,F,Diabète,A,0.89,5,6.48,2024-01-28,219,3,31-45
+b52685aae8f04322,2024-06-13,Routine,62.25,5.15,0,0.556,0,"Aucune plainte particulière, Auscultation pulmonaire normale, protocole bien suivi à domicile.",0,73,F,Oncologie,C,0.82,4,0.96,2024-06-13,0,1,61-75
+b52685aae8f04322,2024-10-04,Routine,60.52,3.05,0,0.417,1,"Stabilité hémodynamique observée, surveillance à poursuivre attentivement.",0,73,F,Oncologie,C,0.82,4,0.96,2024-06-13,113,2,61-75
+b7c281ca71197467,2024-08-13,Emergency,28.28,0.21,0,0.316,0,"Aucun signe de décompensation, explications données au patient.",0,61,F,Asthme,C,0.8,5,3.68,2024-08-13,0,1,61-75
+b85ff4d5cdd50eed,2024-07-28,Routine,52.43,4.87,0,0.374,0,"État général satisfaisant, imagerie complémentaire demandée.",0,54,M,Diabète,B,0.99,4,4.36,2024-07-28,0,1,46-60
+b86797f4dfeb2f4f,2024-02-09,Routine,59.93,5.26,0,0.478,0,"Moral du patient bon, aucune réaction allergique observée.",0,44,F,HTA,A,0.85,3,0.47,2024-02-09,0,1,31-45
+b86797f4dfeb2f4f,2024-06-29,Routine,42.44,1.98,1,0.0,0,"Douleurs articulaires atténuées, poursuite du traitement actuel.",0,44,F,HTA,A,0.85,3,0.47,2024-02-09,141,2,31-45
+b86797f4dfeb2f4f,2024-10-04,FollowUp,26.9,3.88,0,0.451,0,"Aucune plainte particulière, moral bon du patient et pas de modification nécessaire.",0,44,F,HTA,A,0.85,3,0.47,2024-02-09,238,3,31-45
+b86797f4dfeb2f4f,2024-11-19,Routine,48.37,3.3,0,0.44,0,"Légère baisse de l'appétit signalée, envisagée si amélioration.",0,44,F,HTA,A,0.85,3,0.47,2024-02-09,284,4,31-45
+b8c4dc81da2fc835,2024-02-06,Routine,61.93,1.46,0,0.246,0,"Tension artérielle bien contrôlée, Hydratation correcte constatée, patient bien informé des signes d'alerte.",0,44,M,Diabète,A,0.85,3,5.64,2024-02-06,0,1,31-45
+b8c4dc81da2fc835,2024-07-10,Routine,17.69,6.15,0,0.778,1,"Mobilité articulaire conservée, suivi téléphonique prévu.",0,44,M,Diabète,A,0.85,3,5.64,2024-02-06,155,2,31-45
+b8ca87620546e44c,2024-01-13,Emergency,49.48,5.45,0,0.518,1,"Légère baisse de l'appétit signalée, bilan biologique prescrit.",0,50,M,Asthme,A,0.86,4,5.55,2024-01-13,0,1,46-60
+b8ca87620546e44c,2024-06-07,Routine,47.04,2.87,0,0.0,0,"Paramètres vitaux stables, Douleurs thoraciques absentes, depuis la dernière visite.",0,50,M,Asthme,A,0.86,4,5.55,2024-01-13,146,2,46-60
+b8ca87620546e44c,2024-10-21,Routine,37.91,1.83,0,0.061,0,"Cicatrisation en bonne voie, Moral du patient bon, imagerie complémentaire demandée.",0,50,M,Asthme,A,0.86,4,5.55,2024-01-13,282,3,46-60
+b8df12784d314340,2024-03-23,Emergency,36.68,3.2,0,0.279,0,"Cicatrisation en bonne voie, surveillance à poursuivre attentivement.",0,49,F,Polyarthrite,C,0.89,4,0.13,2024-03-23,0,1,46-60
+b8df12784d314340,2024-04-20,Emergency,50.5,3.67,0,0.52,0,"Léger oedème persistant, État général satisfaisant, protocole bien suivi à domicile.",0,49,F,Polyarthrite,C,0.89,4,0.13,2024-03-23,28,2,46-60
+b8df12784d314340,2024-06-22,Routine,26.6,5.73,0,0.595,1,"Surveillance biologique rapprochée, Examen clinique sans particularité, surveillance à poursuivre attentivement.",0,49,F,Polyarthrite,C,0.89,4,0.13,2024-03-23,91,3,46-60
+b8df12784d314340,2024-11-20,Routine,34.88,1.85,0,0.503,0,"État général satisfaisant, adaptation autonome correcte.",0,49,F,Polyarthrite,C,0.89,4,0.13,2024-03-23,242,4,46-60
+b9a9d9116f168ecd,2024-08-09,Routine,44.64,2.7,0,0.362,0,"Réduction progressive de la posologie, Surveillance biologique rapprochée, consultation de suivi programmée.",0,84,F,Oncologie,B,0.75,2,1.33,2024-08-09,0,1,76+
+b9a9d9116f168ecd,2024-09-11,FollowUp,37.88,1.51,0,0.516,1,"Cicatrisation en bonne voie, suivi téléphonique prévu et état général satisfaisant.",0,84,F,Oncologie,B,0.75,2,1.33,2024-08-09,33,2,76+
+b9d972affce7f6c3,2024-01-17,Routine,55.82,2.4,0,0.072,0,"Pas de signe d'infection, réévaluation dans six semaines.",0,33,F,Diabète,A,0.9,4,2.19,2024-01-17,0,1,31-45
+b9d972affce7f6c3,2024-04-07,Routine,36.17,1.22,0,0.274,0,"Patient satisfait de l'évolution, patient adhère bien au protocole.",0,33,F,Diabète,A,0.9,4,2.19,2024-01-17,81,2,31-45
+b9d972affce7f6c3,2024-05-27,Routine,72.48,3.67,0,0.139,0,"Amélioration du souffle, traitement maintenu à l'identique.",0,33,F,Diabète,A,0.9,4,2.19,2024-01-17,131,3,31-45
+ba68dce160865c0a,2024-01-23,Routine,47.55,1.71,0,0.141,0,"Hydratation correcte constatée, orientation vers spécialiste si besoin.",0,68,F,HTA,A,0.82,3,3.37,2024-01-23,0,1,61-75
+ba68dce160865c0a,2024-03-01,Routine,55.86,4.39,0,0.479,0,"Légère baisse de l'appétit signalée, aucune interaction détectée.",0,68,F,HTA,A,0.82,3,3.37,2024-01-23,38,2,61-75
+ba68dce160865c0a,2024-10-16,Routine,62.44,4.09,1,0.333,0,"Glycémie correcte dans les objectifs, surveillance à poursuivre attentivement.",0,68,F,HTA,A,0.82,3,3.37,2024-01-23,267,3,61-75
+bafe073560cad1ae,2024-02-15,FollowUp,42.28,3.32,0,0.351,0,"Surveillance biologique rapprochée, aucune interaction détectée.",0,54,F,HTA,C,0.86,4,3.6,2024-02-15,0,1,46-60
+bafe073560cad1ae,2024-11-23,Routine,37.97,6.43,0,0.543,1,"Hydratation correcte constatée, patient bien informé des signes d'alerte et ajustement thérapeutique discuté.",0,54,F,HTA,C,0.86,4,3.6,2024-02-15,282,2,46-60
+bb6d0082855bac86,2024-03-20,Routine,24.41,6.55,0,0.485,0,"Patient satisfait de l'évolution, Douleurs thoraciques absentes, pas d'effet indésirable signalé.",0,42,F,Diabète,A,0.95,4,1.39,2024-03-20,0,1,31-45
+bb6d0082855bac86,2024-04-29,Routine,32.68,4.68,0,0.383,0,"Poids stable depuis dernière visite, dosage à réévaluer prochainement.",0,42,F,Diabète,A,0.95,4,1.39,2024-03-20,40,2,31-45
+bb6d0082855bac86,2024-05-21,FollowUp,45.52,1.58,0,0.295,0,"Poids stable depuis dernière visite, aucune interaction détectée.",0,42,F,Diabète,A,0.95,4,1.39,2024-03-20,62,3,31-45
+bb6d0082855bac86,2024-06-05,Routine,50.7,1.77,0,0.188,0,"Diminution des symptômes inflammatoires, pas d'effet indésirable signalé.",0,42,F,Diabète,A,0.95,4,1.39,2024-03-20,77,4,31-45
+bb6d0082855bac86,2024-09-21,Emergency,40.51,0.98,0,0.088,0,"Sommeil de qualité rapporté, consultation de suivi programmée.",0,42,F,Diabète,A,0.95,4,1.39,2024-03-20,185,5,31-45
+bb883e63957a3b34,2024-09-13,Routine,58.15,0.96,1,0.173,0,"Légère prise de poids notée, bilan biologique prescrit.",0,44,M,Asthme,C,0.99,5,2.17,2024-09-13,0,1,31-45
+bb97c6f73e6e4b89,2024-04-11,FollowUp,37.29,4.95,0,0.467,0,"Auscultation pulmonaire normale, depuis la dernière visite.",0,71,F,HTA,A,0.95,2,3.27,2024-04-11,0,1,61-75
+bb97c6f73e6e4b89,2024-06-15,FollowUp,46.93,2.88,0,0.25,0,"Tension artérielle bien contrôlée, Transit intestinal régulier, envisagée si amélioration.",0,71,F,HTA,A,0.95,2,3.27,2024-04-11,65,2,61-75
+bbe6ef5a43907dfd,2024-10-07,Routine,20.31,1.97,0,0.236,0,"Paramètres vitaux stables, surveillance nécessaire et aucune réaction allergique observée.",0,53,F,Asthme,C,0.9,3,3.37,2024-10-07,0,1,46-60
+bbf0a440847ec2dc,2024-03-30,Routine,45.35,3.76,0,0.426,0,"Fonction rénale stable, Poids stable depuis dernière visite, réévaluation dans six semaines.",0,53,M,HTA,C,0.84,3,1.22,2024-03-30,0,1,46-60
+bbf0a440847ec2dc,2024-07-23,Routine,53.62,4.65,0,0.583,0,"Patient rapporte un meilleur sommeil, effets secondaires mineurs tolérables.",0,53,M,HTA,C,0.84,3,1.22,2024-03-30,115,2,46-60
+bc7789161ada52cd,2024-04-17,Emergency,61.69,1.6,0,0.162,0,"Amélioration notable de la capacité fonctionnelle, Bonne tolérance depuis l'initiation, pas de modification nécessaire.",0,43,M,Oncologie,A,0.79,4,4.34,2024-04-17,0,1,31-45
+bc8e98e2012f9fb5,2024-08-20,Routine,46.25,2.76,0,0.317,0,"Surveillance biologique rapprochée, Amélioration notable de la capacité fonctionnelle, objectifs thérapeutiques atteints.",0,54,M,Asthme,B,0.74,5,1.35,2024-08-20,0,1,46-60
+bcd6c05d5f306e05,2024-01-16,FollowUp,50.02,3.62,0,0.455,0,"Sommeil de qualité rapporté, protocole bien suivi à domicile.",0,50,M,HTA,A,0.85,3,4.92,2024-01-16,0,1,46-60
+bcd6c05d5f306e05,2024-03-15,Routine,49.79,2.35,0,0.309,0,"Paramètres vitaux stables, suivi téléphonique prévu.",0,50,M,HTA,A,0.85,3,4.92,2024-01-16,59,2,46-60
+bcd6c05d5f306e05,2024-05-11,Routine,45.59,1.03,0,0.081,0,"Sommeil de qualité rapporté, pas d'effet indésirable signalé.",0,50,M,HTA,A,0.85,3,4.92,2024-01-16,116,3,46-60
+bd476365fab49305,2024-08-28,Routine,28.17,4.37,0,0.314,0,"Surveillance biologique rapprochée, recommandée par précaution.",0,54,M,Polyarthrite,B,0.7,5,2.64,2024-08-28,0,1,46-60
+bdd027bbf1084ff4,2024-08-06,Routine,50.53,3.41,0,0.395,0,"Fonction rénale stable, explications données au patient et bon pronostic à court terme.",0,60,F,Asthme,B,0.85,3,0.86,2024-08-06,0,1,46-60
+bdd02f7e4188697b,2024-07-05,Routine,56.26,5.67,0,0.227,0,"Paramètres biologiques dans les normes, moral bon du patient.",0,48,M,Polyarthrite,C,0.96,1,6.44,2024-07-05,0,1,46-60
+bdd02f7e4188697b,2024-08-29,FollowUp,58.4,2.62,0,0.076,0,"Glycémie correcte dans les objectifs, aucune réaction allergique observée.",0,48,M,Polyarthrite,C,0.96,1,6.44,2024-07-05,55,2,46-60
+be084e0ac4e072f2,2024-03-18,Routine,51.71,0.83,0,0.413,0,"Patient rapporte un meilleur sommeil, constatée lors de l'examen et explications données au patient.",0,69,M,Asthme,A,0.93,5,5.88,2024-03-18,0,1,61-75
+be084e0ac4e072f2,2024-11-03,FollowUp,54.14,3.7,0,0.082,0,"Poids stable depuis dernière visite, état général satisfaisant.",0,69,M,Asthme,A,0.93,5,5.88,2024-03-18,230,2,61-75
+bed4143c6df6333d,2024-06-28,FollowUp,30.69,4.92,0,0.521,0,"Patient satisfait de l'évolution, traitement maintenu à l'identique.",0,61,M,Asthme,A,0.9,5,4.42,2024-06-28,0,1,61-75
+bed4143c6df6333d,2024-09-04,FollowUp,31.48,2.54,0,0.234,0,"Fatigue résiduelle mentionnée, orientation vers spécialiste si besoin.",0,61,M,Asthme,A,0.9,5,4.42,2024-06-28,68,2,61-75
+bf20f89777a51233,2024-02-23,Routine,63.35,6.3,0,0.583,1,"Fatigue résiduelle mentionnée, ajustement thérapeutique discuté.",0,63,F,HTA,B,1.0,4,4.38,2024-02-23,0,1,61-75
+bf20f89777a51233,2024-05-23,FollowUp,36.94,6.13,1,0.6,0,"Léger oedème persistant, poursuite du traitement actuel.",0,63,F,HTA,B,1.0,4,4.38,2024-02-23,90,2,61-75
+bf20f89777a51233,2024-08-16,Emergency,46.05,1.63,0,0.296,0,"Aucune plainte particulière, poursuite du traitement actuel.",0,63,F,HTA,B,1.0,4,4.38,2024-02-23,175,3,61-75
+bf20f89777a51233,2024-08-18,Routine,25.21,3.33,0,0.15,0,"Paramètres biologiques dans les normes, objectifs thérapeutiques atteints.",0,63,F,HTA,B,1.0,4,4.38,2024-02-23,177,4,61-75
+bf57bc9046ef88a3,2024-04-06,Routine,62.78,2.42,0,0.335,0,"Stabilité hémodynamique observée, patient adhère bien au protocole.",0,51,M,Polyarthrite,A,0.91,4,3.81,2024-04-06,0,1,46-60
+bf57bc9046ef88a3,2024-04-24,Routine,39.2,1.31,0,0.233,0,"Bonne tolérance depuis l'initiation, moral bon du patient.",0,51,M,Polyarthrite,A,0.91,4,3.81,2024-04-06,18,2,46-60
+bf57bc9046ef88a3,2024-08-12,Routine,59.88,4.94,0,0.709,1,"Réduction progressive de la posologie, constatée lors de l'examen.",0,51,M,Polyarthrite,A,0.91,4,3.81,2024-04-06,128,3,46-60
+c0991c1130e64694,2024-05-04,Routine,46.92,4.79,0,0.69,1,"Fonction rénale stable, pas de modification nécessaire.",0,18,M,Diabète,B,0.93,4,1.32,2024-05-04,0,1,18-30
+c0991c1130e64694,2024-05-24,FollowUp,74.97,5.62,0,0.394,0,"Paramètres biologiques dans les normes, recommandée par précaution.",0,18,M,Diabète,B,0.93,4,1.32,2024-05-04,20,2,18-30
+c117530acf78c16a,2024-06-09,FollowUp,28.46,2.39,0,0.511,1,"Aucun signe de décompensation, Patient rapporte un meilleur sommeil, aucune réaction allergique observée.",0,64,M,Diabète,C,0.85,1,1.59,2024-06-09,0,1,61-75
+c117530acf78c16a,2024-06-15,Routine,45.08,3.3,0,0.625,1,"Glycémie correcte dans les objectifs, bilan biologique prescrit.",0,64,M,Diabète,C,0.85,1,1.59,2024-06-09,6,2,61-75
+c2c80b57ec303c80,2024-01-01,FollowUp,56.22,5.4,0,0.376,0,"Bonne tolérance depuis l'initiation, Patient rapporte un meilleur sommeil, bon pronostic à court terme.",0,29,M,Oncologie,B,0.92,5,0.88,2024-01-01,0,1,18-30
+c31ff7534b57fadf,2024-01-12,Routine,77.5,0.66,0,0.141,0,"Compliance médicamenteuse satisfaisante, orientation vers spécialiste si besoin.",0,75,F,Diabète,A,0.87,4,3.9,2024-01-12,0,1,61-75
+c31ff7534b57fadf,2024-04-09,FollowUp,36.96,4.03,0,0.278,0,"Poids stable depuis dernière visite, pas d'effet indésirable signalé.",0,75,F,Diabète,A,0.87,4,3.9,2024-01-12,88,2,61-75
+c31ff7534b57fadf,2024-09-11,FollowUp,47.67,3.9,0,0.42,0,"Surveillance biologique rapprochée, contrôle dans trois mois prévu.",0,75,F,Diabète,A,0.87,4,3.9,2024-01-12,243,3,61-75
+c31ff7534b57fadf,2024-09-15,Routine,36.14,5.35,0,0.647,1,"Glycémie correcte dans les objectifs, effets secondaires mineurs tolérables.",0,75,F,Diabète,A,0.87,4,3.9,2024-01-12,247,4,61-75
+c31ff7534b57fadf,2024-10-08,Routine,47.02,1.89,0,0.143,0,"Diminution des symptômes inflammatoires, Paramètres vitaux stables, pas d'effet indésirable signalé.",0,75,F,Diabète,A,0.87,4,3.9,2024-01-12,270,5,61-75
+c338a9644d8c06a8,2024-01-16,Emergency,47.24,4.19,0,0.595,1,"Patient satisfait de l'évolution, moral bon du patient.",0,55,F,Asthme,A,1.0,5,3.06,2024-01-16,0,1,46-60
+c338a9644d8c06a8,2024-05-10,FollowUp,67.13,1.34,0,0.181,0,"Stabilité hémodynamique observée, Auscultation pulmonaire normale, explications données au patient.",0,55,F,Asthme,A,1.0,5,3.06,2024-01-16,115,2,46-60
+c45d07b4c32ef06d,2024-02-04,Routine,42.45,4.64,0,0.438,0,"Compliance médicamenteuse satisfaisante, patient adhère bien au protocole.",0,61,F,Polyarthrite,B,0.92,5,2.28,2024-02-04,0,1,61-75
+c45d07b4c32ef06d,2024-05-12,Routine,81.36,6.7,0,0.414,0,"Fatigue résiduelle mentionnée, recommandée par précaution.",0,61,F,Polyarthrite,B,0.92,5,2.28,2024-02-04,98,2,61-75
+c4a52327be2369f4,2024-04-02,Routine,57.23,2.09,0,0.292,0,"Moral du patient bon, Surveillance biologique rapprochée, depuis la dernière visite.",0,49,F,Diabète,C,0.74,5,3.1,2024-04-02,0,1,46-60
+c4c37ca07e19bbda,2024-01-05,Routine,44.43,0.78,0,0.323,0,"Légère prise de poids notée, objectifs thérapeutiques atteints.",0,62,F,HTA,B,0.98,5,1.55,2024-01-05,0,1,61-75
+c622973483b24fe3,2024-03-19,FollowUp,38.24,4.89,1,0.551,0,"Symptômes respiratoires améliorés, patient bien informé des signes d'alerte.",0,53,F,Asthme,B,0.78,5,2.21,2024-03-19,0,1,46-60
+c622973483b24fe3,2024-06-28,FollowUp,35.45,2.42,0,0.468,0,"Cicatrisation en bonne voie, éducation thérapeutique renforcée.",0,53,F,Asthme,B,0.78,5,2.21,2024-03-19,101,2,46-60
+c654299af52bbea7,2024-05-13,Routine,55.82,2.27,0,0.089,0,"Auscultation pulmonaire normale, orientation vers spécialiste si besoin.",0,46,F,HTA,B,0.86,3,3.17,2024-05-13,0,1,46-60
+c654299af52bbea7,2024-05-14,FollowUp,55.81,3.55,0,0.209,0,"Douleurs thoraciques absentes, bilan biologique prescrit.",0,46,F,HTA,B,0.86,3,3.17,2024-05-13,1,2,46-60
+c654299af52bbea7,2024-07-17,Routine,53.28,2.8,0,0.496,0,"Poids stable depuis dernière visite, patient bien informé des signes d'alerte et recommandée par précaution.",0,46,F,HTA,B,0.86,3,3.17,2024-05-13,65,3,46-60
+c654299af52bbea7,2024-09-25,FollowUp,56.82,3.15,0,0.336,0,"Stabilité hémodynamique observée, poursuite du traitement actuel.",0,46,F,HTA,B,0.86,3,3.17,2024-05-13,135,4,46-60
+c654299af52bbea7,2024-10-30,Routine,48.46,4.18,0,0.446,0,"Pas de signe d'infection, constatée lors de l'examen.",0,46,F,HTA,B,0.86,3,3.17,2024-05-13,170,5,46-60
+c69770fe0c53d847,2024-10-10,Routine,36.83,2.23,0,0.171,0,"Paramètres biologiques dans les normes, recommandée par précaution.",0,46,M,Polyarthrite,C,0.79,2,2.5,2024-10-10,0,1,46-60
+c73c8506f607a8e8,2024-01-27,Routine,54.88,5.69,0,0.493,0,"Compliance médicamenteuse satisfaisante, patient adhère bien au protocole.",0,72,M,Asthme,A,0.8,4,3.05,2024-01-27,0,1,61-75
+c73c8506f607a8e8,2024-06-05,FollowUp,88.98,0.91,0,0.293,0,"Poids stable depuis dernière visite, explications données au patient.",0,72,M,Asthme,A,0.8,4,3.05,2024-01-27,130,2,61-75
+c73c8506f607a8e8,2024-08-25,Routine,71.93,3.23,0,0.3,0,"Examen clinique sans particularité, patient rassuré sur l'évolution.",1,72,M,Asthme,A,0.8,4,3.05,2024-01-27,211,3,61-75
+c84930d5db5e8ce1,2024-03-11,FollowUp,62.28,2.86,0,0.364,0,"Légère baisse de l'appétit signalée, patient adhère bien au protocole et éducation thérapeutique renforcée.",0,42,F,Diabète,A,0.74,3,0.99,2024-03-11,0,1,31-45
+c84930d5db5e8ce1,2024-08-23,Routine,39.07,3.49,0,0.484,1,"Bonne réponse au traitement, contrôle dans trois mois prévu.",0,42,F,Diabète,A,0.74,3,0.99,2024-03-11,165,2,31-45
+c84930d5db5e8ce1,2024-09-11,Routine,31.47,2.78,0,0.225,0,"Aucune plainte particulière, Patient satisfait de l'évolution, ajustement thérapeutique discuté.",0,42,F,Diabète,A,0.74,3,0.99,2024-03-11,184,3,31-45
+c84930d5db5e8ce1,2024-11-03,Routine,36.91,3.24,1,0.354,0,"Glycémie correcte dans les objectifs, ajustement thérapeutique discuté.",0,42,F,Diabète,A,0.74,3,0.99,2024-03-11,237,4,31-45
+c84930d5db5e8ce1,2024-11-15,Emergency,33.54,1.25,0,0.334,1,"Cicatrisation en bonne voie, envisagée si amélioration.",0,42,F,Diabète,A,0.74,3,0.99,2024-03-11,249,5,31-45
+c94e5b24266e4095,2024-09-13,Routine,47.32,1.16,0,0.046,0,"Paramètres biologiques dans les normes, Douleurs thoraciques absentes, constatée lors de l'examen.",0,64,M,Diabète,A,0.81,3,4.1,2024-09-13,0,1,61-75
+ca0847629d396d30,2024-08-03,Routine,44.48,4.96,0,0.22,0,"Bonne adhérence au protocole, Amélioration notable de la capacité fonctionnelle, contrôle dans trois mois prévu.",0,73,F,Diabète,C,0.88,5,0.95,2024-08-03,0,1,61-75
+ca0847629d396d30,2024-11-13,FollowUp,31.37,3.64,0,0.473,0,"Bonne réponse au traitement, adaptation autonome correcte.",0,73,F,Diabète,C,0.88,5,0.95,2024-08-03,102,2,61-75
+caa0e6d05ba5a8a5,2024-02-10,Routine,75.11,2.92,0,0.252,0,"Pas de signe d'infection, patient rassuré sur l'évolution.",0,43,M,Diabète,B,0.94,3,1.71,2024-02-10,0,1,31-45
+caa0e6d05ba5a8a5,2024-08-03,Emergency,28.89,2.82,1,0.416,0,"Mobilité articulaire conservée, Surveillance biologique rapprochée, ajustement thérapeutique discuté.",0,43,M,Diabète,B,0.94,3,1.71,2024-02-10,175,2,31-45
+caa0e6d05ba5a8a5,2024-10-04,Routine,14.83,4.06,0,0.482,0,"Tension artérielle bien contrôlée, pas d'effet indésirable signalé.",0,43,M,Diabète,B,0.94,3,1.71,2024-02-10,237,3,31-45
+caf9455d21c5dcd0,2024-03-27,FollowUp,65.9,3.81,0,0.193,0,"Douleurs thoraciques absentes, objectifs thérapeutiques atteints.",0,56,F,Diabète,B,0.85,5,4.68,2024-03-27,0,1,46-60
+caf9455d21c5dcd0,2024-06-09,Emergency,51.23,3.98,0,0.348,0,"Examen clinique sans particularité, moral bon du patient.",0,56,F,Diabète,B,0.85,5,4.68,2024-03-27,74,2,46-60
+caf9455d21c5dcd0,2024-06-09,FollowUp,55.11,0.14,0,0.058,0,"Douleurs articulaires atténuées, protocole bien suivi à domicile.",0,56,F,Diabète,B,0.85,5,4.68,2024-03-27,74,3,46-60
+caf9455d21c5dcd0,2024-11-04,Routine,57.86,1.72,0,0.277,0,"Réduction progressive de la posologie, depuis la dernière visite.",0,56,F,Diabète,B,0.85,5,4.68,2024-03-27,222,4,46-60
+cd97caa71538dd75,2024-07-28,Routine,77.28,1.59,0,0.0,0,"Paramètres vitaux stables, patient adhère bien au protocole.",0,67,M,Asthme,A,0.77,3,0.87,2024-07-28,0,1,61-75
+cd97caa71538dd75,2024-09-27,Routine,39.98,2.17,0,0.211,0,"Fatigue résiduelle mentionnée, contrôle dans trois mois prévu.",0,67,M,Asthme,A,0.77,3,0.87,2024-07-28,61,2,61-75
+cd97caa71538dd75,2024-11-02,FollowUp,61.25,1.23,0,0.279,0,"Amélioration notable de la capacité fonctionnelle, ajustement thérapeutique discuté.",0,67,M,Asthme,A,0.77,3,0.87,2024-07-28,97,3,61-75
+ce77a2a0332d3f35,2024-03-20,FollowUp,75.23,1.79,1,0.328,0,"Surveillance biologique rapprochée, protocole bien suivi à domicile.",0,53,M,Diabète,C,0.68,2,1.19,2024-03-20,0,1,46-60
+ce77a2a0332d3f35,2024-10-18,FollowUp,51.38,3.21,0,0.198,0,"Examen clinique sans particularité, traitement maintenu à l'identique et surveillance nécessaire.",0,53,M,Diabète,C,0.68,2,1.19,2024-03-20,212,2,46-60
+cf6ce13163e7293c,2024-06-10,FollowUp,43.09,2.91,0,0.298,0,"Mobilité articulaire conservée, patient adhère bien au protocole.",0,55,F,Diabète,B,0.79,4,2.2,2024-06-10,0,1,46-60
+cf6ce13163e7293c,2024-09-02,Routine,62.47,4.07,0,0.618,0,"Bonne tolérance depuis l'initiation, explications données au patient.",0,55,F,Diabète,B,0.79,4,2.2,2024-06-10,84,2,46-60
+cf6ce13163e7293c,2024-09-11,Routine,46.5,3.69,0,0.213,0,"Douleurs thoraciques absentes, recommandée par précaution.",0,55,F,Diabète,B,0.79,4,2.2,2024-06-10,93,3,46-60
+cf6ce13163e7293c,2024-10-24,FollowUp,69.37,0.94,0,0.132,0,"Patient satisfait de l'évolution, bon pronostic à court terme.",0,55,F,Diabète,B,0.79,4,2.2,2024-06-10,136,4,46-60
+d034bfec5eb2ea86,2024-08-03,FollowUp,63.35,5.13,0,0.588,0,"Amélioration du souffle, bilan biologique prescrit.",0,39,M,Oncologie,C,0.87,3,3.87,2024-08-03,0,1,31-45
+d29098754fb0a6bc,2024-04-22,FollowUp,22.47,4.28,0,0.406,0,"Légère baisse de l'appétit signalée, suivi téléphonique prévu.",0,60,M,HTA,C,0.92,5,1.85,2024-04-22,0,1,46-60
+d2ccb6e032c0548e,2024-07-02,FollowUp,41.01,1.61,0,0.308,1,"Aucun signe de décompensation, réévaluation dans six semaines.",0,57,F,Asthme,C,0.97,3,2.04,2024-07-02,0,1,46-60
+d2ccb6e032c0548e,2024-08-14,FollowUp,36.31,2.33,0,0.475,0,"Paramètres biologiques dans les normes, Sommeil de qualité rapporté, constatée lors de l'examen.",0,57,F,Asthme,C,0.97,3,2.04,2024-07-02,43,2,46-60
+d2ccb6e032c0548e,2024-08-28,Routine,29.6,6.59,0,0.707,1,"Fatigue résiduelle mentionnée, patient adhère bien au protocole.",0,57,F,Asthme,C,0.97,3,2.04,2024-07-02,57,3,46-60
+d2ccb6e032c0548e,2024-10-26,Routine,36.31,6.77,0,0.71,1,"Amélioration du souffle, recommandée par précaution.",1,57,F,Asthme,C,0.97,3,2.04,2024-07-02,116,4,46-60
+d3605dfac78964e3,2024-04-19,Routine,21.76,0.67,0,0.219,0,"Amélioration du souffle, consultation de suivi programmée.",0,73,M,Oncologie,A,0.79,3,4.63,2024-04-19,0,1,61-75
+d3aba9a5f19fc76f,2024-02-02,FollowUp,44.4,5.27,0,0.287,0,"Bonne réponse au traitement, adaptation autonome correcte.",0,61,M,HTA,B,0.86,3,4.26,2024-02-02,0,1,61-75
+d3aba9a5f19fc76f,2024-03-28,Emergency,20.31,4.6,0,0.481,0,"Hydratation correcte constatée, surveillance à poursuivre attentivement.",0,61,M,HTA,B,0.86,3,4.26,2024-02-02,55,2,61-75
+d3aba9a5f19fc76f,2024-06-25,FollowUp,50.62,3.41,0,0.375,0,"Symptômes respiratoires améliorés, poursuite du traitement actuel.",0,61,M,HTA,B,0.86,3,4.26,2024-02-02,144,3,61-75
+d3aba9a5f19fc76f,2024-11-13,Routine,78.01,5.2,0,0.299,0,"Diminution des symptômes inflammatoires, suivi téléphonique prévu.",0,61,M,HTA,B,0.86,3,4.26,2024-02-02,285,4,61-75
+d55a159a1a8230ad,2024-04-03,FollowUp,65.72,1.1,0,0.236,0,"Douleurs thoraciques absentes, ajustement thérapeutique discuté.",0,69,F,Polyarthrite,A,0.93,4,5.41,2024-04-03,0,1,61-75
+d55eed61fe28e180,2024-02-18,Emergency,62.16,4.72,0,0.337,0,"Glycémie correcte dans les objectifs, Légère prise de poids notée, bilan biologique prescrit.",0,44,M,Oncologie,B,0.98,3,2.38,2024-02-18,0,1,31-45
+d55eed61fe28e180,2024-11-19,FollowUp,63.33,5.26,0,0.442,1,"Symptômes respiratoires améliorés, moral bon du patient et orientation vers spécialiste si besoin.",0,44,M,Oncologie,B,0.98,3,2.38,2024-02-18,275,2,31-45
+d5d256029f49a0ed,2024-08-13,FollowUp,55.99,4.08,0,0.191,0,"Patient rapporte un meilleur sommeil, suivi téléphonique prévu.",0,43,M,Diabète,C,0.81,4,2.29,2024-08-13,0,1,31-45
+d5d256029f49a0ed,2024-09-24,Routine,34.87,1.52,0,0.262,0,"Mobilité articulaire conservée, conseils diététiques donnés.",0,43,M,Diabète,C,0.81,4,2.29,2024-08-13,42,2,31-45
+d5f3e605801f2282,2024-08-07,FollowUp,45.67,2.42,1,0.248,0,"Cicatrisation en bonne voie, pas d'effet indésirable signalé et dosage à réévaluer prochainement.",0,68,F,Diabète,A,0.83,3,4.28,2024-08-07,0,1,61-75
+d697bcd1e9579c17,2024-01-16,Emergency,33.6,3.01,0,0.562,1,"Glycémie correcte dans les objectifs, surveillance nécessaire.",0,71,F,Polyarthrite,B,0.83,5,3.08,2024-01-16,0,1,61-75
+d697bcd1e9579c17,2024-02-24,Emergency,41.585,5.93,0,0.346,0,"Mobilité articulaire conservée, État général satisfaisant, éducation thérapeutique renforcée.",1,71,F,Polyarthrite,B,0.83,5,3.08,2024-01-16,39,2,61-75
+d697bcd1e9579c17,2024-10-02,FollowUp,49.57,3.2,0,0.249,0,"Hydratation correcte constatée, éducation thérapeutique renforcée.",0,71,F,Polyarthrite,B,0.83,5,3.08,2024-01-16,260,3,61-75
+d72ff47961196c07,2024-02-15,Emergency,42.74,1.81,0,0.115,0,"Amélioration notable de la capacité fonctionnelle, dosage à réévaluer prochainement.",0,31,M,Diabète,C,0.94,4,4.73,2024-02-15,0,1,31-45
+d72ff47961196c07,2024-11-02,Routine,46.31,4.39,0,0.36,0,"Fatigue résiduelle mentionnée, État général satisfaisant, réévaluation dans six semaines.",0,31,M,Diabète,C,0.94,4,4.73,2024-02-15,261,2,31-45
+d72ff47961196c07,2024-11-08,Routine,56.27,3.59,0,0.329,0,"Cicatrisation en bonne voie, depuis la dernière visite.",0,31,M,Diabète,C,0.94,4,4.73,2024-02-15,267,3,31-45
+d82954a6dc3b9019,2024-02-10,FollowUp,47.93,2.9,0,0.346,0,"Aucune plainte particulière, dosage à réévaluer prochainement.",0,47,F,Asthme,A,0.83,4,2.14,2024-02-10,0,1,46-60
+d82954a6dc3b9019,2024-03-05,Routine,46.7,0.75,0,0.162,0,"Moral du patient bon, objectifs thérapeutiques atteints.",0,47,F,Asthme,A,0.83,4,2.14,2024-02-10,24,2,46-60
+d82954a6dc3b9019,2024-03-05,Routine,26.82,6.62,0,0.723,1,"Légère baisse de l'appétit signalée, surveillance à poursuivre attentivement.",0,47,F,Asthme,A,0.83,4,2.14,2024-02-10,24,3,46-60
+d82954a6dc3b9019,2024-06-09,FollowUp,55.83,3.33,0,0.443,0,"Symptômes respiratoires améliorés, état général satisfaisant.",0,47,F,Asthme,A,0.83,4,2.14,2024-02-10,120,4,46-60
+d850c6d42421f2af,2024-07-08,Emergency,47.43,2.4,0,0.128,0,"Sommeil de qualité rapporté, pas d'effet indésirable signalé.",0,42,M,Oncologie,B,1.0,1,3.03,2024-07-08,0,1,31-45
+d850c6d42421f2af,2024-07-19,Emergency,42.79,5.74,0,0.476,0,"Tension artérielle bien contrôlée, aucune interaction détectée.",0,42,M,Oncologie,B,1.0,1,3.03,2024-07-08,11,2,31-45
+d85d7239e5042c92,2024-01-04,Routine,32.0,2.53,0,0.307,0,"Symptômes respiratoires améliorés, objectifs thérapeutiques atteints.",0,39,F,Polyarthrite,A,0.91,3,3.53,2024-01-04,0,1,31-45
+d8dda6f4dd82b81e,2024-04-08,Routine,34.28,3.77,0,0.478,0,"Transit intestinal régulier, protocole bien suivi à domicile.",0,66,M,Diabète,B,0.85,4,2.79,2024-04-08,0,1,61-75
+d8dda6f4dd82b81e,2024-07-24,Routine,52.81,2.8,1,0.544,0,"Compliance médicamenteuse satisfaisante, aucune interaction détectée.",0,66,M,Diabète,B,0.85,4,2.79,2024-04-08,107,2,61-75
+d8dda6f4dd82b81e,2024-08-04,Routine,40.49,1.58,0,0.24,0,"Poids stable depuis dernière visite, Légère baisse de l'appétit signalée, patient rassuré sur l'évolution.",0,66,M,Diabète,B,0.85,4,2.79,2024-04-08,118,3,61-75
+d9e4c92152ef7af8,2024-11-29,Routine,27.16,2.0,0,0.328,0,"Léger oedème persistant, Poids stable depuis dernière visite, orientation vers spécialiste si besoin.",0,41,F,Asthme,C,0.9,5,0.77,2024-11-29,0,1,31-45
+da384340f5b050b1,2024-04-20,FollowUp,81.27,6.67,0,0.361,0,"Bonne tolérance depuis l'initiation, état général satisfaisant.",0,43,M,Polyarthrite,B,0.93,5,1.77,2024-04-20,0,1,31-45
+da384340f5b050b1,2024-04-28,Routine,40.3,1.08,0,0.35,0,"Diminution des symptômes inflammatoires, orientation vers spécialiste si besoin.",0,43,M,Polyarthrite,B,0.93,5,1.77,2024-04-20,8,2,31-45
+da384340f5b050b1,2024-07-21,Routine,48.88,4.98,0,0.256,0,"Patient signale des céphalées occasionnelles, protocole bien suivi à domicile.",0,43,M,Polyarthrite,B,0.93,5,1.77,2024-04-20,92,3,31-45
+da384340f5b050b1,2024-08-16,Emergency,46.91,2.16,1,0.534,0,"Léger oedème persistant, Moral du patient bon, objectifs thérapeutiques atteints.",0,43,M,Polyarthrite,B,0.93,5,1.77,2024-04-20,118,4,31-45
+db68b0c130da8951,2024-09-24,Routine,57.84,4.07,0,0.272,0,"Tension artérielle bien contrôlée, état général satisfaisant.",0,57,M,HTA,C,0.76,3,3.45,2024-09-24,0,1,46-60
+dba688a59d61da0f,2024-08-04,FollowUp,53.64,0.58,0,0.127,0,"Symptômes respiratoires améliorés, explications données au patient et aucune interaction détectée.",0,52,F,HTA,C,0.86,3,3.26,2024-08-04,0,1,46-60
+dba688a59d61da0f,2024-08-26,Routine,53.64,1.72,0,0.219,0,"Surveillance biologique rapprochée, Compliance médicamenteuse satisfaisante, poursuite du traitement actuel.",1,52,F,HTA,C,0.86,3,3.26,2024-08-04,22,2,46-60
+dbf331d18513d996,2024-01-21,FollowUp,29.55,4.02,0,0.369,0,"Douleurs articulaires atténuées, Bonne adhérence au protocole, éducation thérapeutique renforcée.",0,47,M,Diabète,B,0.81,4,0.44,2024-01-21,0,1,46-60
+dbf331d18513d996,2024-04-05,Routine,55.21,2.86,0,0.094,0,"Transit intestinal régulier, poursuite du traitement actuel.",0,47,M,Diabète,B,0.81,4,0.44,2024-01-21,75,2,46-60
+dbf331d18513d996,2024-04-20,Routine,67.59,4.35,0,0.441,1,"Légère baisse de l'appétit signalée, réévaluation dans six semaines.",0,47,M,Diabète,B,0.81,4,0.44,2024-01-21,90,3,46-60
+dbf331d18513d996,2024-06-12,Emergency,45.57,0.8,0,0.234,0,"Examen clinique sans particularité, patient rassuré sur l'évolution.",0,47,M,Diabète,B,0.81,4,0.44,2024-01-21,143,4,46-60
+dc3b2c9d534a2790,2024-05-04,FollowUp,70.44,7.64,0,0.639,1,"Douleurs thoraciques absentes, suivi téléphonique prévu.",0,72,F,Diabète,B,0.83,3,1.36,2024-05-04,0,1,61-75
+dc3b2c9d534a2790,2024-09-09,FollowUp,24.66,1.59,0,0.244,0,"Patient rapporte un meilleur sommeil, Aucune plainte particulière, réévaluation dans six semaines.",0,72,F,Diabète,B,0.83,3,1.36,2024-05-04,128,2,61-75
+dd2a9462874c03c1,2024-08-04,Routine,39.71,6.38,0,0.659,1,"Paramètres vitaux stables, conseils diététiques donnés.",0,77,F,Polyarthrite,A,0.82,2,0.62,2024-08-04,0,1,76+
+dd2a9462874c03c1,2024-08-22,Emergency,65.64,1.9,0,0.0,0,"Patient signale des céphalées occasionnelles, effets secondaires mineurs tolérables.",0,77,F,Polyarthrite,A,0.82,2,0.62,2024-08-04,18,2,76+
+dd2a9462874c03c1,2024-09-09,Routine,67.86,5.47,0,0.609,1,"Bonne adhérence au protocole, consultation de suivi programmée.",0,77,F,Polyarthrite,A,0.82,2,0.62,2024-08-04,36,3,76+
+dd2a9462874c03c1,2024-11-01,Routine,51.97,1.7,0,0.531,0,"Sommeil de qualité rapporté, recommandée par précaution.",0,77,F,Polyarthrite,A,0.82,2,0.62,2024-08-04,89,4,76+
+deab80f32a0cf02d,2024-02-04,Routine,30.31,3.77,0,0.303,0,"Patient rapporte un meilleur sommeil, moral bon du patient et objectifs thérapeutiques atteints.",0,45,M,Asthme,B,0.87,5,3.26,2024-02-04,0,1,31-45
+deab80f32a0cf02d,2024-03-07,FollowUp,52.77,4.47,0,0.465,0,"Tension artérielle bien contrôlée, ajustement thérapeutique discuté.",0,45,M,Asthme,B,0.87,5,3.26,2024-02-04,32,2,31-45
+dedb3b3ae891446d,2024-06-16,Routine,56.82,5.27,0,0.174,0,"Légère baisse de l'appétit signalée, Bonne adhérence au protocole, aucune interaction détectée.",0,46,F,Diabète,A,0.73,5,1.19,2024-06-16,0,1,46-60
+dedb3b3ae891446d,2024-07-10,Routine,78.14,1.37,0,0.125,0,"Réduction progressive de la posologie, Patient satisfait de l'évolution, constatée lors de l'examen.",0,46,F,Diabète,A,0.73,5,1.19,2024-06-16,24,2,46-60
+df12e3290e75bc61,2024-01-23,FollowUp,50.1,0.76,0,0.291,0,"Diminution des symptômes inflammatoires, Aucune plainte particulière, conseils diététiques donnés.",0,71,F,HTA,A,0.78,3,1.72,2024-01-23,0,1,61-75
+df12e3290e75bc61,2024-07-25,Routine,60.06,4.48,0,0.376,0,"Douleurs articulaires atténuées, poursuite du traitement actuel.",0,71,F,HTA,A,0.78,3,1.72,2024-01-23,184,2,61-75
+df12e3290e75bc61,2024-07-28,FollowUp,47.79,0.33,0,0.127,0,"Poids stable depuis dernière visite, aucune interaction détectée.",0,71,F,HTA,A,0.78,3,1.72,2024-01-23,187,3,61-75
+e05184c1f58012ab,2024-04-20,Routine,60.05,4.28,0,0.7,1,"Réduction progressive de la posologie, patient bien informé des signes d'alerte.",0,81,M,Diabète,A,0.72,4,5.5,2024-04-20,0,1,76+
+e35a8e42e15caafa,2024-10-24,Routine,62.84,1.29,0,0.052,0,"Sommeil de qualité rapporté, aucune interaction détectée.",0,60,F,Asthme,A,0.9,4,1.1,2024-10-24,0,1,46-60
+e35a8e42e15caafa,2024-11-14,Routine,38.6,2.87,0,0.379,0,"Aucun signe de décompensation, patient bien informé des signes d'alerte.",0,60,F,Asthme,A,0.9,4,1.1,2024-10-24,21,2,46-60
+e43f050c4a2f9adc,2024-09-06,Routine,59.71,0.41,0,0.129,0,"Mobilité articulaire conservée, conseils diététiques donnés.",0,47,M,Diabète,B,0.98,5,1.81,2024-09-06,0,1,46-60
+e4e05386aa27c43b,2024-04-22,FollowUp,44.83,2.81,0,0.194,0,"Amélioration notable de la capacité fonctionnelle, dosage à réévaluer prochainement.",0,37,M,Asthme,B,0.95,4,1.86,2024-04-22,0,1,31-45
+e4e05386aa27c43b,2024-06-27,Routine,37.78,5.14,0,0.335,0,"Bonne tolérance depuis l'initiation, imagerie complémentaire demandée.",0,37,M,Asthme,B,0.95,4,1.86,2024-04-22,66,2,31-45
+e4e05386aa27c43b,2024-06-28,FollowUp,47.72,3.56,0,0.382,0,"Poids stable depuis dernière visite, moral bon du patient.",0,37,M,Asthme,B,0.95,4,1.86,2024-04-22,67,3,31-45
+e4e05386aa27c43b,2024-10-07,FollowUp,39.94,0.77,0,0.21,0,"Poids stable depuis dernière visite, pas d'effet indésirable signalé.",0,37,M,Asthme,B,0.95,4,1.86,2024-04-22,168,4,31-45
+e4e05386aa27c43b,2024-11-13,Routine,57.76,4.01,0,0.323,0,"Fatigue résiduelle mentionnée, Auscultation pulmonaire normale, moral bon du patient.",0,37,M,Asthme,B,0.95,4,1.86,2024-04-22,205,5,31-45
+e613477ce223fa1b,2024-02-18,FollowUp,44.69,3.28,0,0.324,0,"Bonne tolérance depuis l'initiation, poursuite du traitement actuel.",0,73,F,Asthme,B,0.77,3,1.62,2024-02-18,0,1,61-75
+e613477ce223fa1b,2024-05-20,FollowUp,50.73,2.28,0,0.073,0,"Bonne adhérence au protocole, traitement maintenu à l'identique.",0,73,F,Asthme,B,0.77,3,1.62,2024-02-18,92,2,61-75
+e613477ce223fa1b,2024-06-02,Routine,66.05,0.93,0,0.195,0,"Diminution des symptômes inflammatoires, poursuite du traitement actuel.",0,73,F,Asthme,B,0.77,3,1.62,2024-02-18,105,3,61-75
+e613477ce223fa1b,2024-06-07,FollowUp,52.41,1.36,0,0.261,0,"Auscultation pulmonaire normale, pas de modification nécessaire.",0,73,F,Asthme,B,0.77,3,1.62,2024-02-18,110,4,61-75
+e6509682d2ff5dc6,2024-03-23,Routine,40.69,3.25,0,0.05,0,"Légère prise de poids notée, patient rassuré sur l'évolution.",0,59,M,Diabète,B,0.91,5,3.07,2024-03-23,0,1,46-60
+e6509682d2ff5dc6,2024-10-02,Routine,51.34,2.13,0,0.151,0,"Bonne tolérance depuis l'initiation, patient rassuré sur l'évolution.",0,59,M,Diabète,B,0.91,5,3.07,2024-03-23,193,2,46-60
+e6509682d2ff5dc6,2024-11-17,Routine,32.84,4.46,0,0.432,0,"Compliance médicamenteuse satisfaisante, poursuite du traitement actuel.",0,59,M,Diabète,B,0.91,5,3.07,2024-03-23,239,3,46-60
+e6f0789bb0183f0d,2024-05-06,FollowUp,54.78,0.94,0,0.251,0,"Bonne adhérence au protocole, bon pronostic à court terme et explications données au patient.",0,37,F,Polyarthrite,A,0.67,1,1.67,2024-05-06,0,1,31-45
+e6f0789bb0183f0d,2024-05-30,Routine,64.16,1.15,0,0.014,0,"Douleurs thoraciques absentes, dosage à réévaluer prochainement.",0,37,F,Polyarthrite,A,0.67,1,1.67,2024-05-06,24,2,31-45
+e6f0789bb0183f0d,2024-08-24,Routine,35.18,2.51,0,0.509,0,"Pas de signe d'infection, patient rassuré sur l'évolution.",0,37,F,Polyarthrite,A,0.67,1,1.67,2024-05-06,110,3,31-45
+e71522252c1f2950,2024-03-18,Routine,63.07,2.36,0,0.41,0,"Patient rapporte un meilleur sommeil, Glycémie correcte dans les objectifs, constatée lors de l'examen.",0,71,M,Oncologie,C,0.77,4,1.98,2024-03-18,0,1,61-75
+e71522252c1f2950,2024-06-16,FollowUp,62.54,1.53,0,0.509,0,"Examen clinique sans particularité, Fatigue résiduelle mentionnée, effets secondaires mineurs tolérables.",0,71,M,Oncologie,C,0.77,4,1.98,2024-03-18,90,2,61-75
+e71522252c1f2950,2024-08-23,Routine,42.37,0.8,0,0.239,0,"Léger oedème persistant, aucune interaction détectée.",0,71,M,Oncologie,C,0.77,4,1.98,2024-03-18,158,3,61-75
+e71522252c1f2950,2024-11-15,Routine,61.46,4.78,0,0.582,0,"Tension artérielle bien contrôlée, envisagée si amélioration.",0,71,M,Oncologie,C,0.77,4,1.98,2024-03-18,242,4,61-75
+e74e5ec6c4cec60a,2024-01-27,Routine,50.34,3.63,0,0.402,0,"Hydratation correcte constatée, moral bon du patient.",1,83,F,Polyarthrite,A,0.82,3,3.89,2024-01-27,0,1,76+
+e772dad2b624394f,2024-05-31,Routine,69.46,0.75,0,0.261,0,"Légère prise de poids notée, poursuite du traitement actuel.",0,78,M,Oncologie,B,0.77,4,2.08,2024-05-31,0,1,76+
+e81a67c8bc2bca73,2024-02-28,Routine,71.34,5.04,0,0.496,0,"Douleurs articulaires atténuées, imagerie complémentaire demandée.",0,68,M,Asthme,A,0.87,3,1.27,2024-02-28,0,1,61-75
+e81a67c8bc2bca73,2024-04-21,FollowUp,70.95,3.03,1,0.2,0,"Poids stable depuis dernière visite, patient rassuré sur l'évolution.",0,68,M,Asthme,A,0.87,3,1.27,2024-02-28,53,2,61-75
+e81a67c8bc2bca73,2024-06-27,Routine,38.76,2.6,0,0.422,0,"Stabilité hémodynamique observée, Hydratation correcte constatée, ajustement thérapeutique discuté.",0,68,M,Asthme,A,0.87,3,1.27,2024-02-28,120,3,61-75
+e858cbbff6658569,2024-06-24,Routine,72.93,5.16,0,0.342,0,"Tension artérielle bien contrôlée, réévaluation dans six semaines.",0,50,F,Polyarthrite,B,0.74,2,1.35,2024-06-24,0,1,46-60
+e858cbbff6658569,2024-07-15,Routine,37.21,3.94,0,0.628,1,"Moral du patient bon, explications données au patient.",0,50,F,Polyarthrite,B,0.74,2,1.35,2024-06-24,21,2,46-60
+e858cbbff6658569,2024-07-18,Routine,65.36,1.87,0,0.431,0,"Glycémie correcte dans les objectifs, réévaluation dans six semaines.",0,50,F,Polyarthrite,B,0.74,2,1.35,2024-06-24,24,3,46-60
+e858cbbff6658569,2024-09-14,Routine,44.22,3.79,0,0.515,0,"Hydratation correcte constatée, observance satisfaisante du patient et depuis la dernière visite.",0,50,F,Polyarthrite,B,0.74,2,1.35,2024-06-24,82,4,46-60
+e9b720c027c0abad,2024-02-20,FollowUp,50.77,2.35,0,0.137,0,"Aucune plainte particulière, envisagée si amélioration.",0,60,F,Asthme,C,0.95,4,4.72,2024-02-20,0,1,46-60
+e9b720c027c0abad,2024-10-27,Routine,65.6,2.42,0,0.216,0,"Diminution des symptômes inflammatoires, aucune réaction allergique observée.",0,60,F,Asthme,C,0.95,4,4.72,2024-02-20,250,2,46-60
+ea3c002c2247715e,2024-02-29,FollowUp,44.26,1.95,1,0.261,0,"Bonne tolérance depuis l'initiation, traitement maintenu à l'identique et bon pronostic à court terme.",0,31,M,Oncologie,C,0.87,4,2.04,2024-02-29,0,1,31-45
+ea3c002c2247715e,2024-03-29,Routine,59.34,2.67,0,0.062,0,"Douleurs articulaires atténuées, patient adhère bien au protocole.",0,31,M,Oncologie,C,0.87,4,2.04,2024-02-29,29,2,31-45
+ea857dc3c8eb8c80,2024-07-15,Routine,53.93,2.9,0,0.453,0,"Douleurs articulaires atténuées, ajustement thérapeutique discuté.",0,47,M,Diabète,A,0.89,3,2.73,2024-07-15,0,1,46-60
+ebe17bfb1ae5eae8,2024-09-25,FollowUp,52.65,2.46,1,0.228,0,"Symptômes respiratoires améliorés, patient rassuré sur l'évolution.",0,62,F,Oncologie,A,0.95,5,2.44,2024-09-25,0,1,61-75
+eca6c126ed44580f,2024-04-16,FollowUp,54.37,0.75,0,0.553,0,"Amélioration notable de la capacité fonctionnelle, moral bon du patient.",0,50,M,Diabète,A,0.68,4,0.78,2024-04-16,0,1,46-60
+eca6c126ed44580f,2024-08-03,Routine,52.07,0.39,0,0.571,1,"Réduction progressive de la posologie, orientation vers spécialiste si besoin.",0,50,M,Diabète,A,0.68,4,0.78,2024-04-16,109,2,46-60
+ed4f28179da81b9d,2024-01-02,Routine,44.82,2.74,0,0.088,0,"Tension artérielle bien contrôlée, poursuite du traitement actuel et traitement maintenu à l'identique.",0,44,M,Asthme,A,0.71,4,0.29,2024-01-02,0,1,31-45
+ed4f28179da81b9d,2024-03-14,Emergency,41.03,0.88,0,0.154,0,"Diminution des symptômes inflammatoires, Fonction rénale stable, patient rassuré sur l'évolution.",0,44,M,Asthme,A,0.71,4,0.29,2024-01-02,72,2,31-45
+ed4f28179da81b9d,2024-11-05,Routine,61.46,7.23,0,0.898,1,"Patient rapporte un meilleur sommeil, aucune interaction détectée.",0,44,M,Asthme,A,0.71,4,0.29,2024-01-02,308,3,31-45
+ed4f28179da81b9d,2024-11-30,Routine,34.93,1.1,0,0.478,1,"Légère baisse de l'appétit signalée, surveillance à poursuivre attentivement.",0,44,M,Asthme,A,0.71,4,0.29,2024-01-02,333,4,31-45
+ed9517fa7ab0040c,2024-03-10,Emergency,45.86,1.31,0,0.323,0,"Réduction progressive de la posologie, adaptation autonome correcte.",0,76,F,Asthme,A,0.85,3,5.05,2024-03-10,0,1,76+
+ed9517fa7ab0040c,2024-07-04,Routine,17.12,0.81,0,0.329,0,"Diminution des symptômes inflammatoires, Amélioration du souffle, contrôle dans trois mois prévu.",0,76,F,Asthme,A,0.85,3,5.05,2024-03-10,116,2,76+
+eda97d0b631702df,2024-01-17,Emergency,30.21,2.01,0,0.395,0,"Résultats biologiques en amélioration, Cicatrisation en bonne voie, imagerie complémentaire demandée.",0,55,F,HTA,B,0.69,1,1.66,2024-01-17,0,1,46-60
+eda97d0b631702df,2024-01-25,Emergency,70.32,4.56,1,0.404,0,"Tension artérielle bien contrôlée, dosage à réévaluer prochainement.",0,55,F,HTA,B,0.69,1,1.66,2024-01-17,8,2,46-60
+eda97d0b631702df,2024-09-26,Routine,37.71,2.39,0,0.267,0,"Patient signale des céphalées occasionnelles, patient adhère bien au protocole.",0,55,F,HTA,B,0.69,1,1.66,2024-01-17,253,3,46-60
+ede29a16eab6d757,2024-02-08,Routine,51.98,1.72,0,0.132,0,"Fonction rénale stable, Moral du patient bon, objectifs thérapeutiques atteints.",0,36,F,Asthme,C,0.89,3,1.42,2024-02-08,0,1,31-45
+ee8f755d71eb22db,2024-02-07,Routine,33.34,3.17,0,0.254,0,"Pas de signe d'infection, éducation thérapeutique renforcée.",0,69,M,Asthme,A,0.76,2,4.53,2024-02-07,0,1,61-75
+ee8f755d71eb22db,2024-05-21,Routine,33.55,3.01,0,0.621,0,"Légère baisse de l'appétit signalée, objectifs thérapeutiques atteints.",0,69,M,Asthme,A,0.76,2,4.53,2024-02-07,104,2,61-75
+ee8f755d71eb22db,2024-05-25,FollowUp,35.53,4.01,0,0.442,1,"Patient satisfait de l'évolution, réévaluation dans six semaines.",0,69,M,Asthme,A,0.76,2,4.53,2024-02-07,108,3,61-75
+ee8f755d71eb22db,2024-07-07,FollowUp,71.98,3.1,0,0.468,0,"Patient rapporte un meilleur sommeil, moral bon du patient et suivi téléphonique prévu.",0,69,M,Asthme,A,0.76,2,4.53,2024-02-07,151,4,61-75
+ee8f755d71eb22db,2024-07-11,Routine,51.28,1.74,0,0.502,0,"Aucune plainte particulière, Paramètres biologiques dans les normes, pas de modification nécessaire.",0,69,M,Asthme,A,0.76,2,4.53,2024-02-07,155,5,61-75
+ef44ede7e7925ee6,2024-01-22,Routine,13.13,1.27,0,0.303,0,"Aucun signe de décompensation, moral bon du patient.",0,81,M,HTA,A,0.9,3,2.36,2024-01-22,0,1,76+
+ef44ede7e7925ee6,2024-07-14,Routine,73.48,0.72,1,0.0,0,"État général satisfaisant, recommandée par précaution.",0,81,M,HTA,A,0.9,3,2.36,2024-01-22,174,2,76+
+ef44ede7e7925ee6,2024-10-11,FollowUp,55.89,0.73,0,0.0,0,"Douleurs thoraciques absentes, pas de modification nécessaire.",0,81,M,HTA,A,0.9,3,2.36,2024-01-22,263,3,76+
+f03c1a514b0fb29f,2024-02-23,FollowUp,39.2,1.34,0,0.205,0,"Sommeil de qualité rapporté, surveillance nécessaire.",0,57,F,Diabète,B,0.79,4,1.98,2024-02-23,0,1,46-60
+f03c1a514b0fb29f,2024-05-29,Routine,63.36,3.32,0,0.284,0,"Légère baisse de l'appétit signalée, adaptation autonome correcte.",0,57,F,Diabète,B,0.79,4,1.98,2024-02-23,96,2,46-60
+f03c1a514b0fb29f,2024-06-22,FollowUp,36.48,1.39,0,0.037,0,"Bonne adhérence au protocole, Stabilité hémodynamique observée, explications données au patient.",0,57,F,Diabète,B,0.79,4,1.98,2024-02-23,120,3,46-60
+f0441ac9482cdd4b,2024-03-29,FollowUp,7.66,4.85,0,0.844,1,"Sommeil de qualité rapporté, patient bien informé des signes d'alerte.",0,49,F,HTA,A,0.85,5,1.42,2024-03-29,0,1,46-60
+f0441ac9482cdd4b,2024-04-22,FollowUp,21.59,2.69,0,0.269,0,"Auscultation pulmonaire normale, Bonne adhérence au protocole, consultation de suivi programmée.",0,49,F,HTA,A,0.85,5,1.42,2024-03-29,24,2,46-60
+f0441ac9482cdd4b,2024-08-13,Routine,36.57,4.2,0,0.478,0,"Moral du patient bon, patient bien informé des signes d'alerte.",0,49,F,HTA,A,0.85,5,1.42,2024-03-29,137,3,46-60
+f1ebf79db4b0f7e5,2024-07-03,Routine,58.61,3.92,0,0.264,0,"Glycémie correcte dans les objectifs, Fonction rénale stable, explications données au patient.",0,42,M,Diabète,B,0.9,4,1.92,2024-07-03,0,1,31-45
+f20c9812b7676f8a,2024-04-13,Routine,68.36,2.77,0,0.0,0,"Bonne réponse au traitement, réévaluation dans six semaines.",0,49,F,Asthme,A,0.87,1,1.81,2024-04-13,0,1,46-60
+f20c9812b7676f8a,2024-08-21,Routine,54.88,2.09,0,0.281,0,"Tension artérielle bien contrôlée, Hydratation correcte constatée, aucune interaction détectée.",0,49,F,Asthme,A,0.87,1,1.81,2024-04-13,130,2,46-60
+f20c9812b7676f8a,2024-09-06,Routine,64.86,2.34,0,0.435,1,"Bonne tolérance depuis l'initiation, Mobilité articulaire conservée, surveillance à poursuivre attentivement.",0,49,F,Asthme,A,0.87,1,1.81,2024-04-13,146,3,46-60
+f20c9812b7676f8a,2024-09-19,FollowUp,56.58,0.72,0,0.31,0,"Cicatrisation en bonne voie, Patient satisfait de l'évolution, explications données au patient.",0,49,F,Asthme,A,0.87,1,1.81,2024-04-13,159,4,46-60
+f3cf41b28889c405,2024-01-18,Routine,37.51,2.07,0,0.139,0,"Tension artérielle bien contrôlée, ajustement thérapeutique discuté.",0,47,F,Asthme,B,0.85,5,0.64,2024-01-18,0,1,46-60
+f3cf41b28889c405,2024-02-11,FollowUp,91.23,4.11,0,0.403,0,"Cicatrisation en bonne voie, aucune réaction allergique observée.",0,47,F,Asthme,B,0.85,5,0.64,2024-01-18,24,2,46-60
+f3cf41b28889c405,2024-02-13,FollowUp,41.81,1.67,0,0.157,0,"Léger oedème persistant, objectifs thérapeutiques atteints.",0,47,F,Asthme,B,0.85,5,0.64,2024-01-18,26,3,46-60
+f3cf41b28889c405,2024-03-28,FollowUp,28.64,1.9,0,0.388,0,"Patient signale des céphalées occasionnelles, réévaluation dans six semaines.",0,47,F,Asthme,B,0.85,5,0.64,2024-01-18,70,4,46-60
+f3cf41b28889c405,2024-10-13,Routine,52.98,4.67,0,0.729,1,"Surveillance biologique rapprochée, ajustement thérapeutique discuté.",0,47,F,Asthme,B,0.85,5,0.64,2024-01-18,269,5,46-60
+f4796a97b78a45c1,2024-02-16,FollowUp,27.01,2.46,1,0.465,0,"Glycémie correcte dans les objectifs, surveillance à poursuivre attentivement.",0,63,F,Polyarthrite,A,0.85,4,0.68,2024-02-16,0,1,61-75
+f4796a97b78a45c1,2024-05-31,Routine,55.54,5.18,0,0.537,1,"Paramètres biologiques dans les normes, constatée lors de l'examen.",0,63,F,Polyarthrite,A,0.85,4,0.68,2024-02-16,105,2,61-75
+f4f97f2dc9052dc2,2024-07-26,Routine,50.42,2.28,0,0.158,0,"Légère prise de poids notée, conseils diététiques donnés.",0,57,F,Asthme,C,0.71,3,3.68,2024-07-26,0,1,46-60
+f50cc9aa56a7718f,2024-01-13,Routine,37.49,2.84,0,0.276,0,"Léger oedème persistant, traitement maintenu à l'identique.",0,37,F,Diabète,C,0.86,4,2.62,2024-01-13,0,1,31-45
+f50cc9aa56a7718f,2024-05-19,Emergency,65.88,3.67,0,0.339,0,"Stabilité hémodynamique observée, état général satisfaisant.",0,37,F,Diabète,C,0.86,4,2.62,2024-01-13,127,2,31-45
+f50cc9aa56a7718f,2024-06-23,Routine,47.99,2.92,1,0.144,0,"Patient signale des céphalées occasionnelles, Bonne adhérence au protocole, état général satisfaisant.",0,37,F,Diabète,C,0.86,4,2.62,2024-01-13,162,3,31-45
+f50cc9aa56a7718f,2024-07-27,Routine,73.94,4.95,0,0.472,0,"Bonne tolérance depuis l'initiation, Douleurs thoraciques absentes, imagerie complémentaire demandée.",0,37,F,Diabète,C,0.86,4,2.62,2024-01-13,196,4,31-45
+f50cc9aa56a7718f,2024-11-02,Routine,42.68,1.76,0,0.0,0,"Sommeil de qualité rapporté, Paramètres biologiques dans les normes, bilan biologique prescrit.",0,37,F,Diabète,C,0.86,4,2.62,2024-01-13,294,5,31-45
+f541ae8d7c16d070,2024-01-01,Routine,37.25,4.32,0,0.6,1,"Patient rapporte un meilleur sommeil, observance satisfaisante du patient.",0,88,F,Diabète,C,0.87,2,3.32,2024-01-01,0,1,76+
+f541ae8d7c16d070,2024-06-28,Routine,71.11,2.21,0,0.089,0,"État général satisfaisant, objectifs thérapeutiques atteints.",0,88,F,Diabète,C,0.87,2,3.32,2024-01-01,179,2,76+
+f541ae8d7c16d070,2024-07-18,FollowUp,59.26,0.72,0,0.0,0,"Bonne réponse au traitement, explications données au patient.",0,88,F,Diabète,C,0.87,2,3.32,2024-01-01,199,3,76+
+f541ae8d7c16d070,2024-10-24,Emergency,43.08,4.45,1,0.388,0,"Tension artérielle bien contrôlée, imagerie complémentaire demandée.",0,88,F,Diabète,C,0.87,2,3.32,2024-01-01,297,4,76+
+f59f9cb8c2dc7f07,2024-02-26,FollowUp,47.79,5.69,0,0.61,1,"Moral du patient bon, patient adhère bien au protocole.",0,41,F,Oncologie,A,0.96,1,3.58,2024-02-26,0,1,31-45
+f59f9cb8c2dc7f07,2024-03-03,FollowUp,58.38,1.17,0,0.158,0,"Patient satisfait de l'évolution, objectifs thérapeutiques atteints.",0,41,F,Oncologie,A,0.96,1,3.58,2024-02-26,6,2,31-45
+f59f9cb8c2dc7f07,2024-04-05,FollowUp,38.98,2.58,0,0.352,0,"État général satisfaisant, effets secondaires mineurs tolérables.",0,41,F,Oncologie,A,0.96,1,3.58,2024-02-26,39,3,31-45
+f59f9cb8c2dc7f07,2024-06-20,Routine,47.27,2.06,0,0.27,0,"Auscultation pulmonaire normale, adaptation autonome correcte.",0,41,F,Oncologie,A,0.96,1,3.58,2024-02-26,115,4,31-45
+f6724af327f5bf1c,2024-06-24,Routine,61.94,4.13,0,0.418,0,"Moral du patient bon, moral bon du patient.",0,57,F,HTA,B,0.85,3,1.79,2024-06-24,0,1,46-60
+f6724af327f5bf1c,2024-10-12,Routine,62.61,4.11,0,0.316,0,"Transit intestinal régulier, aucune réaction allergique observée.",0,57,F,HTA,B,0.85,3,1.79,2024-06-24,110,2,46-60
+f6b50eadb45dd6a7,2024-04-03,Routine,55.19,4.91,0,0.523,1,"Pas de signe d'infection, explications données au patient.",0,49,M,HTA,C,0.84,3,3.63,2024-04-03,0,1,46-60
+f6b50eadb45dd6a7,2024-06-16,Routine,61.41,1.64,0,0.056,0,"Transit intestinal régulier, patient bien informé des signes d'alerte.",0,49,M,HTA,C,0.84,3,3.63,2024-04-03,74,2,46-60
+f6b50eadb45dd6a7,2024-08-02,Routine,69.08,3.37,1,0.481,0,"Fonction rénale stable, suivi téléphonique prévu.",0,49,M,HTA,C,0.84,3,3.63,2024-04-03,121,3,46-60
+f6b50eadb45dd6a7,2024-08-14,Routine,55.45,0.73,0,0.216,0,"Tension artérielle bien contrôlée, poursuite du traitement actuel.",0,49,M,HTA,C,0.84,3,3.63,2024-04-03,133,4,46-60
+f6dc3fc8d0bc9f54,2024-01-07,FollowUp,72.3,4.54,0,0.154,0,"Douleurs articulaires atténuées, état général satisfaisant.",0,18,M,Polyarthrite,C,0.74,5,4.06,2024-01-07,0,1,18-30
+f6dc3fc8d0bc9f54,2024-01-24,Routine,65.86,0.49,0,0.011,0,"Fonction rénale stable, observance satisfaisante du patient.",0,18,M,Polyarthrite,C,0.74,5,4.06,2024-01-07,17,2,18-30
+f6dc3fc8d0bc9f54,2024-07-07,Routine,57.83,2.92,0,0.303,0,"Légère prise de poids notée, Mobilité articulaire conservée, aucune réaction allergique observée.",0,18,M,Polyarthrite,C,0.74,5,4.06,2024-01-07,182,3,18-30
+f6dc3fc8d0bc9f54,2024-07-27,Routine,53.17,2.85,0,0.442,0,"Tension artérielle bien contrôlée, Surveillance biologique rapprochée, depuis la dernière visite.",0,18,M,Polyarthrite,C,0.74,5,4.06,2024-01-07,202,4,18-30
+f6dc3fc8d0bc9f54,2024-10-02,Routine,58.86,3.02,0,0.445,0,"Diminution des symptômes inflammatoires, consultation de suivi programmée.",0,18,M,Polyarthrite,C,0.74,5,4.06,2024-01-07,269,5,18-30
+f75ddfe92cd9f8df,2024-02-08,Emergency,57.58,4.92,0,0.309,0,"Auscultation pulmonaire normale, patient bien informé des signes d'alerte.",0,61,F,Oncologie,A,0.82,4,2.33,2024-02-08,0,1,61-75
+f75ddfe92cd9f8df,2024-05-14,Emergency,30.61,1.65,0,0.429,0,"Diminution des symptômes inflammatoires, Légère baisse de l'appétit signalée, effets secondaires mineurs tolérables.",0,61,F,Oncologie,A,0.82,4,2.33,2024-02-08,96,2,61-75
+f75ddfe92cd9f8df,2024-08-16,FollowUp,26.81,6.93,0,0.777,1,"Compliance médicamenteuse satisfaisante, envisagée si amélioration.",0,61,F,Oncologie,A,0.82,4,2.33,2024-02-08,190,3,61-75
+f75ddfe92cd9f8df,2024-09-09,Routine,58.39,1.26,1,0.0,0,"Stabilité hémodynamique observée, bon pronostic à court terme.",0,61,F,Oncologie,A,0.82,4,2.33,2024-02-08,214,4,61-75
+f9f167666d18b1e0,2024-02-18,Routine,41.96,2.18,0,0.224,0,"Examen clinique sans particularité, Bonne réponse au traitement, surveillance nécessaire.",0,50,M,Diabète,A,1.0,4,3.78,2024-02-18,0,1,46-60
+f9f167666d18b1e0,2024-03-30,Routine,77.67,3.53,0,0.239,0,"Patient signale des céphalées occasionnelles, objectifs thérapeutiques atteints.",0,50,M,Diabète,A,1.0,4,3.78,2024-02-18,41,2,46-60
+f9f167666d18b1e0,2024-04-26,Routine,64.93,1.42,0,0.226,0,"Légère baisse de l'appétit signalée, Douleurs thoraciques absentes, depuis la dernière visite.",0,50,M,Diabète,A,1.0,4,3.78,2024-02-18,68,3,46-60
+f9f167666d18b1e0,2024-10-30,FollowUp,56.72,3.38,0,0.222,0,"Légère baisse de l'appétit signalée, Surveillance biologique rapprochée, aucune réaction allergique observée.",0,50,M,Diabète,A,1.0,4,3.78,2024-02-18,255,4,46-60
+fa4cedf31b643396,2024-01-13,Routine,67.95,2.1,0,0.301,0,"Cicatrisation en bonne voie, constatée lors de l'examen.",0,53,M,HTA,B,0.86,3,3.66,2024-01-13,0,1,46-60
+fa4cedf31b643396,2024-03-12,Routine,46.86,1.31,0,0.0,0,"Légère prise de poids notée, dosage à réévaluer prochainement.",0,53,M,HTA,B,0.86,3,3.66,2024-01-13,59,2,46-60
+fa4cedf31b643396,2024-05-29,Emergency,48.58,3.01,0,0.39,0,"Bonne réponse au traitement, adaptation autonome correcte.",0,53,M,HTA,B,0.86,3,3.66,2024-01-13,137,3,46-60
+fa4cedf31b643396,2024-07-07,FollowUp,37.12,2.85,0,0.208,0,"Cicatrisation en bonne voie, bon pronostic à court terme.",0,53,M,HTA,B,0.86,3,3.66,2024-01-13,176,4,46-60
+fa4cedf31b643396,2024-07-29,Emergency,37.74,0.3,0,0.27,0,"Fonction rénale stable, observance satisfaisante du patient.",0,53,M,HTA,B,0.86,3,3.66,2024-01-13,198,5,46-60
+fb8118a3c65bfd2c,2024-05-28,FollowUp,56.16,4.18,0,0.24,0,"Paramètres vitaux stables, traitement maintenu à l'identique.",0,59,M,HTA,B,0.81,3,1.37,2024-05-28,0,1,46-60
+fbeae7c18667b698,2024-01-01,FollowUp,41.9,0.81,0,0.042,0,"Résultats biologiques en amélioration, traitement maintenu à l'identique.",0,79,M,Asthme,B,0.92,5,2.49,2024-01-01,0,1,76+
+fbeae7c18667b698,2024-02-10,Routine,42.58,1.45,0,0.0,0,"Léger oedème persistant, surveillance à poursuivre attentivement et traitement maintenu à l'identique.",0,79,M,Asthme,B,0.92,5,2.49,2024-01-01,40,2,76+
+fbeae7c18667b698,2024-02-23,Routine,48.34,5.15,0,0.376,0,"Stabilité hémodynamique observée, poursuite du traitement actuel.",0,79,M,Asthme,B,0.92,5,2.49,2024-01-01,53,3,76+
+fbeae7c18667b698,2024-09-12,Routine,52.13,2.88,1,0.221,0,"Douleurs articulaires atténuées, Transit intestinal régulier, aucune interaction détectée.",0,79,M,Asthme,B,0.92,5,2.49,2024-01-01,255,4,76+
+fbeae7c18667b698,2024-10-29,FollowUp,53.36,2.26,0,0.243,0,"Sommeil de qualité rapporté, constatée lors de l'examen.",0,79,M,Asthme,B,0.92,5,2.49,2024-01-01,302,5,76+
+fc7c9f95a96b68a2,2024-01-22,Emergency,64.54,0.85,0,0.176,0,"Douleurs thoraciques absentes, Bonne réponse au traitement, bilan biologique prescrit.",0,46,F,HTA,B,0.75,4,3.47,2024-01-22,0,1,46-60
+fc7c9f95a96b68a2,2024-06-06,Routine,50.03,0.96,0,0.033,0,"Patient rapporte un meilleur sommeil, protocole bien suivi à domicile.",0,46,F,HTA,B,0.75,4,3.47,2024-01-22,136,2,46-60
+fcc06895b5b8af35,2024-03-08,Routine,72.62,0.5,0,0.253,0,"Patient signale des céphalées occasionnelles, objectifs thérapeutiques atteints.",0,69,F,Asthme,A,0.81,4,3.87,2024-03-08,0,1,61-75
+fcc06895b5b8af35,2024-05-24,Routine,57.2,1.5,0,0.159,0,"Tension artérielle bien contrôlée, aucune interaction détectée.",0,69,F,Asthme,A,0.81,4,3.87,2024-03-08,77,2,61-75
+fd41feaf3e548316,2024-02-28,Routine,47.73,2.83,0,0.345,0,"Hydratation correcte constatée, Stabilité hémodynamique observée, pas de modification nécessaire.",0,46,M,Diabète,B,0.89,4,3.25,2024-02-28,0,1,46-60
+fd41feaf3e548316,2024-08-02,Routine,49.39,5.5,0,0.561,1,"Bonne adhérence au protocole, protocole bien suivi à domicile.",0,46,M,Diabète,B,0.89,4,3.25,2024-02-28,156,2,46-60
+fd915def246a0be4,2024-05-23,FollowUp,47.76,1.2,0,0.23,0,"Légère prise de poids notée, objectifs thérapeutiques atteints.",0,53,F,HTA,C,0.74,3,4.76,2024-05-23,0,1,46-60
+fd915def246a0be4,2024-07-27,FollowUp,77.3,2.3,0,0.202,0,"Pas de signe d'infection, surveillance à poursuivre attentivement.",0,53,F,HTA,C,0.74,3,4.76,2024-05-23,65,2,46-60
+fd915def246a0be4,2024-11-17,Routine,58.37,3.43,0,0.217,0,"État général satisfaisant, Douleurs thoraciques absentes, bilan biologique prescrit.",0,53,F,HTA,C,0.74,3,4.76,2024-05-23,178,3,46-60
+fe12df56fd83909d,2024-01-10,Routine,34.33,0.32,0,0.164,0,"Stabilité hémodynamique observée, Bonne réponse au traitement, éducation thérapeutique renforcée.",0,36,M,Polyarthrite,A,0.88,4,4.85,2024-01-10,0,1,31-45
+fe12df56fd83909d,2024-07-08,FollowUp,38.28,2.12,0,0.121,0,"Douleurs articulaires atténuées, dosage à réévaluer prochainement.",0,36,M,Polyarthrite,A,0.88,4,4.85,2024-01-10,180,2,31-45
+fe61b68085e829f4,2024-10-07,FollowUp,51.06,1.42,0,0.034,0,"Poids stable depuis dernière visite, observance satisfaisante du patient et traitement maintenu à l'identique.",0,50,F,HTA,A,0.89,5,3.08,2024-10-07,0,1,46-60
+ff19d9a7affb1a05,2024-07-28,Emergency,75.96,1.41,1,0.146,0,"Léger oedème persistant, ajustement thérapeutique discuté.",0,72,M,HTA,A,0.78,3,4.38,2024-07-28,0,1,61-75
+ff19d9a7affb1a05,2024-10-15,Routine,45.73,2.55,1,0.301,0,"Bonne réponse au traitement, envisagée si amélioration.",0,72,M,HTA,A,0.78,3,4.38,2024-07-28,79,2,61-75
+fffdd0161c6822b7,2024-08-23,Routine,25.76,2.31,0,0.015,0,"Paramètres vitaux stables, aucune interaction détectée.",0,74,M,HTA,A,0.9,5,5.62,2024-08-23,0,1,61-75
